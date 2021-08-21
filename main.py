@@ -8,23 +8,35 @@ searchResult = gh.search_code(query='IDalamudPlugin language:C#')
 
 # extract repos from search result
 data = []
-for record in searchResult:
-    data.append([record.repository.owner.login, record.repository.name, record.repository.html_url,
-                 record.repository.updated_at])
+for repo in searchResult:
+    data.append([repo.repository.owner.login, repo.repository.name, repo.repository.html_url,
+                 repo.repository.updated_at, 'false'])
+    for repoFork in repo.repository.get_forks():
+        # noinspection PyBroadException
+        try:
+            if repo.repository.compare(repo.repository.default_branch,
+                                       repoFork.owner.login + ":" + repoFork.default_branch).ahead_by > 0:
+                data.append([repoFork.owner.login, repoFork.name, repoFork.html_url, repoFork.updated_at, 'true'])
+        except Exception:
+            pass
 
 # create df
-df = pd.DataFrame(data, columns=['Author', 'Name', 'URL', 'LastUpdated'])
+df = pd.DataFrame(data, columns=['Author', 'Name', 'URL', 'LastUpdated', 'IsFork'])
 
 # remove dupes
 df = df.drop_duplicates()
 
 # remove blacklisted matches (e.g. dalamud, false positives, test projects)
-dfd = pd.read_csv('docs/_data/blacklist.csv', header=None, names=['URL'])
-blacklist = dfd.URL.tolist()
-df = df[~df.URL.isin(blacklist)]
+dfd = pd.read_csv('docs/_data/blacklist.csv', header=None, names=['Name'])
+blacklist = dfd.Name.tolist()
+df = df[~df.Name.isin(blacklist)]
 
 # sort by last updated
 df.sort_values(by=['LastUpdated'], inplace=True, ascending=False)
+
+# update forks
+df.loc[df.IsFork == 'true', 'Name'] = df['Name'] + ' (fork)'
+del df['IsFork']
 
 # remove timestamps for cleaner table
 df['LastUpdated'] = pd.to_datetime(df['LastUpdated']).dt.date
