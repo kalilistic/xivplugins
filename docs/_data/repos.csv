@@ -1,4 +1,5 @@
 Author,Name,URL,LastUpdated
+Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-08-21
 LeonBlade,BDTHPlugin,https://github.com/LeonBlade/BDTHPlugin,2021-08-21
 Ms-Tress,AetherSense,https://github.com/Ms-Tress/AetherSense,2021-08-21
 Ottermandias,Glamourer,https://github.com/Ottermandias/Glamourer,2021-08-20
@@ -13,7 +14,6 @@ xivdev,Penumbra,https://github.com/xivdev/Penumbra,2021-08-20
 lmcintyre,DamageInfoPlugin,https://github.com/lmcintyre/DamageInfoPlugin,2021-08-20
 karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-08-19
 0ceal0t,JobBars,https://github.com/0ceal0t/JobBars,2021-08-19
-Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-08-19
 kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-08-19
 sauyri,XIVComboPlugin,https://github.com/sauyri/XIVComboPlugin,2021-08-18
 rvazarkar,XIVQuickBossNotes,https://github.com/rvazarkar/XIVQuickBossNotes,2021-08-18
@@ -97,7 +97,6 @@ Aireil,FFLogsViewer,https://github.com/Aireil/FFLogsViewer,2021-07-12
 Arrenton,KingdomHeartsPlugin,https://github.com/Arrenton/KingdomHeartsPlugin,2021-07-12
 Caraxi,MacroRecursion,https://github.com/Caraxi/MacroRecursion,2021-07-08
 CynicalNicole,XIVPeeChat,https://github.com/CynicalNicole/XIVPeeChat,2021-07-08
-kalilistic,DalamudSamplePlugin,https://github.com/kalilistic/DalamudSamplePlugin,2021-07-03
 HatTheTurtle,QuietGlamours,https://github.com/HatTheTurtle/QuietGlamours,2021-07-03
 Caraxi,AllowDebug,https://github.com/Caraxi/AllowDebug,2021-07-03
 karashiiro,SoundSetter,https://github.com/karashiiro/SoundSetter,2021-07-01
@@ -165,11 +164,9 @@ pohky,TeleporterPlugin,https://github.com/pohky/TeleporterPlugin,2021-04-08
 lmcintyre,Housemate,https://github.com/lmcintyre/Housemate,2021-04-05
 goaaats,Dalamud.RichPresence,https://github.com/goaaats/Dalamud.RichPresence,2021-03-30
 LittleNightmare,RunWarriorOfLightRun,https://github.com/LittleNightmare/RunWarriorOfLightRun,2021-03-24
-lmcintyre,DalamudImGui182Examples,https://github.com/lmcintyre/DalamudImGui182Examples,2021-03-23
 kalilistic,BetterProfanityFilter,https://github.com/kalilistic/BetterProfanityFilter,2021-03-21
 bugboyo,CameraPlugin,https://github.com/bugboyo/CameraPlugin,2021-03-17
 daemitus,CalamityPlugin,https://github.com/daemitus/CalamityPlugin,2021-03-16
-oliviea,test,https://github.com/oliviea/test,2021-02-27
 0ceal0t,Dalamud-GaugeAura,https://github.com/0ceal0t/Dalamud-GaugeAura,2021-02-23
 avafloww,CarbyScript,https://github.com/avafloww/CarbyScript,2021-02-22
 omnoid,bdth-unblocked,https://github.com/omnoid/bdth-unblocked,2021-02-18
