@@ -1,4 +1,5 @@
 Author,Name,URL,LastUpdated
+Rylith,OpenerLearner,https://github.com/Rylith/OpenerLearner,2021-08-21
 Eternita-S,Weatherman,https://github.com/Eternita-S/Weatherman,2021-08-21
 jdsmith2816,delvui,https://github.com/jdsmith2816/delvui,2021-08-21
 Ottermandias,Glamourer,https://github.com/Ottermandias/Glamourer,2021-08-21
@@ -36,7 +37,6 @@ talimity,MPTimer,https://github.com/talimity/MPTimer,2021-08-15
 xorus,EngageTimer,https://github.com/xorus/EngageTimer,2021-08-15
 Caraxi,FPSPlugin,https://github.com/Caraxi/FPSPlugin,2021-08-15
 ButchMonkey,TooltipMBData,https://github.com/ButchMonkey/TooltipMBData,2021-08-14
-Rylith,OpenerLearner,https://github.com/Rylith/OpenerLearner,2021-08-14
 PrototypeSeiren,StarlightBreaker,https://github.com/PrototypeSeiren/StarlightBreaker,2021-08-13
 Caraxi,PartyListLayout,https://github.com/Caraxi/PartyListLayout,2021-08-13
 a08381,Dalamud.SkipCutscene,https://github.com/a08381/Dalamud.SkipCutscene,2021-08-13
@@ -132,6 +132,7 @@ fitzchivalrik,HUDVignette,https://github.com/fitzchivalrik/HUDVignette,2021-07-0
 lmcintyre,OrchestrionPlugin (fork),https://github.com/lmcintyre/OrchestrionPlugin,2021-07-01
 tesu,PennyPincher,https://github.com/tesu/PennyPincher,2021-07-01
 Bluefissure,Inviter,https://github.com/Bluefissure/Inviter,2021-06-29
+lgardner462,PT,https://github.com/lgardner462/PT,2021-06-28
 cadaeix,XIVLogger,https://github.com/cadaeix/XIVLogger,2021-06-27
 fitzchivalrik,compass,https://github.com/fitzchivalrik/compass,2021-06-26
 ModdingFox,FFXIVDiscordBot,https://github.com/ModdingFox/FFXIVDiscordBot,2021-06-25
@@ -238,7 +239,6 @@ avafloww,CarbyScript,https://github.com/avafloww/CarbyScript,2021-02-22
 Xyghra,FPS-Limiter (fork),https://github.com/Xyghra/FPS-Limiter,2021-02-18
 omnoid,bdth-unblocked,https://github.com/omnoid/bdth-unblocked,2021-02-18
 lmcintyre,SimpleTweaksPlugin (fork),https://github.com/lmcintyre/SimpleTweaksPlugin,2021-02-13
-lmcintyre,posetest,https://github.com/lmcintyre/posetest,2021-01-26
 ChalkPE,Syrcus,https://github.com/ChalkPE/Syrcus,2021-01-09
 Haplo064,ffxiv-chat-extender,https://github.com/Haplo064/ffxiv-chat-extender,2021-01-02
 daemitus,ClickIt,https://github.com/daemitus/ClickIt,2021-01-01
@@ -256,7 +256,6 @@ goaaats,dalamudvox,https://github.com/goaaats/dalamudvox,2020-11-19
 Strati,XIVLauncher-Spotify,https://github.com/Strati/XIVLauncher-Spotify,2020-11-16
 Horcrux,dalamudvox (fork),https://github.com/Horcrux/dalamudvox,2020-11-08
 SlashNephy,DamageInfoPlugin (fork),https://github.com/SlashNephy/DamageInfoPlugin,2020-10-26
-aers,VisibilityTest,https://github.com/aers/VisibilityTest,2020-10-17
 zacharied,ffxiv-plugin-ChatExtender (fork),https://github.com/zacharied/ffxiv-plugin-ChatExtender,2020-10-14
 ms2mml,ffxiv-chat-extender (fork),https://github.com/ms2mml/ffxiv-chat-extender,2020-09-13
 Caraxi,SlideCast (fork),https://github.com/Caraxi/SlideCast,2020-07-30
