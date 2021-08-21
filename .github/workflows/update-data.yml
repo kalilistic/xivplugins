@@ -22,4 +22,4 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: |
-        py main.py
+        python main.py
