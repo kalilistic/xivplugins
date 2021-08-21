@@ -23,4 +23,9 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: |
         python main.py
-        git status
+    - name: Add and commit update
+    - uses: EndBug/add-and-commit@v7
+      with:
+        author_name: GitHub Action
+        author_email: github-actions[bot]@users.noreply.github.com
+        message: Update plugins
