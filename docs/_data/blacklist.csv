@@ -9,6 +9,8 @@ DalamudPluginProjectTemplate
 DalamudPluginPython
 DalamudSamplePlugin
 PluginTemplate
+posetest
 SamplePlugin
 TestPlugin
 test
+VisibilityTest
