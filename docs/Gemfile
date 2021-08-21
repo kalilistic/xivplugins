@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "no-style-please"
+gem "jekyll-theme-cayman"
 gem "github-pages", "~> 217", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
