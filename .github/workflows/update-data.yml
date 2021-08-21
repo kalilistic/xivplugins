@@ -21,9 +21,7 @@ jobs:
     - name: Run update
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-      run: |
-        python main.py
-    - name: Add and commit update
+      run: python main.py
     - uses: EndBug/add-and-commit@v7
       with:
         author_name: GitHub Action
