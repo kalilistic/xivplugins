@@ -15,10 +15,6 @@ for record in searchResult:
 # create df
 df = pd.DataFrame(data, columns=['Author', 'Name', 'URL', 'LastUpdated'])
 
-# fix index
-df.index.name = 'No.'
-df.index += 1
-
 # remove dupes
 df = df.drop_duplicates()
 
@@ -34,4 +30,4 @@ df.sort_values(by=['LastUpdated'], inplace=True, ascending=False)
 df['LastUpdated'] = pd.to_datetime(df['LastUpdated']).dt.date
 
 # write result to csv
-df.to_csv('docs/_data/repos.csv')
+df.to_csv('docs/_data/repos.csv', index=False)
