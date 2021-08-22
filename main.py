@@ -10,13 +10,13 @@ searchResult = gh.search_code(query='IDalamudPlugin language:C#')
 data = []
 for repo in searchResult:
     data.append([repo.repository.owner.login, repo.repository.name, repo.repository.html_url,
-                 repo.repository.updated_at, 'false'])
+                 repo.repository.pushed_at, 'false'])
     for repoFork in repo.repository.get_forks():
         # noinspection PyBroadException
         try:
             if repo.repository.compare(repo.repository.default_branch,
                                        repoFork.owner.login + ":" + repoFork.default_branch).ahead_by > 0:
-                data.append([repoFork.owner.login, repoFork.name, repoFork.html_url, repoFork.updated_at, 'true'])
+                data.append([repoFork.owner.login, repoFork.name, repoFork.html_url, repoFork.pushed_at, 'true'])
         except Exception:
             pass
 
