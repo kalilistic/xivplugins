@@ -9,14 +9,17 @@ searchResult = gh.search_code(query='IDalamudPlugin language:C#')
 # extract repos from search result
 data = []
 for repo in searchResult:
+    commit_author_date = repo.repository.get_branch(repo.repository.default_branch).commit.commit.author.date
     data.append([repo.repository.owner.login, repo.repository.name, repo.repository.html_url,
-                 repo.repository.pushed_at, 'false'])
+                 commit_author_date, 'false'])
     for repoFork in repo.repository.get_forks():
         # noinspection PyBroadException
         try:
             if repo.repository.compare(repo.repository.default_branch,
                                        repoFork.owner.login + ":" + repoFork.default_branch).ahead_by > 0:
-                data.append([repoFork.owner.login, repoFork.name, repoFork.html_url, repoFork.pushed_at, 'true'])
+                commit_author_date = repoFork.get_branch(
+                    repoFork.default_branch).commit.commit.author.date
+                data.append([repoFork.owner.login, repoFork.name, repoFork.html_url, commit_author_date, 'true'])
         except Exception:
             pass
 
