@@ -34,8 +34,8 @@ dfd = pd.read_csv('docs/_data/blacklist.csv', header=None, names=['Name'])
 blacklist = dfd.Name.tolist()
 df = df[~df.Name.isin(blacklist)]
 
-# sort by last updated
-df.sort_values(by=['LastUpdated'], inplace=True, ascending=False)
+# sort by last updated, fork
+df.sort_values(['LastUpdated', 'IsFork'], ascending=[False, True], inplace=True)
 
 # update forks
 df.loc[df.IsFork == 'true', 'Name'] = df['Name'] + ' (fork)'
