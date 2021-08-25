@@ -2,6 +2,22 @@ from github import Github
 import pandas as pd
 import os
 
+
+def get_forks(base_repo):
+    for fork_repo in base_repo.get_forks():
+        # noinspection PyBroadException1,PyBroadException
+        try:
+            if base_repo.compare(base_repo.default_branch,
+                                 fork_repo.owner.login + ":" + fork_repo.default_branch).ahead_by > 0:
+                data.append(
+                    [fork_repo.owner.login, fork_repo.name, fork_repo.html_url,
+                     fork_repo.get_branch(
+                         fork_repo.default_branch).commit.commit.author.date, 'true'])
+                get_forks(fork_repo)
+        except Exception:
+            pass
+
+
 # search github
 gh = Github(os.environ.get("ACCESS_TOKEN"))
 searchResult = gh.search_code(query='IDalamudPlugin language:C#')
@@ -9,19 +25,9 @@ searchResult = gh.search_code(query='IDalamudPlugin language:C#')
 # extract repos from search result
 data = []
 for repo in searchResult:
-    commit_author_date = repo.repository.get_branch(repo.repository.default_branch).commit.commit.author.date
     data.append([repo.repository.owner.login, repo.repository.name, repo.repository.html_url,
-                 commit_author_date, 'false'])
-    for repoFork in repo.repository.get_forks():
-        # noinspection PyBroadException
-        try:
-            if repo.repository.compare(repo.repository.default_branch,
-                                       repoFork.owner.login + ":" + repoFork.default_branch).ahead_by > 0:
-                commit_author_date = repoFork.get_branch(
-                    repoFork.default_branch).commit.commit.author.date
-                data.append([repoFork.owner.login, repoFork.name, repoFork.html_url, commit_author_date, 'true'])
-        except Exception:
-            pass
+                 repo.repository.get_branch(repo.repository.default_branch).commit.commit.author.date, 'false'])
+    get_forks(repo.repository)
 
 # create df
 df = pd.DataFrame(data, columns=['Author', 'Name', 'URL', 'LastUpdated', 'IsFork'])
