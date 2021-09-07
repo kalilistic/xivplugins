@@ -1,5 +1,4 @@
 ActorTest
-DXTest
 Dalamud
 Dalamud.Divination.Common
 Dalamud.Divination.Template
@@ -8,10 +7,14 @@ DalamudPluginLua
 DalamudPluginProjectTemplate
 DalamudPluginPython
 DalamudSamplePlugin
+DXTest
+lol
+MinimalPlugin
+modTest
 PluginTemplate
 posetest
 SamplePlugin
-TestPlugin
 test
+TestPlugin
 VisibilityTest
 zbbtesting2
