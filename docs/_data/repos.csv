@@ -1,6 +1,8 @@
 Author,Name,URL,LastUpdated
-reckhou,MidiBard (fork),https://github.com/reckhou/MidiBard,2021-09-09
+devinpav,delvui (fork),https://github.com/devinpav/delvui,2021-09-09
+DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-09-09
 yakiro-nvg,PartyListLayout (fork),https://github.com/yakiro-nvg/PartyListLayout,2021-09-09
+reckhou,MidiBard (fork),https://github.com/reckhou/MidiBard,2021-09-09
 PunishedPineapple,WaymarkPresetPlugin,https://github.com/PunishedPineapple/WaymarkPresetPlugin,2021-09-09
 zhudotexe,FFXIV_PaissaHouse,https://github.com/zhudotexe/FFXIV_PaissaHouse,2021-09-09
 kalilistic,Dalamud.Kapture,https://github.com/kalilistic/Dalamud.Kapture,2021-09-09
@@ -34,11 +36,33 @@ UnknownX7,OOBlugin,https://github.com/UnknownX7/OOBlugin,2021-09-05
 abazilla,delvui (fork),https://github.com/abazilla/delvui,2021-09-05
 SlashNephy,Dalamud.Divination.Debugger,https://github.com/SlashNephy/Dalamud.Divination.Debugger,2021-09-05
 UnknownX7,QoLBar,https://github.com/UnknownX7/QoLBar,2021-09-05
-DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-09-05
+Alexandrea,DelvUI (fork),https://github.com/Alexandrea/DelvUI,2021-09-05
+TheResinger,DelvUI (fork),https://github.com/TheResinger/DelvUI,2021-09-05
+Pheedifux,DelvUI (fork),https://github.com/Pheedifux/DelvUI,2021-09-05
+gyaru,DelvUI (fork),https://github.com/gyaru/DelvUI,2021-09-05
+h4cky,DelvUI (fork),https://github.com/h4cky/DelvUI,2021-09-05
+tkapiris,DelvUI (fork),https://github.com/tkapiris/DelvUI,2021-09-05
+kcall174,DelvUI (fork),https://github.com/kcall174/DelvUI,2021-09-05
+Deadpool7892,DelvUI (fork),https://github.com/Deadpool7892/DelvUI,2021-09-05
+chipget,DelvUI (fork),https://github.com/chipget/DelvUI,2021-09-05
+rpomykala,DelvUI (fork),https://github.com/rpomykala/DelvUI,2021-09-05
+Incalex,DelvUI (fork),https://github.com/Incalex/DelvUI,2021-09-05
+nilaykumar,DelvUI (fork),https://github.com/nilaykumar/DelvUI,2021-09-05
+ph34rwaffles,DelvUI (fork),https://github.com/ph34rwaffles/DelvUI,2021-09-05
+Tischel,delvui (fork),https://github.com/Tischel/delvui,2021-09-05
+shawn-stover,delvui (fork),https://github.com/shawn-stover/delvui,2021-09-05
+TaigaXIV,delvui (fork),https://github.com/TaigaXIV/delvui,2021-09-05
+DarwinCheese,delvui (fork),https://github.com/DarwinCheese/delvui,2021-09-05
+itstajiri,delvui (fork),https://github.com/itstajiri/delvui,2021-09-05
+niseko,delvui (fork),https://github.com/niseko/delvui,2021-09-05
+Bedo9041,delvui (fork),https://github.com/Bedo9041/delvui,2021-09-05
+Kandera,delvui (fork),https://github.com/Kandera/delvui,2021-09-05
+Zeffuro,delvui (fork),https://github.com/Zeffuro/delvui,2021-09-05
 kalilistic,NeatNoter,https://github.com/kalilistic/NeatNoter,2021-09-04
 MgAl2O4,FFTriadBuddyDalamud,https://github.com/MgAl2O4/FFTriadBuddyDalamud,2021-09-04
 poly1k,DelvUI (fork),https://github.com/poly1k/DelvUI,2021-09-04
 kalilistic,PriceCheck,https://github.com/kalilistic/PriceCheck,2021-09-04
+asgoel,delvui (fork),https://github.com/asgoel/delvui,2021-09-04
 Eternita-S,Mini,https://github.com/Eternita-S/Mini,2021-09-04
 karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-09-04
 joshua-software-dev,PixelPerfectv4,https://github.com/joshua-software-dev/PixelPerfectv4,2021-09-04
@@ -228,6 +252,7 @@ msdx321,FPSLimiter (fork),https://github.com/msdx321/FPSLimiter,2021-04-19
 msdx321,XIVComboPlugin (fork),https://github.com/msdx321/XIVComboPlugin,2021-04-19
 msdx321,LivePluginLoad (fork),https://github.com/msdx321/LivePluginLoad,2021-04-19
 msdx321,MarketBoardPlugin (fork),https://github.com/msdx321/MarketBoardPlugin,2021-04-19
+Bluefissure,IMEPlugin,https://github.com/Bluefissure/IMEPlugin,2021-04-19
 Eternita-S,OrchestrionPlugin (fork),https://github.com/Eternita-S/OrchestrionPlugin,2021-04-19
 LeonBlade,CameraPlugin,https://github.com/LeonBlade/CameraPlugin,2021-04-18
 Haplo064,JobIcons,https://github.com/Haplo064/JobIcons,2021-04-18
