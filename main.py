@@ -14,7 +14,8 @@ def get_forks(base_repo):
                      fork_repo.get_branch(
                          fork_repo.default_branch).commit.commit.author.date, 'true'])
                 get_forks(fork_repo)
-        except Exception:
+        except Exception as e:
+            print(e)
             pass
 
 
