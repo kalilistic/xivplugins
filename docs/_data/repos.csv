@@ -1,4 +1,6 @@
 Author,Name,URL,LastUpdated
+MgAl2O4,FFTriadBuddyDalamud,https://github.com/MgAl2O4/FFTriadBuddyDalamud,2021-10-01
+wozaiha,Glamourer (fork),https://github.com/wozaiha/Glamourer,2021-10-01
 Eternita-S,Splatoon,https://github.com/Eternita-S/Splatoon,2021-10-01
 that-succubus,SuccubusComboPlugin,https://github.com/that-succubus/SuccubusComboPlugin,2021-10-01
 Caraxi,AdventurerInNeed,https://github.com/Caraxi/AdventurerInNeed,2021-10-01
@@ -6,7 +8,6 @@ Joncwr,FFXIV_PaissaHouse (fork),https://github.com/Joncwr/FFXIV_PaissaHouse,2021
 marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-10-01
 daemitus,SomethingNeedDoing,https://github.com/daemitus/SomethingNeedDoing,2021-10-01
 karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-10-01
-MgAl2O4,FFTriadBuddyDalamud,https://github.com/MgAl2O4/FFTriadBuddyDalamud,2021-10-01
 Aireil,FlyTextFilter,https://github.com/Aireil/FlyTextFilter,2021-10-01
 akira0245,MidiBard,https://github.com/akira0245/MidiBard,2021-09-30
 kissorjeyabalan,dalamud-chatcoordinates,https://github.com/kissorjeyabalan/dalamud-chatcoordinates,2021-09-30
@@ -43,7 +44,6 @@ LeonBlade,HeelsPlugin,https://github.com/LeonBlade/HeelsPlugin,2021-09-26
 bowiegou,DelvUI-CN (fork),https://github.com/bowiegou/DelvUI-CN,2021-09-26
 kalilistic,Dalamud.Kapture,https://github.com/kalilistic/Dalamud.Kapture,2021-09-26
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-09-26
-wozaiha,Glamourer (fork),https://github.com/wozaiha/Glamourer,2021-09-26
 philpax,exvr,https://github.com/philpax/exvr,2021-09-26
 Bluefissure,DoubleWeaver,https://github.com/Bluefissure/DoubleWeaver,2021-09-25
 akira0245,Reset-dummy-enmity-command,https://github.com/akira0245/Reset-dummy-enmity-command,2021-09-25
@@ -126,6 +126,7 @@ thakyZ,GPNotify (fork),https://github.com/thakyZ/GPNotify,2021-09-07
 LeonBlade,BDTHPlugin,https://github.com/LeonBlade/BDTHPlugin,2021-09-07
 remikan,XIVComboPlugin (fork),https://github.com/remikan/XIVComboPlugin,2021-09-06
 Haplo064,PixelPerfect,https://github.com/Haplo064/PixelPerfect,2021-09-06
+Caraxi,MacroChain,https://github.com/Caraxi/MacroChain,2021-09-06
 UnknownX7,NoClippy,https://github.com/UnknownX7/NoClippy,2021-09-05
 UnknownX7,Cammy,https://github.com/UnknownX7/Cammy,2021-09-05
 UnknownX7,Fractionality,https://github.com/UnknownX7/Fractionality,2021-09-05
@@ -280,6 +281,7 @@ msdx321,MOActionPlugin (fork),https://github.com/msdx321/MOActionPlugin,2021-05-
 fishythefish,OopsAllLalafells (fork),https://github.com/fishythefish/OopsAllLalafells,2021-05-06
 Bluefissure,HousingPos,https://github.com/Bluefissure/HousingPos,2021-05-05
 goaaats,Dalamud.LoadingImage,https://github.com/goaaats/Dalamud.LoadingImage,2021-05-05
+suzutan,MacroRecursionReborn (fork),https://github.com/suzutan/MacroRecursionReborn,2021-05-05
 aers,NamePlates,https://github.com/aers/NamePlates,2021-05-02
 Eternita-S,Inviter (fork),https://github.com/Eternita-S/Inviter,2021-05-01
 aers,FFXIVAtkArrayDataBrowserPlugin,https://github.com/aers/FFXIVAtkArrayDataBrowserPlugin,2021-04-29
@@ -299,6 +301,7 @@ Eternita-S,OrchestrionPlugin (fork),https://github.com/Eternita-S/OrchestrionPlu
 LeonBlade,CameraPlugin,https://github.com/LeonBlade/CameraPlugin,2021-04-18
 Haplo064,JobIcons,https://github.com/Haplo064/JobIcons,2021-04-18
 Asvel,ffxiv-literal-map-link,https://github.com/Asvel/ffxiv-literal-map-link,2021-04-18
+ChristopherJTrent,MacroRecursion (fork),https://github.com/ChristopherJTrent/MacroRecursion,2021-04-18
 0ceal0t,PartyPlus,https://github.com/0ceal0t/PartyPlus,2021-04-17
 Tenrys,FATEAutoSync,https://github.com/Tenrys/FATEAutoSync,2021-04-17
 msdx321,MPTimer (fork),https://github.com/msdx321/MPTimer,2021-04-17
