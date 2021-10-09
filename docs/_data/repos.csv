@@ -1,4 +1,7 @@
 Author,Name,URL,LastUpdated
+suzutan,InstanceIDViewer,https://github.com/suzutan/InstanceIDViewer,2021-10-09
+pohky,TeleporterPlugin,https://github.com/pohky/TeleporterPlugin,2021-10-09
+Haplo064,ChatTranslator,https://github.com/Haplo064/ChatTranslator,2021-10-09
 karashiiro,PingPlugin,https://github.com/karashiiro/PingPlugin,2021-10-09
 MgAl2O4,FFTriadBuddyDalamud,https://github.com/MgAl2O4/FFTriadBuddyDalamud,2021-10-09
 MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-10-09
@@ -12,7 +15,6 @@ kalilistic,Dalamud.Kapture,https://github.com/kalilistic/Dalamud.Kapture,2021-10
 kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-10-09
 kalilistic,PriceCheck,https://github.com/kalilistic/PriceCheck,2021-10-09
 Haplo064,Europe,https://github.com/Haplo064/Europe,2021-10-09
-Haplo064,ChatTranslator,https://github.com/Haplo064/ChatTranslator,2021-10-09
 Haplo064,JobIcons,https://github.com/Haplo064/JobIcons,2021-10-09
 MiKE41,CameraPlugin (fork),https://github.com/MiKE41/CameraPlugin,2021-10-09
 cadaeix,XIVLogger,https://github.com/cadaeix/XIVLogger,2021-10-09
@@ -26,7 +28,6 @@ PrincessRTFM,XIVComboPlugin (fork),https://github.com/PrincessRTFM/XIVComboPlugi
 daemitus,YesAlready,https://github.com/daemitus/YesAlready,2021-10-08
 PrincessRTFM,TinyCommands,https://github.com/PrincessRTFM/TinyCommands,2021-10-08
 marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-10-08
-pohky,TeleporterPlugin,https://github.com/pohky/TeleporterPlugin,2021-10-08
 xivdev,Penumbra,https://github.com/xivdev/Penumbra,2021-10-08
 Ottermandias,Glamourer,https://github.com/Ottermandias/Glamourer,2021-10-08
 Ottermandias,Peon,https://github.com/Ottermandias/Peon,2021-10-08
@@ -52,7 +53,6 @@ reiichi001,SlideCast (fork),https://github.com/reiichi001/SlideCast,2021-10-05
 tesu,PennyPincher,https://github.com/tesu/PennyPincher,2021-10-05
 Bluefissure,HousingPos,https://github.com/Bluefissure/HousingPos,2021-10-05
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-10-05
-reiichi001,ChatTranslator (fork),https://github.com/reiichi001/ChatTranslator,2021-10-04
 rreminy,FFXIV.WinTitle,https://github.com/rreminy/FFXIV.WinTitle,2021-10-04
 r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-10-04
 karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-10-04
@@ -282,7 +282,6 @@ tssailzz8,XIVComboPluginExpandedest (fork),https://github.com/tssailzz8/XIVCombo
 rushtothesun,XIVComboPlugin (fork),https://github.com/rushtothesun/XIVComboPlugin,2021-06-02
 aers,MaterialTools,https://github.com/aers/MaterialTools,2021-06-01
 Caraxi,ChatAlerts,https://github.com/Caraxi/ChatAlerts,2021-05-30
-suzutan,InstanceIDViewer,https://github.com/suzutan/InstanceIDViewer,2021-05-29
 daemitus,XivCounter,https://github.com/daemitus/XivCounter,2021-05-28
 SheepGoMeh,SideHUD,https://github.com/SheepGoMeh/SideHUD,2021-05-28
 sebastianpaiva,MOActionPlugin (fork),https://github.com/sebastianpaiva/MOActionPlugin,2021-05-26
