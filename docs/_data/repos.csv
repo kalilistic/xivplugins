@@ -1,7 +1,13 @@
 Author,Name,URL,LastUpdated
 Dormanil,FantasyPlayer (fork),https://github.com/Dormanil/FantasyPlayer,2021-10-09
+rgd87,BigPlayerDebuffs,https://github.com/rgd87/BigPlayerDebuffs,2021-10-09
+kalilistic,Dalamud.Kapture,https://github.com/kalilistic/Dalamud.Kapture,2021-10-09
+kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-10-09
+kalilistic,PriceCheck,https://github.com/kalilistic/PriceCheck,2021-10-09
 Haplo064,Europe,https://github.com/Haplo064/Europe,2021-10-09
 Haplo064,ChatTranslator,https://github.com/Haplo064/ChatTranslator,2021-10-09
+Haplo064,JobIcons,https://github.com/Haplo064/JobIcons,2021-10-09
+MiKE41,CameraPlugin (fork),https://github.com/MiKE41/CameraPlugin,2021-10-09
 MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-10-09
 cadaeix,XIVLogger,https://github.com/cadaeix/XIVLogger,2021-10-09
 LeonBlade,HeelsPlugin,https://github.com/LeonBlade/HeelsPlugin,2021-10-09
@@ -84,7 +90,6 @@ WesselKuipers,FCNameColor,https://github.com/WesselKuipers/FCNameColor,2021-09-2
 DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-09-27
 MgAl2O4,PatMeDalamud,https://github.com/MgAl2O4/PatMeDalamud,2021-09-27
 bowiegou,DelvUI-CN (fork),https://github.com/bowiegou/DelvUI-CN,2021-09-26
-kalilistic,Dalamud.Kapture,https://github.com/kalilistic/Dalamud.Kapture,2021-09-26
 philpax,exvr,https://github.com/philpax/exvr,2021-09-26
 Bluefissure,DoubleWeaver,https://github.com/Bluefissure/DoubleWeaver,2021-09-25
 akira0245,Reset-dummy-enmity-command,https://github.com/akira0245/Reset-dummy-enmity-command,2021-09-25
@@ -92,20 +97,17 @@ Bluefissure,MapLinker,https://github.com/Bluefissure/MapLinker,2021-09-24
 bryos,MapLinker (fork),https://github.com/bryos/MapLinker,2021-09-24
 Bluefissure,NoKillPlugin,https://github.com/Bluefissure/NoKillPlugin,2021-09-23
 captainbinary,XIVComboPluginKamified (fork),https://github.com/captainbinary/XIVComboPluginKamified,2021-09-23
-kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-09-23
 Aireil,FFLogsViewer,https://github.com/Aireil/FFLogsViewer,2021-09-22
 maributt,FFLogsLookupPlugin,https://github.com/maributt/FFLogsLookupPlugin,2021-09-22
 Eternita-S,MinimalPluginTemplate,https://github.com/Eternita-S/MinimalPluginTemplate,2021-09-22
 chalkos,Marketbuddy,https://github.com/chalkos/Marketbuddy,2021-09-22
 Eternita-S,Weatherman,https://github.com/Eternita-S/Weatherman,2021-09-22
-rgd87,BigPlayerDebuffs,https://github.com/rgd87/BigPlayerDebuffs,2021-09-22
 Eternita-S,EnmityHp,https://github.com/Eternita-S/EnmityHp,2021-09-20
 Eternita-S,QuestAWAY,https://github.com/Eternita-S/QuestAWAY,2021-09-20
 SamuelSapp,plugintest,https://github.com/SamuelSapp/plugintest,2021-09-20
 ph34rwaffles,DelvUI (fork),https://github.com/ph34rwaffles/DelvUI,2021-09-19
 Lanselotto,ChatBubbles (fork),https://github.com/Lanselotto/ChatBubbles,2021-09-19
 kalilistic,NeatNoter,https://github.com/kalilistic/NeatNoter,2021-09-19
-kalilistic,PriceCheck,https://github.com/kalilistic/PriceCheck,2021-09-19
 kalilistic,SillyChat,https://github.com/kalilistic/SillyChat,2021-09-19
 Eternita-S,TextAdvance,https://github.com/Eternita-S/TextAdvance,2021-09-18
 TheResinger,DelvUI (fork),https://github.com/TheResinger/DelvUI,2021-09-18
@@ -245,7 +247,6 @@ SheepGoMeh,VisibilityPlugin,https://github.com/SheepGoMeh/VisibilityPlugin,2021-
 Lanselotto,BDTHPlugin (fork),https://github.com/Lanselotto/BDTHPlugin,2021-07-26
 Caraxi,LivePluginLoad,https://github.com/Caraxi/LivePluginLoad,2021-07-24
 LittleNightmare,SimpleTweaksPlugin (fork),https://github.com/LittleNightmare/SimpleTweaksPlugin,2021-07-23
-MiKE41,CameraPlugin (fork),https://github.com/MiKE41/CameraPlugin,2021-07-23
 nyaoouo,SimpleTweaksPlugin (fork),https://github.com/nyaoouo/SimpleTweaksPlugin,2021-07-22
 marimelon,LeaveDutyCmdPlugin,https://github.com/marimelon/LeaveDutyCmdPlugin,2021-07-21
 karashiiro,DutyDialer,https://github.com/karashiiro/DutyDialer,2021-07-20
@@ -312,7 +313,6 @@ msdx321,MarketBoardPlugin (fork),https://github.com/msdx321/MarketBoardPlugin,20
 Bluefissure,IMEPlugin,https://github.com/Bluefissure/IMEPlugin,2021-04-19
 Eternita-S,OrchestrionPlugin (fork),https://github.com/Eternita-S/OrchestrionPlugin,2021-04-19
 LeonBlade,CameraPlugin,https://github.com/LeonBlade/CameraPlugin,2021-04-18
-Haplo064,JobIcons,https://github.com/Haplo064/JobIcons,2021-04-18
 ChristopherJTrent,MacroRecursion (fork),https://github.com/ChristopherJTrent/MacroRecursion,2021-04-18
 0ceal0t,PartyPlus,https://github.com/0ceal0t/PartyPlus,2021-04-17
 Tenrys,FATEAutoSync,https://github.com/Tenrys/FATEAutoSync,2021-04-17
