@@ -1,4 +1,6 @@
 Author,Name,URL,LastUpdated
+karashiiro,PingPlugin,https://github.com/karashiiro/PingPlugin,2021-10-09
+MgAl2O4,FFTriadBuddyDalamud,https://github.com/MgAl2O4/FFTriadBuddyDalamud,2021-10-09
 MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-10-09
 LockonS483,AutoJailMarker,https://github.com/LockonS483/AutoJailMarker,2021-10-09
 lokinmodar,Echoglossian,https://github.com/lokinmodar/Echoglossian,2021-10-09
@@ -20,7 +22,6 @@ LeonBlade,BDTHPlugin,https://github.com/LeonBlade/BDTHPlugin,2021-10-09
 Haplo064,WheresWOLdo,https://github.com/Haplo064/WheresWOLdo,2021-10-09
 Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-10-08
 Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-10-08
-MgAl2O4,FFTriadBuddyDalamud,https://github.com/MgAl2O4/FFTriadBuddyDalamud,2021-10-08
 PrincessRTFM,XIVComboPlugin (fork),https://github.com/PrincessRTFM/XIVComboPlugin,2021-10-08
 daemitus,YesAlready,https://github.com/daemitus/YesAlready,2021-10-08
 PrincessRTFM,TinyCommands,https://github.com/PrincessRTFM/TinyCommands,2021-10-08
@@ -83,7 +84,6 @@ akira0245,SmartCast,https://github.com/akira0245/SmartCast,2021-09-29
 Arrenton,KingdomHeartsPlugin,https://github.com/Arrenton/KingdomHeartsPlugin,2021-09-29
 Bluefissure,Inviter,https://github.com/Bluefissure/Inviter,2021-09-29
 karashiiro,SoundSetter,https://github.com/karashiiro/SoundSetter,2021-09-28
-karashiiro,PingPlugin,https://github.com/karashiiro/PingPlugin,2021-09-28
 HatTheTurtle,QuietGlamours,https://github.com/HatTheTurtle/QuietGlamours,2021-09-28
 Caraxi,FPSPlugin,https://github.com/Caraxi/FPSPlugin,2021-09-28
 UnknownX7,DalamudRepoBrowser,https://github.com/UnknownX7/DalamudRepoBrowser,2021-09-28
@@ -116,6 +116,7 @@ a08381,Dalamud.SkipCutscene,https://github.com/a08381/Dalamud.SkipCutscene,2021-
 0ceal0t,JobBars,https://github.com/0ceal0t/JobBars,2021-09-18
 Caraxi,XIVComboPlugin (fork),https://github.com/Caraxi/XIVComboPlugin,2021-09-17
 xun468,XIVComboPluginLazyRDMEdition (fork),https://github.com/xun468/XIVComboPluginLazyRDMEdition,2021-09-17
+akira0245,EasyZoom,https://github.com/akira0245/EasyZoom,2021-09-17
 Lamiclem,FastQuitPlugin,https://github.com/Lamiclem/FastQuitPlugin,2021-09-16
 Pahiro,TextToTalk (fork),https://github.com/Pahiro/TextToTalk,2021-09-16
 Haplo064,ChatBubbles,https://github.com/Haplo064/ChatBubbles,2021-09-16
@@ -270,7 +271,6 @@ ModdingFox,FFXIVDiscordBot,https://github.com/ModdingFox/FFXIVDiscordBot,2021-06
 kai-dg,BetterPixelPerfect (fork),https://github.com/kai-dg/BetterPixelPerfect,2021-06-24
 DaulB,ArenaPlus,https://github.com/DaulB/ArenaPlus,2021-06-23
 maributt,ChatTranslator (fork),https://github.com/maributt/ChatTranslator,2021-06-23
-DevJinnial,OrchestrionPlugin (fork),https://github.com/DevJinnial/OrchestrionPlugin,2021-06-23
 DaulB,PixelPerfect (fork),https://github.com/DaulB/PixelPerfect,2021-06-20
 Bluefissure,WindowLocker,https://github.com/Bluefissure/WindowLocker,2021-06-11
 rushtothesun,XIVComboPluginExpandedest,https://github.com/rushtothesun/XIVComboPluginExpandedest,2021-06-11
