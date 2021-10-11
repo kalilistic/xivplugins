@@ -1,4 +1,6 @@
 Author,Name,URL,LastUpdated
+LeonBlade,HeelsPlugin,https://github.com/LeonBlade/HeelsPlugin,2021-10-11
+Bluefissure,MapLinker,https://github.com/Bluefissure/MapLinker,2021-10-11
 akira0245,MidiBard,https://github.com/akira0245/MidiBard,2021-10-11
 horoscope-dev,Dalamud.Divination.InstanceIDViewer,https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer,2021-10-11
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-11
@@ -11,6 +13,7 @@ horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dal
 captainbinary,XIVComboPluginKamifiedTest,https://github.com/captainbinary/XIVComboPluginKamifiedTest,2021-10-11
 SheepGoMeh,VisibilityPlugin,https://github.com/SheepGoMeh/VisibilityPlugin,2021-10-10
 0ceal0t,JobBars,https://github.com/0ceal0t/JobBars,2021-10-10
+marimelon,ZoomHackPlugin,https://github.com/marimelon/ZoomHackPlugin,2021-10-10
 Lanselotto,BDTHPlugin (fork),https://github.com/Lanselotto/BDTHPlugin,2021-10-10
 Leftn,FFXIV-ACT-Endcounter,https://github.com/Leftn/FFXIV-ACT-Endcounter,2021-10-10
 Arrenton,KingdomHeartsPlugin,https://github.com/Arrenton/KingdomHeartsPlugin,2021-10-10
@@ -53,7 +56,6 @@ Haplo064,Europe,https://github.com/Haplo064/Europe,2021-10-09
 Haplo064,JobIcons,https://github.com/Haplo064/JobIcons,2021-10-09
 MiKE41,CameraPlugin (fork),https://github.com/MiKE41/CameraPlugin,2021-10-09
 cadaeix,XIVLogger,https://github.com/cadaeix/XIVLogger,2021-10-09
-LeonBlade,HeelsPlugin,https://github.com/LeonBlade/HeelsPlugin,2021-10-09
 LeonBlade,BDTHPlugin,https://github.com/LeonBlade/BDTHPlugin,2021-10-09
 Haplo064,WheresWOLdo,https://github.com/Haplo064/WheresWOLdo,2021-10-09
 PrincessRTFM,XIVComboPlugin (fork),https://github.com/PrincessRTFM/XIVComboPlugin,2021-10-08
@@ -113,7 +115,6 @@ bowiegou,DelvUI-CN (fork),https://github.com/bowiegou/DelvUI-CN,2021-09-26
 philpax,exvr,https://github.com/philpax/exvr,2021-09-26
 Bluefissure,DoubleWeaver,https://github.com/Bluefissure/DoubleWeaver,2021-09-25
 akira0245,Reset-dummy-enmity-command,https://github.com/akira0245/Reset-dummy-enmity-command,2021-09-25
-Bluefissure,MapLinker,https://github.com/Bluefissure/MapLinker,2021-09-24
 bryos,MapLinker (fork),https://github.com/bryos/MapLinker,2021-09-24
 Bluefissure,NoKillPlugin,https://github.com/Bluefissure/NoKillPlugin,2021-09-23
 captainbinary,XIVComboPluginKamified (fork),https://github.com/captainbinary/XIVComboPluginKamified,2021-09-23
@@ -289,7 +290,6 @@ Caraxi,ChatAlerts,https://github.com/Caraxi/ChatAlerts,2021-05-30
 daemitus,XivCounter,https://github.com/daemitus/XivCounter,2021-05-28
 SheepGoMeh,SideHUD,https://github.com/SheepGoMeh/SideHUD,2021-05-28
 sebastianpaiva,MOActionPlugin (fork),https://github.com/sebastianpaiva/MOActionPlugin,2021-05-26
-marimelon,ZoomHackPlugin,https://github.com/marimelon/ZoomHackPlugin,2021-05-24
 Eternita-S,MineClick,https://github.com/Eternita-S/MineClick,2021-05-19
 Bluefissure,MPTimer (fork),https://github.com/Bluefissure/MPTimer,2021-05-18
 theEricPeters,CameraPlugin (fork),https://github.com/theEricPeters/CameraPlugin,2021-05-17
