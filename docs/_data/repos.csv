@@ -1,11 +1,13 @@
 Author,Name,URL,LastUpdated
+karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-10-18
 horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-18
-horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-18
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-18
-horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-18
-horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-18
+horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-18
 horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat,2021-10-18
 horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-18
+horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-18
+horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-18
+Ottermandias,Peon,https://github.com/Ottermandias/Peon,2021-10-18
 xivdev,Penumbra,https://github.com/xivdev/Penumbra,2021-10-18
 Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-10-18
 kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-10-18
@@ -44,7 +46,6 @@ DiggityMan420,SmartVote (fork),https://github.com/DiggityMan420/SmartVote,2021-1
 joyvanderveeken,DelvUI (fork),https://github.com/joyvanderveeken/DelvUI,2021-10-15
 UnknownX7,DalamudRepoBrowser,https://github.com/UnknownX7/DalamudRepoBrowser,2021-10-15
 reiichi001,Dalamud.DiscordBridge (fork),https://github.com/reiichi001/Dalamud.DiscordBridge,2021-10-15
-Ottermandias,Peon,https://github.com/Ottermandias/Peon,2021-10-14
 lmcintyre,OrchestrionPlugin (fork),https://github.com/lmcintyre/OrchestrionPlugin,2021-10-14
 Eternita-S,Splatoon,https://github.com/Eternita-S/Splatoon,2021-10-14
 lmcintyre,TitleEditPlugin,https://github.com/lmcintyre/TitleEditPlugin,2021-10-14
@@ -129,7 +130,6 @@ Ottermandias,ChatAlerts (fork),https://github.com/Ottermandias/ChatAlerts,2021-1
 Asvel,ffxiv-literal-map-link,https://github.com/Asvel/ffxiv-literal-map-link,2021-10-05
 Bluefissure,HousingPos,https://github.com/Bluefissure/HousingPos,2021-10-05
 rreminy,FFXIV.WinTitle,https://github.com/rreminy/FFXIV.WinTitle,2021-10-04
-karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-10-04
 reiichi001,dalamud-chattyper,https://github.com/reiichi001/dalamud-chattyper,2021-10-04
 reiichi001,Dalamud-FlashOnTellPlugin,https://github.com/reiichi001/Dalamud-FlashOnTellPlugin,2021-10-04
 ackwell,BrowserHost,https://github.com/ackwell/BrowserHost,2021-10-04
