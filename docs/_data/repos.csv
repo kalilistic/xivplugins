@@ -1,14 +1,15 @@
 Author,Name,URL,LastUpdated
-xorus,EngageTimer,https://github.com/xorus/EngageTimer,2021-10-19
-xivdev,Penumbra,https://github.com/xivdev/Penumbra,2021-10-19
-horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-19
-horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-19
-horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-19
-horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-19
-horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-19
-horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-19
-horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat,2021-10-19
 Eternita-S,Splatoon,https://github.com/Eternita-S/Splatoon,2021-10-19
+xorus,EngageTimer,https://github.com/xorus/EngageTimer,2021-10-19
+shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-10-19
+horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat,2021-10-19
+horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-19
+horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-19
+horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-19
+horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-19
+horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-19
+horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-19
+xivdev,Penumbra,https://github.com/xivdev/Penumbra,2021-10-19
 Critical-Impact,InventoryTools,https://github.com/Critical-Impact/InventoryTools,2021-10-19
 Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-10-19
 lokinmodar,Echoglossian,https://github.com/lokinmodar/Echoglossian,2021-10-19
@@ -42,6 +43,7 @@ Eternita-S,QuestAWAY,https://github.com/Eternita-S/QuestAWAY,2021-10-16
 Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-10-16
 r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-10-16
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-10-16
+daemitus,WondrousTailsSolver,https://github.com/daemitus/WondrousTailsSolver,2021-10-16
 daemitus,FauxHollowsSolver,https://github.com/daemitus/FauxHollowsSolver,2021-10-16
 daemitus,MiniCactpotSolver,https://github.com/daemitus/MiniCactpotSolver,2021-10-15
 Rylith,OpenerLearner,https://github.com/Rylith/OpenerLearner,2021-10-15
@@ -65,7 +67,6 @@ Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XI
 jeengland,FFTriadBuddyDalamud (fork),https://github.com/jeengland/FFTriadBuddyDalamud,2021-10-12
 akira0245,SmartCast,https://github.com/akira0245/SmartCast,2021-10-12
 akira0245,EasyZoom,https://github.com/akira0245/EasyZoom,2021-10-12
-shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-10-12
 fitzchivalrik,compass,https://github.com/fitzchivalrik/compass,2021-10-12
 Ottermandias,Glamourer,https://github.com/Ottermandias/Glamourer,2021-10-12
 tesu,PennyPincher,https://github.com/tesu/PennyPincher,2021-10-12
