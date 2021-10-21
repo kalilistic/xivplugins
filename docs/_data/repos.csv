@@ -1,4 +1,7 @@
 Author,Name,URL,LastUpdated
+pohky,TeleporterPlugin,https://github.com/pohky/TeleporterPlugin,2021-10-21
+Arrenton,KingdomHeartsPlugin,https://github.com/Arrenton/KingdomHeartsPlugin,2021-10-21
+0ceal0t,JobBars,https://github.com/0ceal0t/JobBars,2021-10-21
 CaiClone,GCDTracker,https://github.com/CaiClone/GCDTracker,2021-10-20
 daemitus,YesAlready,https://github.com/daemitus/YesAlready,2021-10-20
 xorus,EngageTimer,https://github.com/xorus/EngageTimer,2021-10-20
@@ -12,13 +15,11 @@ lokinmodar,Echoglossian,https://github.com/lokinmodar/Echoglossian,2021-10-20
 kalilistic,Dalamud.Kapture,https://github.com/kalilistic/Dalamud.Kapture,2021-10-20
 kalilistic,SillyChat,https://github.com/kalilistic/SillyChat,2021-10-20
 kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-10-19
-Arrenton,KingdomHeartsPlugin,https://github.com/Arrenton/KingdomHeartsPlugin,2021-10-19
 UnknownX7,QoLBar,https://github.com/UnknownX7/QoLBar,2021-10-19
-0ceal0t,JobBars,https://github.com/0ceal0t/JobBars,2021-10-19
 Ottermandias,Peon,https://github.com/Ottermandias/Peon,2021-10-19
 horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-19
-horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-19
 horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-19
+horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-19
 horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-19
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-19
 horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-19
@@ -109,7 +110,6 @@ daemitus,SomethingNeedDoing,https://github.com/daemitus/SomethingNeedDoing,2021-
 Ottermandias,AutoVisor,https://github.com/Ottermandias/AutoVisor,2021-10-09
 pohky,FFXIVAtkArrayDataBrowserPlugin (fork),https://github.com/pohky/FFXIVAtkArrayDataBrowserPlugin,2021-10-09
 Haplo064,ChatBubbles,https://github.com/Haplo064/ChatBubbles,2021-10-09
-pohky,TeleporterPlugin,https://github.com/pohky/TeleporterPlugin,2021-10-09
 karashiiro,PingPlugin,https://github.com/karashiiro/PingPlugin,2021-10-09
 LockonS483,AutoJailMarker,https://github.com/LockonS483/AutoJailMarker,2021-10-09
 Dormanil,FantasyPlayer (fork),https://github.com/Dormanil/FantasyPlayer,2021-10-09
