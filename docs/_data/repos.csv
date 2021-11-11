@@ -1,5 +1,6 @@
 Author,Name,URL,LastUpdated
 marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-11-11
+0ceal0t,Dalamud-VFXEditor,https://github.com/0ceal0t/Dalamud-VFXEditor,2021-11-11
 Tischel,TPie,https://github.com/Tischel/TPie,2021-11-11
 UnknownX7,Cammy,https://github.com/UnknownX7/Cammy,2021-11-11
 wozaiha,SimpleTweaksPlugin (fork),https://github.com/wozaiha/SimpleTweaksPlugin,2021-11-11
@@ -7,7 +8,6 @@ lichie567,XIVAuras,https://github.com/lichie567/XIVAuras,2021-11-11
 Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-11-11
 karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-11-11
 bukejit,WowReply,https://github.com/bukejit/WowReply,2021-11-10
-0ceal0t,Dalamud-VFXEditor,https://github.com/0ceal0t/Dalamud-VFXEditor,2021-11-10
 Sevii77,ffxiv_materialui_accent,https://github.com/Sevii77/ffxiv_materialui_accent,2021-11-10
 shdwp,Diplodocus,https://github.com/shdwp/Diplodocus,2021-11-10
 wozaiha,xivPartyIcons (fork),https://github.com/wozaiha/xivPartyIcons,2021-11-09
@@ -89,6 +89,7 @@ Eternita-S,DynamicVisibility,https://github.com/Eternita-S/DynamicVisibility,202
 Eternita-S,Mini,https://github.com/Eternita-S/Mini,2021-10-24
 horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-24
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-24
+horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-24
 horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-24
 horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-24
 horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat,2021-10-24
