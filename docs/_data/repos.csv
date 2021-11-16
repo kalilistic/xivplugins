@@ -1,4 +1,8 @@
 Author,Name,URL,LastUpdated
+Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-11-16
+Eternita-S,Splatoon,https://github.com/Eternita-S/Splatoon,2021-11-16
+Eternita-S,NotificationMaster,https://github.com/Eternita-S/NotificationMaster,2021-11-16
+Eternita-S,Mini,https://github.com/Eternita-S/Mini,2021-11-16
 MidoriKami,NoTankYou,https://github.com/MidoriKami/NoTankYou,2021-11-16
 AsterOcclu,Dalamud.SkipCutscene (fork),https://github.com/AsterOcclu/Dalamud.SkipCutscene,2021-11-16
 Bluefissure,Dalamud-OBS,https://github.com/Bluefissure/Dalamud-OBS,2021-11-16
@@ -13,8 +17,6 @@ lichie567,XIVAuras,https://github.com/lichie567/XIVAuras,2021-11-15
 akira0245,MidiBard,https://github.com/akira0245/MidiBard,2021-11-15
 Ottermandias,Glamourer,https://github.com/Ottermandias/Glamourer,2021-11-15
 Ottermandias,Accountant,https://github.com/Ottermandias/Accountant,2021-11-15
-Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-11-15
-Eternita-S,Splatoon,https://github.com/Eternita-S/Splatoon,2021-11-15
 Eternita-S,TextAdvance,https://github.com/Eternita-S/TextAdvance,2021-11-14
 Sevii77,ffxiv_materialui_accent,https://github.com/Sevii77/ffxiv_materialui_accent,2021-11-14
 wozaiha,SimpleTweaksPlugin (fork),https://github.com/wozaiha/SimpleTweaksPlugin,2021-11-14
@@ -24,7 +26,6 @@ r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-11-13
 cadaeix,XIVLogger,https://github.com/cadaeix/XIVLogger,2021-11-13
 chrisk699,ffxiv-chatemotecolor-plugin,https://github.com/chrisk699/ffxiv-chatemotecolor-plugin,2021-11-13
 Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-11-13
-Eternita-S,Mini,https://github.com/Eternita-S/Mini,2021-11-12
 marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-11-12
 LockonS483,AutoJailMarker,https://github.com/LockonS483/AutoJailMarker,2021-11-12
 karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-11-11
@@ -58,7 +59,6 @@ daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-1
 UnknownX7,OOBlugin,https://github.com/UnknownX7/OOBlugin,2021-11-03
 UnknownX7,Fractionality,https://github.com/UnknownX7/Fractionality,2021-11-03
 lokinmodar,Echoglossian,https://github.com/lokinmodar/Echoglossian,2021-11-03
-Eternita-S,NotificationMaster,https://github.com/Eternita-S/NotificationMaster,2021-11-02
 akira0245,DalamudCNAdapter,https://github.com/akira0245/DalamudCNAdapter,2021-11-02
 fmauNeko,MarketBoardPlugin,https://github.com/fmauNeko/MarketBoardPlugin,2021-11-02
 Minizbot2012,MZRadialMenu,https://github.com/Minizbot2012/MZRadialMenu,2021-11-02
@@ -69,7 +69,6 @@ yomishino,FFXIVTitleRenamed,https://github.com/yomishino/FFXIVTitleRenamed,2021-
 iDevLA,SlideCast1,https://github.com/iDevLA/SlideCast1,2021-10-31
 SheepGoMeh,SideHUD,https://github.com/SheepGoMeh/SideHUD,2021-10-30
 0ceal0t,Penumbra (fork),https://github.com/0ceal0t/Penumbra,2021-10-30
-yuri-moens,RemindMe (fork),https://github.com/yuri-moens/RemindMe,2021-10-29
 Critical-Impact,InventoryTools,https://github.com/Critical-Impact/InventoryTools,2021-10-29
 Eternita-S,Prioritizer,https://github.com/Eternita-S/Prioritizer,2021-10-29
 markjsosnowski,OceanFishin,https://github.com/markjsosnowski/OceanFishin,2021-10-28
@@ -142,7 +141,6 @@ lmcintyre,TitleEditPlugin,https://github.com/lmcintyre/TitleEditPlugin,2021-10-1
 lmcintyre,TitleEditPlugin (fork),https://github.com/lmcintyre/TitleEditPlugin,2021-10-14
 Aireil,FlyTextFilter,https://github.com/Aireil/FlyTextFilter,2021-10-14
 suzutan,Dalamud.XLKill (fork),https://github.com/suzutan/Dalamud.XLKill,2021-10-14
-Caraxi,RemindMe,https://github.com/Caraxi/RemindMe,2021-10-14
 Bluefissure,IMEPlugin,https://github.com/Bluefissure/IMEPlugin,2021-10-13
 Haplo064,ChatTranslator,https://github.com/Haplo064/ChatTranslator,2021-10-13
 jeengland,FFTriadBuddyDalamud (fork),https://github.com/jeengland/FFTriadBuddyDalamud,2021-10-12
@@ -413,7 +411,6 @@ avafloww,CarbyScript,https://github.com/avafloww/CarbyScript,2021-01-06
 daemitus,ClickIt,https://github.com/daemitus/ClickIt,2021-01-01
 daemitus,CameraPlugin,https://github.com/daemitus/CameraPlugin,2020-12-31
 BAKAOLC,EveryoneLalafell,https://github.com/BAKAOLC/EveryoneLalafell,2020-12-23
-BAKAOLC,RemindMe (fork),https://github.com/BAKAOLC/RemindMe,2020-12-22
 karashiiro,SideStream,https://github.com/karashiiro/SideStream,2020-12-17
 luminisward,MPTimer,https://github.com/luminisward/MPTimer,2020-12-16
 AinaSnow,BDTHPlugin (fork),https://github.com/AinaSnow/BDTHPlugin,2020-12-11
