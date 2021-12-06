@@ -1,6 +1,8 @@
 Author,Name,URL,LastUpdated
-lichie567,LMeter,https://github.com/lichie567/LMeter,2021-12-06
+Eternita-S,Weatherman,https://github.com/Eternita-S/Weatherman,2021-12-06
+MogsFriend,Monoseros,https://github.com/MogsFriend/Monoseros,2021-12-06
 digital-pet,AetherSenseRedux (fork),https://github.com/digital-pet/AetherSenseRedux,2021-12-06
+lichie567,LMeter,https://github.com/lichie567/LMeter,2021-12-06
 lmcintyre,Housemate,https://github.com/lmcintyre/Housemate,2021-12-06
 lmcintyre,PrefPro,https://github.com/lmcintyre/PrefPro,2021-12-06
 lmcintyre,DamageInfoPlugin,https://github.com/lmcintyre/DamageInfoPlugin,2021-12-06
@@ -22,7 +24,6 @@ r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-12-05
 fmauNeko,MarketBoardPlugin,https://github.com/fmauNeko/MarketBoardPlugin,2021-12-05
 MidoriKami,XIVWiki,https://github.com/MidoriKami/XIVWiki,2021-12-05
 Eternita-S,Mini,https://github.com/Eternita-S/Mini,2021-12-04
-Eternita-S,Weatherman,https://github.com/Eternita-S/Weatherman,2021-12-04
 kacie8989,FFXIV_Vibe_Plugin (fork),https://github.com/kacie8989/FFXIV_Vibe_Plugin,2021-12-04
 reiichi001,Dalamud.DiscordBridge (fork),https://github.com/reiichi001/Dalamud.DiscordBridge,2021-12-04
 MidoriKami,NoTankYou,https://github.com/MidoriKami/NoTankYou,2021-12-04
@@ -42,7 +43,6 @@ Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XI
 akira0245,SmartCast,https://github.com/akira0245/SmartCast,2021-12-03
 wozaiha,DalamudACT,https://github.com/wozaiha/DalamudACT,2021-12-03
 UnknownX7,NoClippy,https://github.com/UnknownX7/NoClippy,2021-12-03
-kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-12-03
 UnknownX7,Cammy,https://github.com/UnknownX7/Cammy,2021-12-03
 Eternita-S,TextAdvance,https://github.com/Eternita-S/TextAdvance,2021-12-02
 Icehunter,AutoTranslateXIV,https://github.com/Icehunter/AutoTranslateXIV,2021-12-02
@@ -87,7 +87,6 @@ akira0245,MidiBard,https://github.com/akira0245/MidiBard,2021-11-17
 Bluefissure,Dalamud-OBS,https://github.com/Bluefissure/Dalamud-OBS,2021-11-17
 Ottermandias,Glamourer,https://github.com/Ottermandias/Glamourer,2021-11-16
 AsterOcclu,Dalamud.SkipCutscene (fork),https://github.com/AsterOcclu/Dalamud.SkipCutscene,2021-11-16
-zhudotexe,FFXIV_PaissaHouse,https://github.com/zhudotexe/FFXIV_PaissaHouse,2021-11-15
 CaiClone,GCDTracker,https://github.com/CaiClone/GCDTracker,2021-11-15
 lichie567,XIVAuras,https://github.com/lichie567/XIVAuras,2021-11-15
 Caraxi,AutoLogin,https://github.com/Caraxi/AutoLogin,2021-11-14
@@ -229,7 +228,6 @@ cceglia,XIVComboPlugin (fork),https://github.com/cceglia/XIVComboPlugin,2021-10-
 Zeffuro,BrowserHost (fork),https://github.com/Zeffuro/BrowserHost,2021-10-02
 kissorjeyabalan,dalamud-chatcoordinates,https://github.com/kissorjeyabalan/dalamud-chatcoordinates,2021-10-01
 Caraxi,AdventurerInNeed,https://github.com/Caraxi/AdventurerInNeed,2021-10-01
-Joncwr,FFXIV_PaissaHouse (fork),https://github.com/Joncwr/FFXIV_PaissaHouse,2021-10-01
 carvelli,Fish-Notify,https://github.com/carvelli/Fish-Notify,2021-09-29
 carvelli,Slice-Is-Right,https://github.com/carvelli/Slice-Is-Right,2021-09-29
 Bluefissure,Inviter,https://github.com/Bluefissure/Inviter,2021-09-29
@@ -317,7 +315,6 @@ rslota,delvui (fork),https://github.com/rslota/delvui,2021-08-25
 bombthezoms,YesAlready (fork),https://github.com/bombthezoms/YesAlready,2021-08-24
 rvazarkar,XIVQuickBossNotes,https://github.com/rvazarkar/XIVQuickBossNotes,2021-08-24
 peakzero,XIVComboPlugin (fork),https://github.com/peakzero/XIVComboPlugin,2021-08-24
-Eternita-S,FFXIV_PaissaHouse (fork),https://github.com/Eternita-S/FFXIV_PaissaHouse,2021-08-23
 Ishamyyl,BrowserHost (fork),https://github.com/Ishamyyl/BrowserHost,2021-08-23
 goaaats,dalamud-owo,https://github.com/goaaats/dalamud-owo,2021-08-23
 aers,FlyTextFilter,https://github.com/aers/FlyTextFilter,2021-08-20
@@ -398,7 +395,6 @@ lmcintyre,XIVComboPlugin (fork),https://github.com/lmcintyre/XIVComboPlugin,2021
 Mireiawen,VisibilityPlugin (fork),https://github.com/Mireiawen/VisibilityPlugin,2021-04-16
 attickdoor,XIVComboPlugin,https://github.com/attickdoor/XIVComboPlugin,2021-04-16
 maributt,OldMacroRecursion,https://github.com/maributt/OldMacroRecursion,2021-04-15
-reiichi001,FFXIV_PaissaHouse (fork),https://github.com/reiichi001/FFXIV_PaissaHouse,2021-04-15
 ff-meli,OrchestrionPlugin,https://github.com/ff-meli/OrchestrionPlugin,2021-04-15
 maributt,FPSLimiter,https://github.com/maributt/FPSLimiter,2021-04-14
 avafloww,TabTab,https://github.com/avafloww/TabTab,2021-04-14
