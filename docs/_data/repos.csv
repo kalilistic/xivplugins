@@ -1,10 +1,14 @@
 Author,Name,URL,LastUpdated
+MiKE41,CameraPlugin (fork),https://github.com/MiKE41/CameraPlugin,2021-12-09
+captainbinary,XIVComboPluginKamified (fork),https://github.com/captainbinary/XIVComboPluginKamified,2021-12-09
 pohky,TeleporterPlugin,https://github.com/pohky/TeleporterPlugin,2021-12-09
 Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-09
 RyuaNerin,FFLogsLookup,https://github.com/RyuaNerin/FFLogsLookup,2021-12-09
 shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-09
 goaaats,Dalamud.FindAnything,https://github.com/goaaats/Dalamud.FindAnything,2021-12-09
+fitzchivalrik,compass,https://github.com/fitzchivalrik/compass,2021-12-09
 danielldavies,DeepDungeonDexEx (fork),https://github.com/danielldavies/DeepDungeonDexEx,2021-12-09
+fitzchivalrik,gentletouch,https://github.com/fitzchivalrik/gentletouch,2021-12-09
 Evil-Crab,XIVComboPlugin (fork),https://github.com/Evil-Crab/XIVComboPlugin,2021-12-09
 Eternita-S,Instancinator,https://github.com/Eternita-S/Instancinator,2021-12-09
 Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-12-09
@@ -25,6 +29,7 @@ LeonBlade,BDTHPlugin,https://github.com/LeonBlade/BDTHPlugin,2021-12-09
 Icehunter,AutoTranslateXIV,https://github.com/Icehunter/AutoTranslateXIV,2021-12-09
 r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-12-08
 fmauNeko,MarketBoardPlugin,https://github.com/fmauNeko/MarketBoardPlugin,2021-12-08
+Caraxi,MacroChain,https://github.com/Caraxi/MacroChain,2021-12-08
 Caraxi,ItemSearchPlugin,https://github.com/Caraxi/ItemSearchPlugin,2021-12-08
 Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-12-08
 Sevii77,ffxiv_materialui_accent,https://github.com/Sevii77/ffxiv_materialui_accent,2021-12-08
@@ -185,8 +190,8 @@ thakyZ,AetherSense (fork),https://github.com/thakyZ/AetherSense,2021-10-17
 tssailzz8,SomethingNeedDoing (fork),https://github.com/tssailzz8/SomethingNeedDoing,2021-10-17
 Eternita-S,SelectString,https://github.com/Eternita-S/SelectString,2021-10-16
 Eternita-S,EnmityHp,https://github.com/Eternita-S/EnmityHp,2021-10-16
-daniels-lee,OpenerLearner,https://github.com/daniels-lee/OpenerLearner,2021-10-15
 Rylith,OpenerLearner,https://github.com/Rylith/OpenerLearner,2021-10-15
+daniels-lee,OpenerLearner,https://github.com/daniels-lee/OpenerLearner,2021-10-15
 DiggityMan420,SmartVote (fork),https://github.com/DiggityMan420/SmartVote,2021-10-15
 suzutan,Dalamud.XLKill (fork),https://github.com/suzutan/Dalamud.XLKill,2021-10-14
 Caraxi,RemindMe,https://github.com/Caraxi/RemindMe,2021-10-14
@@ -194,7 +199,6 @@ Bluefissure,IMEPlugin,https://github.com/Bluefissure/IMEPlugin,2021-10-13
 Haplo064,ChatTranslator,https://github.com/Haplo064/ChatTranslator,2021-10-13
 jeengland,FFTriadBuddyDalamud (fork),https://github.com/jeengland/FFTriadBuddyDalamud,2021-10-12
 akira0245,EasyZoom,https://github.com/akira0245/EasyZoom,2021-10-12
-fitzchivalrik,compass,https://github.com/fitzchivalrik/compass,2021-10-12
 bilenkonito,TinyCommands (fork),https://github.com/bilenkonito/TinyCommands,2021-10-12
 Asche00,ChatBubbles (fork),https://github.com/Asche00/ChatBubbles,2021-10-11
 Ayuei,greeter_py,https://github.com/Ayuei/greeter_py,2021-10-11
@@ -220,7 +224,6 @@ Haplo064,ChatBubbles,https://github.com/Haplo064/ChatBubbles,2021-10-09
 Dormanil,FantasyPlayer (fork),https://github.com/Dormanil/FantasyPlayer,2021-10-09
 Haplo064,Europe,https://github.com/Haplo064/Europe,2021-10-09
 Haplo064,JobIcons,https://github.com/Haplo064/JobIcons,2021-10-09
-MiKE41,CameraPlugin (fork),https://github.com/MiKE41/CameraPlugin,2021-10-09
 Haplo064,WheresWOLdo,https://github.com/Haplo064/WheresWOLdo,2021-10-09
 MogsFriend,BrowserHost (fork),https://github.com/MogsFriend/BrowserHost,2021-10-08
 Caraxi,PartyListLayout,https://github.com/Caraxi/PartyListLayout,2021-10-08
@@ -263,7 +266,6 @@ iOuroboros,Sample,https://github.com/iOuroboros/Sample,2021-09-14
 sazo2300,DelvUI (fork),https://github.com/sazo2300/DelvUI,2021-09-13
 gamer4eg,XIVComboPluginExpandedest (fork),https://github.com/gamer4eg/XIVComboPluginExpandedest,2021-09-13
 DarwinCheese,delvui (fork),https://github.com/DarwinCheese/delvui,2021-09-13
-fitzchivalrik,gentletouch,https://github.com/fitzchivalrik/gentletouch,2021-09-12
 itstajiri,delvui (fork),https://github.com/itstajiri/delvui,2021-09-12
 FairyScript,SlideCast (fork),https://github.com/FairyScript/SlideCast,2021-09-12
 FairyScript,Transmitter,https://github.com/FairyScript/Transmitter,2021-09-11
@@ -384,6 +386,7 @@ suzutan,Dalamud.EbisuBeer,https://github.com/suzutan/Dalamud.EbisuBeer,2021-05-1
 DreanorFFXIV,dalamud-questTTS,https://github.com/DreanorFFXIV/dalamud-questTTS,2021-05-09
 msdx321,MOActionPlugin (fork),https://github.com/msdx321/MOActionPlugin,2021-05-08
 fishythefish,OopsAllLalafells (fork),https://github.com/fishythefish/OopsAllLalafells,2021-05-06
+suzutan,MacroRecursionReborn (fork),https://github.com/suzutan/MacroRecursionReborn,2021-05-05
 aers,NamePlates,https://github.com/aers/NamePlates,2021-05-02
 Eternita-S,Inviter (fork),https://github.com/Eternita-S/Inviter,2021-05-01
 aers,FFXIVAtkArrayDataBrowserPlugin,https://github.com/aers/FFXIVAtkArrayDataBrowserPlugin,2021-04-29
@@ -397,6 +400,7 @@ msdx321,LivePluginLoad (fork),https://github.com/msdx321/LivePluginLoad,2021-04-
 msdx321,MarketBoardPlugin (fork),https://github.com/msdx321/MarketBoardPlugin,2021-04-19
 Eternita-S,OrchestrionPlugin (fork),https://github.com/Eternita-S/OrchestrionPlugin,2021-04-19
 LeonBlade,CameraPlugin,https://github.com/LeonBlade/CameraPlugin,2021-04-18
+ChristopherJTrent,MacroRecursion (fork),https://github.com/ChristopherJTrent/MacroRecursion,2021-04-18
 0ceal0t,PartyPlus,https://github.com/0ceal0t/PartyPlus,2021-04-17
 msdx321,MPTimer (fork),https://github.com/msdx321/MPTimer,2021-04-17
 lmcintyre,XIVComboPlugin (fork),https://github.com/lmcintyre/XIVComboPlugin,2021-04-17
