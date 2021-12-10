@@ -1,4 +1,6 @@
 Author,Name,URL,LastUpdated
+lmcintyre,OrchestrionPlugin (fork),https://github.com/lmcintyre/OrchestrionPlugin,2021-12-10
+Judisch,FastPraetorium,https://github.com/Judisch/FastPraetorium,2021-12-10
 0ceal0t,JobBars,https://github.com/0ceal0t/JobBars,2021-12-10
 lhn1703,XIVComboPlugin (fork),https://github.com/lhn1703/XIVComboPlugin,2021-12-10
 Maxunit,XIVComboPlugin (fork),https://github.com/Maxunit/XIVComboPlugin,2021-12-10
@@ -93,7 +95,6 @@ Eternita-S,NotificationMaster,https://github.com/Eternita-S/NotificationMaster,2
 lmcintyre,Housemate,https://github.com/lmcintyre/Housemate,2021-12-06
 lmcintyre,PrefPro,https://github.com/lmcintyre/PrefPro,2021-12-06
 lmcintyre,DamageInfoPlugin,https://github.com/lmcintyre/DamageInfoPlugin,2021-12-06
-lmcintyre,OrchestrionPlugin (fork),https://github.com/lmcintyre/OrchestrionPlugin,2021-12-06
 xorus,EngageTimer,https://github.com/xorus/EngageTimer,2021-12-06
 Tischel,TPie,https://github.com/Tischel/TPie,2021-12-05
 MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-12-05
@@ -127,7 +128,6 @@ a08381,Dalamud.SkipCutscene,https://github.com/a08381/Dalamud.SkipCutscene,2021-
 d0tiKs,SimpleTweaksPlugin (fork),https://github.com/d0tiKs/SimpleTweaksPlugin,2021-11-26
 buengese,XIVComboPlugin,https://github.com/buengese/XIVComboPlugin,2021-11-25
 msdx321,SoundSetter (fork),https://github.com/msdx321/SoundSetter,2021-11-24
-Judisch,FastPraetorium,https://github.com/Judisch/FastPraetorium,2021-11-23
 yomishino,FFXIVAetherCompass,https://github.com/yomishino/FFXIVAetherCompass,2021-11-22
 wozaiha,SimpleTweaksPlugin (fork),https://github.com/wozaiha/SimpleTweaksPlugin,2021-11-22
 AsterOcclu,FFLogsViewer (fork),https://github.com/AsterOcclu/FFLogsViewer,2021-11-21
@@ -196,8 +196,8 @@ thakyZ,AetherSense (fork),https://github.com/thakyZ/AetherSense,2021-10-17
 tssailzz8,SomethingNeedDoing (fork),https://github.com/tssailzz8/SomethingNeedDoing,2021-10-17
 Eternita-S,SelectString,https://github.com/Eternita-S/SelectString,2021-10-16
 Eternita-S,EnmityHp,https://github.com/Eternita-S/EnmityHp,2021-10-16
-daniels-lee,OpenerLearner,https://github.com/daniels-lee/OpenerLearner,2021-10-15
 Rylith,OpenerLearner,https://github.com/Rylith/OpenerLearner,2021-10-15
+daniels-lee,OpenerLearner,https://github.com/daniels-lee/OpenerLearner,2021-10-15
 DiggityMan420,SmartVote (fork),https://github.com/DiggityMan420/SmartVote,2021-10-15
 suzutan,Dalamud.XLKill (fork),https://github.com/suzutan/Dalamud.XLKill,2021-10-14
 Caraxi,RemindMe,https://github.com/Caraxi/RemindMe,2021-10-14
