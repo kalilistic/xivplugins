@@ -1,4 +1,7 @@
 Author,Name,URL,LastUpdated
+Kouzukii,ffxiv-priceinsight,https://github.com/Kouzukii/ffxiv-priceinsight,2021-12-11
+Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-11
+kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-12-11
 Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-12-11
 kacie8989,FFXIV_Vibe_Plugin (fork),https://github.com/kacie8989/FFXIV_Vibe_Plugin,2021-12-11
 Sevii77,ffxiv_materialui_accent,https://github.com/Sevii77/ffxiv_materialui_accent,2021-12-11
@@ -15,7 +18,6 @@ zhudotexe,FFXIV_PaissaHouse,https://github.com/zhudotexe/FFXIV_PaissaHouse,2021-
 0ceal0t,Dalamud-VFXEditor,https://github.com/0ceal0t/Dalamud-VFXEditor,2021-12-11
 Minizbot2012,MZRadialMenu,https://github.com/Minizbot2012/MZRadialMenu,2021-12-11
 akira0245,MidiBard,https://github.com/akira0245/MidiBard,2021-12-11
-Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-11
 lmcintyre,OrchestrionPlugin (fork),https://github.com/lmcintyre/OrchestrionPlugin,2021-12-11
 MogsFriend,BrowserHost (fork),https://github.com/MogsFriend/BrowserHost,2021-12-11
 rushtothesun,XIVComboPluginExpandedest (fork),https://github.com/rushtothesun/XIVComboPluginExpandedest,2021-12-10
@@ -88,7 +90,6 @@ kalilistic,NeatNoter,https://github.com/kalilistic/NeatNoter,2021-12-07
 kalilistic,SillyChat,https://github.com/kalilistic/SillyChat,2021-12-07
 kalilistic,Dalamud.Kapture,https://github.com/kalilistic/Dalamud.Kapture,2021-12-07
 kalilistic,PriceCheck,https://github.com/kalilistic/PriceCheck,2021-12-07
-kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-12-07
 daemitus,FauxHollowsSolver,https://github.com/daemitus/FauxHollowsSolver,2021-12-07
 lokinmodar,Echoglossian,https://github.com/lokinmodar/Echoglossian,2021-12-07
 daemitus,MiniCactpotSolver,https://github.com/daemitus/MiniCactpotSolver,2021-12-07
@@ -181,7 +182,6 @@ SheepGoMeh,VisibilityPlugin,https://github.com/SheepGoMeh/VisibilityPlugin,2021-
 Eternita-S,DynamicVisibility,https://github.com/Eternita-S/DynamicVisibility,2021-10-24
 horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-24
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-24
-horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-24
 horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-24
 horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-24
 horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat,2021-10-24
@@ -200,8 +200,8 @@ thakyZ,AetherSense (fork),https://github.com/thakyZ/AetherSense,2021-10-17
 tssailzz8,SomethingNeedDoing (fork),https://github.com/tssailzz8/SomethingNeedDoing,2021-10-17
 Eternita-S,SelectString,https://github.com/Eternita-S/SelectString,2021-10-16
 Eternita-S,EnmityHp,https://github.com/Eternita-S/EnmityHp,2021-10-16
-Rylith,OpenerLearner,https://github.com/Rylith/OpenerLearner,2021-10-15
 daniels-lee,OpenerLearner,https://github.com/daniels-lee/OpenerLearner,2021-10-15
+Rylith,OpenerLearner,https://github.com/Rylith/OpenerLearner,2021-10-15
 DiggityMan420,SmartVote (fork),https://github.com/DiggityMan420/SmartVote,2021-10-15
 suzutan,Dalamud.XLKill (fork),https://github.com/suzutan/Dalamud.XLKill,2021-10-14
 Caraxi,RemindMe,https://github.com/Caraxi/RemindMe,2021-10-14
@@ -226,7 +226,6 @@ wozaiha,Glamourer (fork),https://github.com/wozaiha/Glamourer,2021-10-10
 lclichen,HousingPos (fork),https://github.com/lclichen/HousingPos,2021-10-10
 14ng3e,HousingPos (fork),https://github.com/14ng3e/HousingPos,2021-10-10
 saltycog,ffxiv-startup-commands,https://github.com/saltycog/ffxiv-startup-commands,2021-10-10
-Kouzukii,ffxiv-priceinsight,https://github.com/Kouzukii/ffxiv-priceinsight,2021-10-09
 Tenrys,FATEAutoSync,https://github.com/Tenrys/FATEAutoSync,2021-10-09
 talimity,MPTimer,https://github.com/talimity/MPTimer,2021-10-09
 pohky,FFXIVAtkArrayDataBrowserPlugin (fork),https://github.com/pohky/FFXIVAtkArrayDataBrowserPlugin,2021-10-09
