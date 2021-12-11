@@ -1,6 +1,9 @@
 Author,Name,URL,LastUpdated
-fmauNeko,MarketBoardPlugin,https://github.com/fmauNeko/MarketBoardPlugin,2021-12-11
+kacie8989,FFXIV_Vibe_Plugin (fork),https://github.com/kacie8989/FFXIV_Vibe_Plugin,2021-12-11
+Sevii77,ffxiv_materialui_accent,https://github.com/Sevii77/ffxiv_materialui_accent,2021-12-11
 Lharz,xiv-currency-alert,https://github.com/Lharz/xiv-currency-alert,2021-12-11
+fitzchivalrik,gentletouch,https://github.com/fitzchivalrik/gentletouch,2021-12-11
+fmauNeko,MarketBoardPlugin,https://github.com/fmauNeko/MarketBoardPlugin,2021-12-11
 UnknownX7,NoClippy,https://github.com/UnknownX7/NoClippy,2021-12-11
 Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-12-11
 MidoriKami,NoTankYou,https://github.com/MidoriKami/NoTankYou,2021-12-11
@@ -24,14 +27,12 @@ digital-pet,AetherSenseRedux,https://github.com/digital-pet/AetherSenseRedux,202
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-12-10
 HelloWorldOmega,xivPartyIcons (fork),https://github.com/HelloWorldOmega/xivPartyIcons,2021-12-10
 xivdev,Penumbra,https://github.com/xivdev/Penumbra,2021-12-10
-Sevii77,ffxiv_materialui_accent,https://github.com/Sevii77/ffxiv_materialui_accent,2021-12-10
 JackMaiden,MOActionsCore,https://github.com/JackMaiden/MOActionsCore,2021-12-10
 Ottermandias,ChatAlerts (fork),https://github.com/Ottermandias/ChatAlerts,2021-12-10
 Ottermandias,Accountant,https://github.com/Ottermandias/Accountant,2021-12-10
 fitzchivalrik,compass,https://github.com/fitzchivalrik/compass,2021-12-10
 Eternita-S,Instancinator,https://github.com/Eternita-S/Instancinator,2021-12-10
 Ottermandias,Glamourer,https://github.com/Ottermandias/Glamourer,2021-12-10
-kacie8989,FFXIV_Vibe_Plugin (fork),https://github.com/kacie8989/FFXIV_Vibe_Plugin,2021-12-10
 Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-12-10
 Bluefissure,DoubleWeaver,https://github.com/Bluefissure/DoubleWeaver,2021-12-10
 r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-12-10
@@ -52,7 +53,6 @@ pohky,TeleporterPlugin,https://github.com/pohky/TeleporterPlugin,2021-12-09
 RyuaNerin,FFLogsLookup,https://github.com/RyuaNerin/FFLogsLookup,2021-12-09
 shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-09
 danielldavies,DeepDungeonDexEx (fork),https://github.com/danielldavies/DeepDungeonDexEx,2021-12-09
-fitzchivalrik,gentletouch,https://github.com/fitzchivalrik/gentletouch,2021-12-09
 Evil-Crab,XIVComboPlugin (fork),https://github.com/Evil-Crab/XIVComboPlugin,2021-12-09
 MidoriKami,XIVWiki,https://github.com/MidoriKami/XIVWiki,2021-12-09
 marimelon,YesAlready (fork),https://github.com/marimelon/YesAlready,2021-12-09
@@ -181,8 +181,6 @@ SheepGoMeh,VisibilityPlugin,https://github.com/SheepGoMeh/VisibilityPlugin,2021-
 Eternita-S,DynamicVisibility,https://github.com/Eternita-S/DynamicVisibility,2021-10-24
 horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-24
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-24
-horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-24
-horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-24
 horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-24
 horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat,2021-10-24
 horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-24
