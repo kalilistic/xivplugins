@@ -1,4 +1,6 @@
 Author,Name,URL,LastUpdated
+PrincessRTFM,XIVComboPlugin (fork),https://github.com/PrincessRTFM/XIVComboPlugin,2021-12-13
+daemitus,SomethingNeedDoing,https://github.com/daemitus/SomethingNeedDoing,2021-12-13
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-12-13
 xivdev,Penumbra,https://github.com/xivdev/Penumbra,2021-12-13
 Caraxi,ItemSearchPlugin,https://github.com/Caraxi/ItemSearchPlugin,2021-12-13
@@ -6,7 +8,6 @@ goaaats,Dalamud.FindAnything,https://github.com/goaaats/Dalamud.FindAnything,202
 goaaats,Dalamud.CharacterSync,https://github.com/goaaats/Dalamud.CharacterSync,2021-12-13
 Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-12-13
 Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-13
-PrincessRTFM,XIVComboPlugin (fork),https://github.com/PrincessRTFM/XIVComboPlugin,2021-12-13
 Maxunit,XIVComboPlugin (fork),https://github.com/Maxunit/XIVComboPlugin,2021-12-13
 damolitionn,XIVComboPluginExpandedest (fork),https://github.com/damolitionn/XIVComboPluginExpandedest,2021-12-13
 Bluefissure,Inviter,https://github.com/Bluefissure/Inviter,2021-12-13
@@ -92,7 +93,6 @@ Eternita-S,TextAdvance,https://github.com/Eternita-S/TextAdvance,2021-12-08
 Ottermandias,RezPls,https://github.com/Ottermandias/RezPls,2021-12-08
 Ottermandias,AutoVisor,https://github.com/Ottermandias/AutoVisor,2021-12-08
 Soreepeong,QuoteOfTheLobby,https://github.com/Soreepeong/QuoteOfTheLobby,2021-12-08
-daemitus,SomethingNeedDoing,https://github.com/daemitus/SomethingNeedDoing,2021-12-08
 daemitus,YesAlready,https://github.com/daemitus/YesAlready,2021-12-07
 marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-12-07
 kissorjeyabalan,dalamud-chatcoordinates,https://github.com/kissorjeyabalan/dalamud-chatcoordinates,2021-12-07
@@ -193,6 +193,7 @@ NukoOoOoOoO,BozjaHelper,https://github.com/NukoOoOoOoO/BozjaHelper,2021-10-25
 Eternita-S,DynamicVisibility,https://github.com/Eternita-S/DynamicVisibility,2021-10-24
 horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-24
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-24
+horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-24
 horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-24
 horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-24
 horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat,2021-10-24
