@@ -12,6 +12,7 @@ captainbinary,XIVComboPluginKamified (fork),https://github.com/captainbinary/XIV
 carvelli,Slice-Is-Right,https://github.com/carvelli/Slice-Is-Right,2021-12-15
 Evil-Crab,XIVComboPlugin (fork),https://github.com/Evil-Crab/XIVComboPlugin,2021-12-15
 damolitionn,XIVComboPluginExpandedest (fork),https://github.com/damolitionn/XIVComboPluginExpandedest,2021-12-15
+0ceal0t,Dalamud-VFXEditor,https://github.com/0ceal0t/Dalamud-VFXEditor,2021-12-15
 goaaats,Dalamud.FindAnything,https://github.com/goaaats/Dalamud.FindAnything,2021-12-15
 TheResinger,DelvUI (fork),https://github.com/TheResinger/DelvUI,2021-12-15
 Eternita-S,AntiAfkKick,https://github.com/Eternita-S/AntiAfkKick,2021-12-15
@@ -55,7 +56,6 @@ horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscop
 kalilistic,NeatNoter,https://github.com/kalilistic/NeatNoter,2021-12-13
 Caraxi,ItemSearchPlugin,https://github.com/Caraxi/ItemSearchPlugin,2021-12-13
 Bluefissure,Inviter,https://github.com/Bluefissure/Inviter,2021-12-13
-philpax,exvr,https://github.com/philpax/exvr,2021-12-13
 lokinmodar,Echoglossian,https://github.com/lokinmodar/Echoglossian,2021-12-13
 Eternita-S,Inviter (fork),https://github.com/Eternita-S/Inviter,2021-12-12
 r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-12-12
@@ -116,7 +116,6 @@ Caraxi,MacroChain,https://github.com/Caraxi/MacroChain,2021-12-08
 Strati,DeepDungeonDex,https://github.com/Strati/DeepDungeonDex,2021-12-08
 sky-fell,ChatBubbles (fork),https://github.com/sky-fell/ChatBubbles,2021-12-08
 Ottermandias,RezPls,https://github.com/Ottermandias/RezPls,2021-12-08
-Ottermandias,AutoVisor,https://github.com/Ottermandias/AutoVisor,2021-12-08
 Soreepeong,QuoteOfTheLobby,https://github.com/Soreepeong/QuoteOfTheLobby,2021-12-08
 daemitus,YesAlready,https://github.com/daemitus/YesAlready,2021-12-07
 marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-12-07
@@ -136,6 +135,7 @@ daemitus,MiniCactpotSolver,https://github.com/daemitus/MiniCactpotSolver,2021-12
 daemitus,WondrousTailsSolver,https://github.com/daemitus/WondrousTailsSolver,2021-12-07
 daemitus,ZodiacBuddy,https://github.com/daemitus/ZodiacBuddy,2021-12-07
 deathzombee,bpm,https://github.com/deathzombee/bpm,2021-12-06
+tesu,PennyPincher,https://github.com/tesu/PennyPincher,2021-12-06
 Eternita-S,NotificationMaster,https://github.com/Eternita-S/NotificationMaster,2021-12-06
 lmcintyre,Housemate,https://github.com/lmcintyre/Housemate,2021-12-06
 lmcintyre,PrefPro,https://github.com/lmcintyre/PrefPro,2021-12-06
@@ -216,19 +216,16 @@ NukoOoOoOoO,BozjaHelper,https://github.com/NukoOoOoOoO/BozjaHelper,2021-10-25
 Eternita-S,DynamicVisibility,https://github.com/Eternita-S/DynamicVisibility,2021-10-24
 horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-24
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-24
-horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-24
 horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-24
 horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-24
 horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-24
 Eternita-S,QuestAWAY,https://github.com/Eternita-S/QuestAWAY,2021-10-23
 Bluefissure,Penumbra (fork),https://github.com/Bluefissure/Penumbra,2021-10-23
-pohky,exvr (fork),https://github.com/pohky/exvr,2021-10-23
 reiichi001,dalamud-chattyper,https://github.com/reiichi001/dalamud-chattyper,2021-10-23
 TheGreenkey,ItemSearchPlugin (fork),https://github.com/TheGreenkey/ItemSearchPlugin,2021-10-21
 Leftn,FFXIV-ACT-Endcounter,https://github.com/Leftn/FFXIV-ACT-Endcounter,2021-10-21
 rreminy,CharSyncPlugin,https://github.com/rreminy/CharSyncPlugin,2021-10-21
 TetraK1,XIVComboPlugin (fork),https://github.com/TetraK1/XIVComboPlugin,2021-10-21
-StargazingNeko,MogLog,https://github.com/StargazingNeko/MogLog,2021-10-18
 Tischel,DelvUI (fork),https://github.com/Tischel/DelvUI,2021-10-18
 duartemateus,DelvUI (fork),https://github.com/duartemateus/DelvUI,2021-10-18
 thakyZ,AetherSense (fork),https://github.com/thakyZ/AetherSense,2021-10-17
@@ -406,6 +403,7 @@ DaulB,PixelPerfect (fork),https://github.com/DaulB/PixelPerfect,2021-06-20
 Eternita-S,PriceOverlay,https://github.com/Eternita-S/PriceOverlay,2021-06-06
 serifine,XIV-Chat-Scanner,https://github.com/serifine/XIV-Chat-Scanner,2021-06-06
 Kuenaimaku,InventoryCleanupPlugin,https://github.com/Kuenaimaku/InventoryCleanupPlugin,2021-06-05
+Looty,PennyPincher (fork),https://github.com/Looty/PennyPincher,2021-06-05
 tssailzz8,XIVComboPluginExpandedest (fork),https://github.com/tssailzz8/XIVComboPluginExpandedest,2021-06-03
 aers,MaterialTools,https://github.com/aers/MaterialTools,2021-06-01
 Caraxi,ChatAlerts,https://github.com/Caraxi/ChatAlerts,2021-05-30
@@ -457,6 +455,7 @@ kalilistic,BetterProfanityFilter,https://github.com/kalilistic/BetterProfanityFi
 kalilistic,LeetSpeak,https://github.com/kalilistic/LeetSpeak,2021-03-21
 bugboyo,CameraPlugin,https://github.com/bugboyo/CameraPlugin,2021-03-17
 maributt,DeepDungeonDex (fork),https://github.com/maributt/DeepDungeonDex,2021-03-06
+austinglines42,PennyPincher (fork),https://github.com/austinglines42/PennyPincher,2021-02-24
 SoonKeatNeo,BDTHPlugin (fork),https://github.com/SoonKeatNeo/BDTHPlugin,2021-02-24
 0ceal0t,Dalamud-GaugeAura,https://github.com/0ceal0t/Dalamud-GaugeAura,2021-02-23
 NicoOrz,DeepDungeonDex (fork),https://github.com/NicoOrz/DeepDungeonDex,2021-02-23
