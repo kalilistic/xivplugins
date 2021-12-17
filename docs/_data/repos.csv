@@ -1,4 +1,6 @@
 Author,Name,URL,LastUpdated
+plug-ffxiv,XIVComboPlugin (fork),https://github.com/plug-ffxiv/XIVComboPlugin,2021-12-17
+Snorgy,XIVComboPluginExpandedest (fork),https://github.com/Snorgy/XIVComboPluginExpandedest,2021-12-17
 CaiClone,GCDTracker,https://github.com/CaiClone/GCDTracker,2021-12-17
 Dalamud-Kr,WaymarkPresetPlugin (fork),https://github.com/Dalamud-Kr/WaymarkPresetPlugin,2021-12-17
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-12-17
@@ -9,13 +11,13 @@ shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-17
 damolitionn,XIVComboPluginExpandedest (fork),https://github.com/damolitionn/XIVComboPluginExpandedest,2021-12-17
 kacie8989,FFXIV_Vibe_Plugin (fork),https://github.com/kacie8989/FFXIV_Vibe_Plugin,2021-12-17
 Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-17
-plug-ffxiv,XIVComboPlugin (fork),https://github.com/plug-ffxiv/XIVComboPlugin,2021-12-17
 karashiiro,PingPlugin,https://github.com/karashiiro/PingPlugin,2021-12-17
 lichie567,LMeter,https://github.com/lichie567/LMeter,2021-12-17
 Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-12-17
 MogsFriend,Monoseros,https://github.com/MogsFriend/Monoseros,2021-12-17
 goaaats,Dalamud.FindAnything,https://github.com/goaaats/Dalamud.FindAnything,2021-12-17
 Maxunit,XIVComboPlugin (fork),https://github.com/Maxunit/XIVComboPlugin,2021-12-17
+lemonlust,DelvUI (fork),https://github.com/lemonlust/DelvUI,2021-12-17
 DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-12-17
 Eternita-S,Splatoon,https://github.com/Eternita-S/Splatoon,2021-12-16
 NamelocE,XIVComboPluginExpandedest (fork),https://github.com/NamelocE/XIVComboPluginExpandedest,2021-12-16
@@ -26,7 +28,6 @@ carvelli,Slice-Is-Right,https://github.com/carvelli/Slice-Is-Right,2021-12-16
 AsterOcclu,Dalamud.SkipCutscene (fork),https://github.com/AsterOcclu/Dalamud.SkipCutscene,2021-12-16
 idlyby,HunterScholar,https://github.com/idlyby/HunterScholar,2021-12-16
 joyvanderveeken,DelvUI (fork),https://github.com/joyvanderveeken/DelvUI,2021-12-15
-lemonlust,DelvUI (fork),https://github.com/lemonlust/DelvUI,2021-12-15
 pastram-i,positionalAssist (fork),https://github.com/pastram-i/positionalAssist,2021-12-15
 Evil-Crab,XIVComboPlugin (fork),https://github.com/Evil-Crab/XIVComboPlugin,2021-12-15
 0ceal0t,Dalamud-VFXEditor,https://github.com/0ceal0t/Dalamud-VFXEditor,2021-12-15
@@ -215,6 +216,7 @@ Bluefissure,DelvUI (fork),https://github.com/Bluefissure/DelvUI,2021-10-26
 captainbinary,XIVComboPluginKamifiedTest,https://github.com/captainbinary/XIVComboPluginKamifiedTest,2021-10-26
 rvazarkar,XIVToDo,https://github.com/rvazarkar/XIVToDo,2021-10-25
 a08381,Dalamud.SmartVote,https://github.com/a08381/Dalamud.SmartVote,2021-10-25
+that-succubus,SuccubusComboPlugin,https://github.com/that-succubus/SuccubusComboPlugin,2021-10-25
 Loskh,StarlightBreaker,https://github.com/Loskh/StarlightBreaker,2021-10-25
 NukoOoOoOoO,BozjaHelper,https://github.com/NukoOoOoOoO/BozjaHelper,2021-10-25
 Eternita-S,DynamicVisibility,https://github.com/Eternita-S/DynamicVisibility,2021-10-24
