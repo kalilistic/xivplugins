@@ -1,4 +1,8 @@
 Author,Name,URL,LastUpdated
+shdwp,xivPartyIcons,https://github.com/shdwp/xivPartyIcons,2021-12-17
+shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-17
+damolitionn,XIVComboPluginExpandedest (fork),https://github.com/damolitionn/XIVComboPluginExpandedest,2021-12-17
+CaiClone,GCDTracker,https://github.com/CaiClone/GCDTracker,2021-12-17
 MidoriKami,NoTankYou,https://github.com/MidoriKami/NoTankYou,2021-12-17
 kacie8989,FFXIV_Vibe_Plugin (fork),https://github.com/kacie8989/FFXIV_Vibe_Plugin,2021-12-17
 Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-17
@@ -13,8 +17,6 @@ Maxunit,XIVComboPlugin (fork),https://github.com/Maxunit/XIVComboPlugin,2021-12-
 DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-12-17
 Eternita-S,Splatoon,https://github.com/Eternita-S/Splatoon,2021-12-16
 NamelocE,XIVComboPluginExpandedest (fork),https://github.com/NamelocE/XIVComboPluginExpandedest,2021-12-16
-damolitionn,XIVComboPluginExpandedest (fork),https://github.com/damolitionn/XIVComboPluginExpandedest,2021-12-16
-CaiClone,GCDTracker,https://github.com/CaiClone/GCDTracker,2021-12-16
 marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-12-16
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-12-16
 captainbinary,XIVComboPluginKamified (fork),https://github.com/captainbinary/XIVComboPluginKamified,2021-12-16
@@ -80,6 +82,7 @@ Haplo064,ChatBubbles,https://github.com/Haplo064/ChatBubbles,2021-12-12
 akira0245,Reset-dummy-enmity-command,https://github.com/akira0245/Reset-dummy-enmity-command,2021-12-12
 brunobriante,tour-guide,https://github.com/brunobriante/tour-guide,2021-12-11
 Kouzukii,ffxiv-priceinsight,https://github.com/Kouzukii/ffxiv-priceinsight,2021-12-11
+fitzchivalrik,compass,https://github.com/fitzchivalrik/compass,2021-12-11
 Lharz,xiv-currency-alert,https://github.com/Lharz/xiv-currency-alert,2021-12-11
 fitzchivalrik,gentletouch,https://github.com/fitzchivalrik/gentletouch,2021-12-11
 UnknownX7,NoClippy,https://github.com/UnknownX7/NoClippy,2021-12-11
@@ -96,7 +99,6 @@ HelloWorldOmega,xivPartyIcons (fork),https://github.com/HelloWorldOmega/xivParty
 JackMaiden,MOActionsCore,https://github.com/JackMaiden/MOActionsCore,2021-12-10
 Ottermandias,ChatAlerts (fork),https://github.com/Ottermandias/ChatAlerts,2021-12-10
 Ottermandias,Accountant,https://github.com/Ottermandias/Accountant,2021-12-10
-fitzchivalrik,compass,https://github.com/fitzchivalrik/compass,2021-12-10
 Eternita-S,Instancinator,https://github.com/Eternita-S/Instancinator,2021-12-10
 Ottermandias,Glamourer,https://github.com/Ottermandias/Glamourer,2021-12-10
 Bluefissure,DoubleWeaver,https://github.com/Bluefissure/DoubleWeaver,2021-12-10
@@ -110,7 +112,6 @@ Aireil,FlyTextFilter,https://github.com/Aireil/FlyTextFilter,2021-12-09
 MiKE41,CameraPlugin (fork),https://github.com/MiKE41/CameraPlugin,2021-12-09
 pohky,TeleporterPlugin,https://github.com/pohky/TeleporterPlugin,2021-12-09
 RyuaNerin,FFLogsLookup,https://github.com/RyuaNerin/FFLogsLookup,2021-12-09
-shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-09
 danielldavies,DeepDungeonDexEx (fork),https://github.com/danielldavies/DeepDungeonDexEx,2021-12-09
 marimelon,YesAlready (fork),https://github.com/marimelon/YesAlready,2021-12-09
 Eternita-S,Prioritizer,https://github.com/Eternita-S/Prioritizer,2021-12-09
@@ -128,8 +129,6 @@ Ottermandias,RezPls,https://github.com/Ottermandias/RezPls,2021-12-08
 Ottermandias,AutoVisor,https://github.com/Ottermandias/AutoVisor,2021-12-08
 Soreepeong,QuoteOfTheLobby,https://github.com/Soreepeong/QuoteOfTheLobby,2021-12-08
 daemitus,YesAlready,https://github.com/daemitus/YesAlready,2021-12-07
-kissorjeyabalan,dalamud-chatcoordinates,https://github.com/kissorjeyabalan/dalamud-chatcoordinates,2021-12-07
-shdwp,xivPartyIcons,https://github.com/shdwp/xivPartyIcons,2021-12-07
 UnknownX7,OOBlugin,https://github.com/UnknownX7/OOBlugin,2021-12-07
 Critical-Impact,InventoryTools,https://github.com/Critical-Impact/InventoryTools,2021-12-07
 UnknownX7,QoLBar,https://github.com/UnknownX7/QoLBar,2021-12-07
