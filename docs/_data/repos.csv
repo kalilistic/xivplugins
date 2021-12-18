@@ -1,6 +1,8 @@
 Author,Name,URL,LastUpdated
 Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-12-18
 UnknownX7,ReAction,https://github.com/UnknownX7/ReAction,2021-12-18
+Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-12-18
+MidoriKami,NoTankYou,https://github.com/MidoriKami/NoTankYou,2021-12-18
 Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-17
 joyvanderveeken,DelvUI (fork),https://github.com/joyvanderveeken/DelvUI,2021-12-17
 xPumaa,JobIcons (fork),https://github.com/xPumaa/JobIcons,2021-12-17
@@ -19,7 +21,6 @@ Dalamud-Kr,WaymarkPresetPlugin (fork),https://github.com/Dalamud-Kr/WaymarkPrese
 goaaats,Dalamud.FindAnything,https://github.com/goaaats/Dalamud.FindAnything,2021-12-17
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-12-17
 Sevii77,ffxiv_materialui_accent,https://github.com/Sevii77/ffxiv_materialui_accent,2021-12-17
-MidoriKami,NoTankYou,https://github.com/MidoriKami/NoTankYou,2021-12-17
 shdwp,xivPartyIcons,https://github.com/shdwp/xivPartyIcons,2021-12-17
 shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-17
 damolitionn,XIVComboPluginExpandedest (fork),https://github.com/damolitionn/XIVComboPluginExpandedest,2021-12-17
@@ -44,7 +45,6 @@ MgAl2O4,PatMeDalamud,https://github.com/MgAl2O4/PatMeDalamud,2021-12-15
 PrincessRTFM,XIVComboPlugin (fork),https://github.com/PrincessRTFM/XIVComboPlugin,2021-12-15
 ihor-rud,XIVComboPlugin (fork),https://github.com/ihor-rud/XIVComboPlugin,2021-12-15
 Eternita-S,TextAdvance,https://github.com/Eternita-S/TextAdvance,2021-12-15
-Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-12-15
 marimelon,SomethingNeedDoing (fork),https://github.com/marimelon/SomethingNeedDoing,2021-12-15
 0ceal0t,JobBars,https://github.com/0ceal0t/JobBars,2021-12-15
 Tischel,TPie,https://github.com/Tischel/TPie,2021-12-15
@@ -74,6 +74,7 @@ kalilistic,NeatNoter,https://github.com/kalilistic/NeatNoter,2021-12-13
 Caraxi,ItemSearchPlugin,https://github.com/Caraxi/ItemSearchPlugin,2021-12-13
 Bluefissure,Inviter,https://github.com/Bluefissure/Inviter,2021-12-13
 philpax,exvr,https://github.com/philpax/exvr,2021-12-13
+lokinmodar,Echoglossian,https://github.com/lokinmodar/Echoglossian,2021-12-13
 Eternita-S,Inviter (fork),https://github.com/Eternita-S/Inviter,2021-12-12
 r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-12-12
 Codemned,XIVComboWayTooAkiiified (fork),https://github.com/Codemned/XIVComboWayTooAkiiified,2021-12-12
@@ -128,6 +129,7 @@ chalkos,Marketbuddy,https://github.com/chalkos/Marketbuddy,2021-12-09
 chalkos,RepairMe,https://github.com/chalkos/RepairMe,2021-12-09
 LeonBlade,BDTHPlugin,https://github.com/LeonBlade/BDTHPlugin,2021-12-09
 Icehunter,AutoTranslateXIV,https://github.com/Icehunter/AutoTranslateXIV,2021-12-09
+Caraxi,MacroChain,https://github.com/Caraxi/MacroChain,2021-12-08
 Strati,DeepDungeonDex,https://github.com/Strati/DeepDungeonDex,2021-12-08
 sky-fell,ChatBubbles (fork),https://github.com/sky-fell/ChatBubbles,2021-12-08
 Ottermandias,RezPls,https://github.com/Ottermandias/RezPls,2021-12-08
@@ -163,6 +165,7 @@ karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-12-04
 goaaats,Dalamud.RichPresence,https://github.com/goaaats/Dalamud.RichPresence,2021-12-04
 goaaats,Dalamud.DiscordBridge,https://github.com/goaaats/Dalamud.DiscordBridge,2021-12-04
 MgAl2O4,FFTriadBuddyDalamud,https://github.com/MgAl2O4/FFTriadBuddyDalamud,2021-12-04
+SheepGoMeh,VisibilityPlugin,https://github.com/SheepGoMeh/VisibilityPlugin,2021-12-03
 akira0245,SmartCast,https://github.com/akira0245/SmartCast,2021-12-03
 electr0sheep,ItemVendor,https://github.com/electr0sheep/ItemVendor,2021-12-02
 markjsosnowski,BlueMageHelper,https://github.com/markjsosnowski/BlueMageHelper,2021-12-01
@@ -384,6 +387,7 @@ ButchMonkey,TooltipMBData,https://github.com/ButchMonkey/TooltipMBData,2021-08-1
 wozaiha,Penumbra (fork),https://github.com/wozaiha/Penumbra,2021-08-12
 maributt,PixelPerfectPlus (fork),https://github.com/maributt/PixelPerfectPlus,2021-08-11
 wozaiha,StarLightBreaker,https://github.com/wozaiha/StarLightBreaker,2021-08-09
+wozaiha,VisibilityPlugin (fork),https://github.com/wozaiha/VisibilityPlugin,2021-08-09
 karashiiro,PriceCheck (fork),https://github.com/karashiiro/PriceCheck,2021-08-06
 ohhopi,OopsNoLalafells (fork),https://github.com/ohhopi/OopsNoLalafells,2021-08-05
 msdx321,QoLBar (fork),https://github.com/msdx321/QoLBar,2021-08-05
@@ -427,6 +431,7 @@ suzutan,Dalamud.EbisuBeer,https://github.com/suzutan/Dalamud.EbisuBeer,2021-05-1
 DreanorFFXIV,dalamud-questTTS,https://github.com/DreanorFFXIV/dalamud-questTTS,2021-05-09
 msdx321,MOActionPlugin (fork),https://github.com/msdx321/MOActionPlugin,2021-05-08
 fishythefish,OopsAllLalafells (fork),https://github.com/fishythefish/OopsAllLalafells,2021-05-06
+suzutan,MacroRecursionReborn (fork),https://github.com/suzutan/MacroRecursionReborn,2021-05-05
 aers,NamePlates,https://github.com/aers/NamePlates,2021-05-02
 aers,FFXIVAtkArrayDataBrowserPlugin,https://github.com/aers/FFXIVAtkArrayDataBrowserPlugin,2021-04-29
 unseenline,HousingPos (fork),https://github.com/unseenline/HousingPos,2021-04-27
@@ -439,9 +444,11 @@ msdx321,LivePluginLoad (fork),https://github.com/msdx321/LivePluginLoad,2021-04-
 msdx321,MarketBoardPlugin (fork),https://github.com/msdx321/MarketBoardPlugin,2021-04-19
 Eternita-S,OrchestrionPlugin (fork),https://github.com/Eternita-S/OrchestrionPlugin,2021-04-19
 LeonBlade,CameraPlugin,https://github.com/LeonBlade/CameraPlugin,2021-04-18
+ChristopherJTrent,MacroRecursion (fork),https://github.com/ChristopherJTrent/MacroRecursion,2021-04-18
 0ceal0t,PartyPlus,https://github.com/0ceal0t/PartyPlus,2021-04-17
 msdx321,MPTimer (fork),https://github.com/msdx321/MPTimer,2021-04-17
 lmcintyre,XIVComboPlugin (fork),https://github.com/lmcintyre/XIVComboPlugin,2021-04-17
+Mireiawen,VisibilityPlugin (fork),https://github.com/Mireiawen/VisibilityPlugin,2021-04-16
 maributt,OldMacroRecursion,https://github.com/maributt/OldMacroRecursion,2021-04-15
 reiichi001,FFXIV_PaissaHouse (fork),https://github.com/reiichi001/FFXIV_PaissaHouse,2021-04-15
 ff-meli,OrchestrionPlugin,https://github.com/ff-meli/OrchestrionPlugin,2021-04-15
