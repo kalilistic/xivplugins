@@ -1,9 +1,12 @@
 Author,Name,URL,LastUpdated
+DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-12-19
 plug-ffxiv,XIVComboPlugin (fork),https://github.com/plug-ffxiv/XIVComboPlugin,2021-12-19
+Aireil,SimpleTweaksPlugin (fork),https://github.com/Aireil/SimpleTweaksPlugin,2021-12-19
+yomishino,FFXIVTitleRenamed,https://github.com/yomishino/FFXIVTitleRenamed,2021-12-19
+96Ben,XIVComboPlugin (fork),https://github.com/96Ben/XIVComboPlugin,2021-12-19
 catgirlfighter,xivPartyIcons (fork),https://github.com/catgirlfighter/xivPartyIcons,2021-12-19
 Murakumo-JP,Dalamud.RichPresence (fork),https://github.com/Murakumo-JP/Dalamud.RichPresence,2021-12-19
 CaiClone,GCDTracker,https://github.com/CaiClone/GCDTracker,2021-12-19
-DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-12-19
 Maxunit,compass (fork),https://github.com/Maxunit/compass,2021-12-19
 lichie567,LMeter,https://github.com/lichie567/LMeter,2021-12-19
 kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-12-19
@@ -41,6 +44,7 @@ shdwp,xivPartyIcons,https://github.com/shdwp/xivPartyIcons,2021-12-17
 shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-17
 MogsFriend,Monoseros,https://github.com/MogsFriend/Monoseros,2021-12-17
 lemonlust,DelvUI (fork),https://github.com/lemonlust/DelvUI,2021-12-17
+TheResinger,DelvUI (fork),https://github.com/TheResinger/DelvUI,2021-12-17
 NamelocE,XIVComboPluginExpandedest (fork),https://github.com/NamelocE/XIVComboPluginExpandedest,2021-12-16
 captainbinary,XIVComboPluginKamified (fork),https://github.com/captainbinary/XIVComboPluginKamified,2021-12-16
 wozaiha,DalamudACT,https://github.com/wozaiha/DalamudACT,2021-12-16
@@ -50,7 +54,6 @@ idlyby,HunterScholar,https://github.com/idlyby/HunterScholar,2021-12-16
 pastram-i,positionalAssist (fork),https://github.com/pastram-i/positionalAssist,2021-12-15
 Evil-Crab,XIVComboPlugin (fork),https://github.com/Evil-Crab/XIVComboPlugin,2021-12-15
 0ceal0t,Dalamud-VFXEditor,https://github.com/0ceal0t/Dalamud-VFXEditor,2021-12-15
-TheResinger,DelvUI (fork),https://github.com/TheResinger/DelvUI,2021-12-15
 Eternita-S,AntiAfkKick,https://github.com/Eternita-S/AntiAfkKick,2021-12-15
 Eternita-S,Weatherman,https://github.com/Eternita-S/Weatherman,2021-12-15
 Otkar,DelvUI (fork),https://github.com/Otkar/DelvUI,2021-12-15
@@ -210,7 +213,6 @@ uiharuayako,FFXIV.WinTitle (fork),https://github.com/uiharuayako/FFXIV.WinTitle,
 reiichi001,Dalamud-FlashOnTellPlugin,https://github.com/reiichi001/Dalamud-FlashOnTellPlugin,2021-11-03
 marimelon,LeaveDutyCmdPlugin,https://github.com/marimelon/LeaveDutyCmdPlugin,2021-11-03
 Ottermandias,Peon,https://github.com/Ottermandias/Peon,2021-10-31
-yomishino,FFXIVTitleRenamed,https://github.com/yomishino/FFXIVTitleRenamed,2021-10-31
 iDevLA,SlideCast1,https://github.com/iDevLA/SlideCast1,2021-10-31
 SheepGoMeh,SideHUD,https://github.com/SheepGoMeh/SideHUD,2021-10-30
 0ceal0t,Penumbra (fork),https://github.com/0ceal0t/Penumbra,2021-10-30
