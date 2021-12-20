@@ -1,7 +1,7 @@
 Author,Name,URL,LastUpdated
+MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-12-20
 DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-12-20
 CaiClone,GCDTracker,https://github.com/CaiClone/GCDTracker,2021-12-20
-MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-12-20
 Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-20
 Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-12-20
 shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-20
@@ -14,6 +14,7 @@ marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-12-20
 karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-12-20
 Bluefissure,NoKillPlugin,https://github.com/Bluefissure/NoKillPlugin,2021-12-20
 kacie8989,FFXIV_Vibe_Plugin (fork),https://github.com/kacie8989/FFXIV_Vibe_Plugin,2021-12-20
+karashiiro,PingPlugin,https://github.com/karashiiro/PingPlugin,2021-12-20
 r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-12-20
 Maxunit,XIVComboPlugin (fork),https://github.com/Maxunit/XIVComboPlugin,2021-12-19
 yomishino,FFXIVTitleRenamed,https://github.com/yomishino/FFXIVTitleRenamed,2021-12-19
@@ -38,7 +39,6 @@ Tischel,TPie,https://github.com/Tischel/TPie,2021-12-18
 Sevii77,ffxiv_materialui_accent,https://github.com/Sevii77/ffxiv_materialui_accent,2021-12-18
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-12-18
 joyvanderveeken,DelvUI (fork),https://github.com/joyvanderveeken/DelvUI,2021-12-17
-xPumaa,JobIcons (fork),https://github.com/xPumaa/JobIcons,2021-12-17
 karashiiro,SoundSetter,https://github.com/karashiiro/SoundSetter,2021-12-17
 shdwp,xivRaidBuffTracker,https://github.com/shdwp/xivRaidBuffTracker,2021-12-17
 Eternita-S,Splatoon,https://github.com/Eternita-S/Splatoon,2021-12-17
@@ -89,7 +89,6 @@ horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscop
 kalilistic,NeatNoter,https://github.com/kalilistic/NeatNoter,2021-12-13
 Caraxi,ItemSearchPlugin,https://github.com/Caraxi/ItemSearchPlugin,2021-12-13
 Bluefissure,Inviter,https://github.com/Bluefissure/Inviter,2021-12-13
-philpax,exvr,https://github.com/philpax/exvr,2021-12-13
 lokinmodar,Echoglossian,https://github.com/lokinmodar/Echoglossian,2021-12-13
 Eternita-S,Inviter (fork),https://github.com/Eternita-S/Inviter,2021-12-12
 kalilistic,SillyChat,https://github.com/kalilistic/SillyChat,2021-12-12
@@ -174,7 +173,6 @@ goaaats,Dalamud.LoadingImage,https://github.com/goaaats/Dalamud.LoadingImage,202
 goaaats,Dalamud.RichPresence,https://github.com/goaaats/Dalamud.RichPresence,2021-12-04
 goaaats,Dalamud.DiscordBridge,https://github.com/goaaats/Dalamud.DiscordBridge,2021-12-04
 MgAl2O4,FFTriadBuddyDalamud,https://github.com/MgAl2O4/FFTriadBuddyDalamud,2021-12-04
-SheepGoMeh,VisibilityPlugin,https://github.com/SheepGoMeh/VisibilityPlugin,2021-12-03
 akira0245,SmartCast,https://github.com/akira0245/SmartCast,2021-12-03
 electr0sheep,ItemVendor,https://github.com/electr0sheep/ItemVendor,2021-12-02
 markjsosnowski,BlueMageHelper,https://github.com/markjsosnowski/BlueMageHelper,2021-12-01
@@ -235,9 +233,9 @@ horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-d
 horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-24
 horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-24
 horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-24
+horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-24
 Eternita-S,QuestAWAY,https://github.com/Eternita-S/QuestAWAY,2021-10-23
 Bluefissure,Penumbra (fork),https://github.com/Bluefissure/Penumbra,2021-10-23
-pohky,exvr (fork),https://github.com/pohky/exvr,2021-10-23
 reiichi001,dalamud-chattyper,https://github.com/reiichi001/dalamud-chattyper,2021-10-23
 TheGreenkey,ItemSearchPlugin (fork),https://github.com/TheGreenkey/ItemSearchPlugin,2021-10-21
 Leftn,FFXIV-ACT-Endcounter,https://github.com/Leftn/FFXIV-ACT-Endcounter,2021-10-21
@@ -277,7 +275,6 @@ talimity,MPTimer,https://github.com/talimity/MPTimer,2021-10-09
 pohky,FFXIVAtkArrayDataBrowserPlugin (fork),https://github.com/pohky/FFXIVAtkArrayDataBrowserPlugin,2021-10-09
 Dormanil,FantasyPlayer (fork),https://github.com/Dormanil/FantasyPlayer,2021-10-09
 Haplo064,Europe,https://github.com/Haplo064/Europe,2021-10-09
-Haplo064,JobIcons,https://github.com/Haplo064/JobIcons,2021-10-09
 Haplo064,WheresWOLdo,https://github.com/Haplo064/WheresWOLdo,2021-10-09
 Caraxi,PartyListLayout,https://github.com/Caraxi/PartyListLayout,2021-10-08
 reiichi001,MPTimer (fork),https://github.com/reiichi001/MPTimer,2021-10-08
@@ -391,7 +388,6 @@ ButchMonkey,TooltipMBData,https://github.com/ButchMonkey/TooltipMBData,2021-08-1
 wozaiha,Penumbra (fork),https://github.com/wozaiha/Penumbra,2021-08-12
 maributt,PixelPerfectPlus (fork),https://github.com/maributt/PixelPerfectPlus,2021-08-11
 wozaiha,StarLightBreaker,https://github.com/wozaiha/StarLightBreaker,2021-08-09
-wozaiha,VisibilityPlugin (fork),https://github.com/wozaiha/VisibilityPlugin,2021-08-09
 karashiiro,PriceCheck (fork),https://github.com/karashiiro/PriceCheck,2021-08-06
 ohhopi,OopsNoLalafells (fork),https://github.com/ohhopi/OopsNoLalafells,2021-08-05
 msdx321,QoLBar (fork),https://github.com/msdx321/QoLBar,2021-08-05
@@ -452,7 +448,6 @@ ChristopherJTrent,MacroRecursion (fork),https://github.com/ChristopherJTrent/Mac
 0ceal0t,PartyPlus,https://github.com/0ceal0t/PartyPlus,2021-04-17
 msdx321,MPTimer (fork),https://github.com/msdx321/MPTimer,2021-04-17
 lmcintyre,XIVComboPlugin (fork),https://github.com/lmcintyre/XIVComboPlugin,2021-04-17
-Mireiawen,VisibilityPlugin (fork),https://github.com/Mireiawen/VisibilityPlugin,2021-04-16
 maributt,OldMacroRecursion,https://github.com/maributt/OldMacroRecursion,2021-04-15
 reiichi001,FFXIV_PaissaHouse (fork),https://github.com/reiichi001/FFXIV_PaissaHouse,2021-04-15
 ff-meli,OrchestrionPlugin,https://github.com/ff-meli/OrchestrionPlugin,2021-04-15
