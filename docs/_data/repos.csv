@@ -1,7 +1,14 @@
 Author,Name,URL,LastUpdated
+MidoriKami,NoTankYou,https://github.com/MidoriKami/NoTankYou,2021-12-20
+shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-20
+Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-20
+deathzombee,GatherBuddy (fork),https://github.com/deathzombee/GatherBuddy,2021-12-20
+UnknownX7,ReAction,https://github.com/UnknownX7/ReAction,2021-12-20
+marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-12-20
+karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-12-20
+Bluefissure,NoKillPlugin,https://github.com/Bluefissure/NoKillPlugin,2021-12-20
 damolitionn,XIVComboPluginExpandedest (fork),https://github.com/damolitionn/XIVComboPluginExpandedest,2021-12-20
 kacie8989,FFXIV_Vibe_Plugin (fork),https://github.com/kacie8989/FFXIV_Vibe_Plugin,2021-12-20
-Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-20
 karashiiro,PingPlugin,https://github.com/karashiiro/PingPlugin,2021-12-20
 r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-12-20
 Maxunit,XIVComboPlugin (fork),https://github.com/Maxunit/XIVComboPlugin,2021-12-19
@@ -9,7 +16,6 @@ yomishino,FFXIVTitleRenamed,https://github.com/yomishino/FFXIVTitleRenamed,2021-
 Rylith,OpenerLearner,https://github.com/Rylith/OpenerLearner,2021-12-19
 DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-12-19
 plug-ffxiv,XIVComboPlugin (fork),https://github.com/plug-ffxiv/XIVComboPlugin,2021-12-19
-Aireil,SimpleTweaksPlugin (fork),https://github.com/Aireil/SimpleTweaksPlugin,2021-12-19
 96Ben,XIVComboPlugin (fork),https://github.com/96Ben/XIVComboPlugin,2021-12-19
 catgirlfighter,xivPartyIcons (fork),https://github.com/catgirlfighter/xivPartyIcons,2021-12-19
 Murakumo-JP,Dalamud.RichPresence (fork),https://github.com/Murakumo-JP/Dalamud.RichPresence,2021-12-19
@@ -17,16 +23,11 @@ CaiClone,GCDTracker,https://github.com/CaiClone/GCDTracker,2021-12-19
 Maxunit,compass (fork),https://github.com/Maxunit/compass,2021-12-19
 lichie567,LMeter,https://github.com/lichie567/LMeter,2021-12-19
 kalilistic,PlayerTrack,https://github.com/kalilistic/PlayerTrack,2021-12-19
-karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-12-19
 fitzchivalrik,compass,https://github.com/fitzchivalrik/compass,2021-12-19
 PrincessRTFM,XIVComboPlugin (fork),https://github.com/PrincessRTFM/XIVComboPlugin,2021-12-19
-Caraxi,SimpleTweaksPlugin,https://github.com/Caraxi/SimpleTweaksPlugin,2021-12-19
 AkiraChisaka,XIVComboPluginAkiraAlter (fork),https://github.com/AkiraChisaka/XIVComboPluginAkiraAlter,2021-12-19
-MidoriKami,NoTankYou,https://github.com/MidoriKami/NoTankYou,2021-12-19
 unixtreme,FPSPlugin (fork),https://github.com/unixtreme/FPSPlugin,2021-12-19
-UnknownX7,ReAction,https://github.com/UnknownX7/ReAction,2021-12-19
 digital-pet,AetherSenseRedux,https://github.com/digital-pet/AetherSenseRedux,2021-12-19
-marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-12-19
 Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-12-18
 abighairyspider,AwayWithYou,https://github.com/abighairyspider/AwayWithYou,2021-12-18
 fmauNeko,MarketBoardPlugin,https://github.com/fmauNeko/MarketBoardPlugin,2021-12-18
@@ -43,7 +44,6 @@ Snorgy,XIVComboPluginExpandedest (fork),https://github.com/Snorgy/XIVComboPlugin
 Dalamud-Kr,WaymarkPresetPlugin (fork),https://github.com/Dalamud-Kr/WaymarkPresetPlugin,2021-12-17
 goaaats,Dalamud.FindAnything,https://github.com/goaaats/Dalamud.FindAnything,2021-12-17
 shdwp,xivPartyIcons,https://github.com/shdwp/xivPartyIcons,2021-12-17
-shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-17
 MogsFriend,Monoseros,https://github.com/MogsFriend/Monoseros,2021-12-17
 lemonlust,DelvUI (fork),https://github.com/lemonlust/DelvUI,2021-12-17
 TheResinger,DelvUI (fork),https://github.com/TheResinger/DelvUI,2021-12-17
@@ -86,6 +86,7 @@ horoscope-dev,Dalamud.Divination.AetheryteLinkInChat,https://github.com/horoscop
 kalilistic,NeatNoter,https://github.com/kalilistic/NeatNoter,2021-12-13
 Caraxi,ItemSearchPlugin,https://github.com/Caraxi/ItemSearchPlugin,2021-12-13
 Bluefissure,Inviter,https://github.com/Bluefissure/Inviter,2021-12-13
+philpax,exvr,https://github.com/philpax/exvr,2021-12-13
 lokinmodar,Echoglossian,https://github.com/lokinmodar/Echoglossian,2021-12-13
 Eternita-S,Inviter (fork),https://github.com/Eternita-S/Inviter,2021-12-12
 kalilistic,SillyChat,https://github.com/kalilistic/SillyChat,2021-12-12
@@ -162,9 +163,7 @@ Eternita-S,NotificationMaster,https://github.com/Eternita-S/NotificationMaster,2
 lmcintyre,Housemate,https://github.com/lmcintyre/Housemate,2021-12-06
 lmcintyre,PrefPro,https://github.com/lmcintyre/PrefPro,2021-12-06
 lmcintyre,DamageInfoPlugin,https://github.com/lmcintyre/DamageInfoPlugin,2021-12-06
-xorus,EngageTimer,https://github.com/xorus/EngageTimer,2021-12-06
 MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-12-05
-Bluefissure,NoKillPlugin,https://github.com/Bluefissure/NoKillPlugin,2021-12-05
 akira0245,DalamudCNAdapter,https://github.com/akira0245/DalamudCNAdapter,2021-12-05
 Eternita-S,Mini,https://github.com/Eternita-S/Mini,2021-12-04
 reiichi001,Dalamud.DiscordBridge (fork),https://github.com/reiichi001/Dalamud.DiscordBridge,2021-12-04
@@ -182,11 +181,9 @@ sjz4539,KingdomHeartsPlugin (fork),https://github.com/sjz4539/KingdomHeartsPlugi
 bSharks,MOActionPlugin (fork),https://github.com/bSharks/MOActionPlugin,2021-11-30
 WesselKuipers,FCNameColor,https://github.com/WesselKuipers/FCNameColor,2021-11-29
 QuietShoe,CinemaScreen,https://github.com/QuietShoe/CinemaScreen,2021-11-27
-d0tiKs,SimpleTweaksPlugin (fork),https://github.com/d0tiKs/SimpleTweaksPlugin,2021-11-26
 buengese,XIVComboPlugin,https://github.com/buengese/XIVComboPlugin,2021-11-25
 msdx321,SoundSetter (fork),https://github.com/msdx321/SoundSetter,2021-11-24
 yomishino,FFXIVAetherCompass,https://github.com/yomishino/FFXIVAetherCompass,2021-11-22
-wozaiha,SimpleTweaksPlugin (fork),https://github.com/wozaiha/SimpleTweaksPlugin,2021-11-22
 AsterOcclu,FFLogsViewer (fork),https://github.com/AsterOcclu/FFLogsViewer,2021-11-21
 Zerawan2042,DelvUI (fork),https://github.com/Zerawan2042/DelvUI,2021-11-21
 dcustic,DelvUI (fork),https://github.com/dcustic/DelvUI,2021-11-21
@@ -219,7 +216,6 @@ SheepGoMeh,SideHUD,https://github.com/SheepGoMeh/SideHUD,2021-10-30
 yuri-moens,RemindMe (fork),https://github.com/yuri-moens/RemindMe,2021-10-29
 Caliel666,DelvUI (fork),https://github.com/Caliel666/DelvUI,2021-10-28
 h4cky,DelvUI (fork),https://github.com/h4cky/DelvUI,2021-10-28
-LittleNightmare,SimpleTweaksPlugin (fork),https://github.com/LittleNightmare/SimpleTweaksPlugin,2021-10-28
 Bluefissure,DelvUI (fork),https://github.com/Bluefissure/DelvUI,2021-10-26
 captainbinary,XIVComboPluginKamifiedTest,https://github.com/captainbinary/XIVComboPluginKamifiedTest,2021-10-26
 rvazarkar,XIVToDo,https://github.com/rvazarkar/XIVToDo,2021-10-25
@@ -236,6 +232,7 @@ horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope
 horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-24
 Eternita-S,QuestAWAY,https://github.com/Eternita-S/QuestAWAY,2021-10-23
 Bluefissure,Penumbra (fork),https://github.com/Bluefissure/Penumbra,2021-10-23
+pohky,exvr (fork),https://github.com/pohky/exvr,2021-10-23
 reiichi001,dalamud-chattyper,https://github.com/reiichi001/dalamud-chattyper,2021-10-23
 TheGreenkey,ItemSearchPlugin (fork),https://github.com/TheGreenkey/ItemSearchPlugin,2021-10-21
 Leftn,FFXIV-ACT-Endcounter,https://github.com/Leftn/FFXIV-ACT-Endcounter,2021-10-21
@@ -364,11 +361,9 @@ asgoel,delvui (fork),https://github.com/asgoel/delvui,2021-09-04
 joshua-software-dev,PixelPerfectv4,https://github.com/joshua-software-dev/PixelPerfectv4,2021-09-04
 TJourney,SpeakingSpell,https://github.com/TJourney/SpeakingSpell,2021-09-03
 bayov,DelvUI (fork),https://github.com/bayov/DelvUI,2021-09-02
-AinaSnow,SimpleTweaksPlugin (fork),https://github.com/AinaSnow/SimpleTweaksPlugin,2021-08-31
 Sweenus,DelvUI (fork),https://github.com/Sweenus/DelvUI,2021-08-31
 schmali18,delvui (fork),https://github.com/schmali18/delvui,2021-08-30
 Dezpyer,delvui (fork),https://github.com/Dezpyer/delvui,2021-08-29
-maributt,SimpleTweaksPlugin (fork),https://github.com/maributt/SimpleTweaksPlugin,2021-08-29
 msdx321,Glamourer (fork),https://github.com/msdx321/Glamourer,2021-08-29
 msdx321,Penumbra (fork),https://github.com/msdx321/Penumbra,2021-08-29
 KingMulu,XIVComboPluginMulu (fork),https://github.com/KingMulu/XIVComboPluginMulu,2021-08-27
@@ -397,7 +392,6 @@ ungeho,PixelPerfectPlus (fork),https://github.com/ungeho/PixelPerfectPlus,2021-0
 GioPanaro,Baldesion,https://github.com/GioPanaro/Baldesion,2021-08-01
 Purarity,JobBars (fork),https://github.com/Purarity/JobBars,2021-07-31
 Caraxi,LivePluginLoad,https://github.com/Caraxi/LivePluginLoad,2021-07-24
-nyaoouo,SimpleTweaksPlugin (fork),https://github.com/nyaoouo/SimpleTweaksPlugin,2021-07-22
 karashiiro,DutyDialer,https://github.com/karashiiro/DutyDialer,2021-07-20
 c0nnex,TextToTalk (fork),https://github.com/c0nnex/TextToTalk,2021-07-18
 Eternita-S,XLKill,https://github.com/Eternita-S/XLKill,2021-07-17
@@ -439,7 +433,6 @@ aers,FFXIVAtkArrayDataBrowserPlugin,https://github.com/aers/FFXIVAtkArrayDataBro
 unseenline,HousingPos (fork),https://github.com/unseenline/HousingPos,2021-04-27
 aers,DalamudMenu,https://github.com/aers/DalamudMenu,2021-04-26
 BAKAOLC,MPTimer (fork),https://github.com/BAKAOLC/MPTimer,2021-04-20
-msdx321,SimpleTweaksPlugin (fork),https://github.com/msdx321/SimpleTweaksPlugin,2021-04-20
 msdx321,FPSLimiter (fork),https://github.com/msdx321/FPSLimiter,2021-04-19
 msdx321,XIVComboPlugin (fork),https://github.com/msdx321/XIVComboPlugin,2021-04-19
 msdx321,LivePluginLoad (fork),https://github.com/msdx321/LivePluginLoad,2021-04-19
@@ -477,8 +470,8 @@ FairyScript,DeepDungeonDex (fork),https://github.com/FairyScript/DeepDungeonDex,
 Xyghra,FPS-Limiter (fork),https://github.com/Xyghra/FPS-Limiter,2021-02-18
 omnoid,bdth-unblocked,https://github.com/omnoid/bdth-unblocked,2021-02-18
 attickdoor,MOActionPlugin,https://github.com/attickdoor/MOActionPlugin,2021-02-16
-lmcintyre,SimpleTweaksPlugin (fork),https://github.com/lmcintyre/SimpleTweaksPlugin,2021-02-13
 BiscuitUmU,FantasyPlayer,https://github.com/BiscuitUmU/FantasyPlayer,2021-01-29
+Caraxi,AllowDebug,https://github.com/Caraxi/AllowDebug,2021-01-19
 aers,FFXIVUIDebug,https://github.com/aers/FFXIVUIDebug,2021-01-15
 ChalkPE,Syrcus,https://github.com/ChalkPE/Syrcus,2021-01-09
 avafloww,CarbyScript,https://github.com/avafloww/CarbyScript,2021-01-06
