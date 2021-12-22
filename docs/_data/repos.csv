@@ -1,4 +1,9 @@
 Author,Name,URL,LastUpdated
+Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-22
+r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-12-22
+lemonlust,DelvUI (fork),https://github.com/lemonlust/DelvUI,2021-12-22
+DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-12-22
+MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-12-22
 CaiClone,GCDTracker,https://github.com/CaiClone/GCDTracker,2021-12-22
 XIV-Tools,CustomizePlus,https://github.com/XIV-Tools/CustomizePlus,2021-12-22
 karashiiro,TextToTalk,https://github.com/karashiiro/TextToTalk,2021-12-22
@@ -15,11 +20,9 @@ Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTo
 Codemned,XIVComboWayTooAkiiified (fork),https://github.com/Codemned/XIVComboWayTooAkiiified,2021-12-21
 Tischel,TPie,https://github.com/Tischel/TPie,2021-12-21
 xPumaa,JobIcons (fork),https://github.com/xPumaa/JobIcons,2021-12-21
-DelvUI,DelvUI,https://github.com/DelvUI/DelvUI,2021-12-21
 MogsFriend,PlayTimeCounter,https://github.com/MogsFriend/PlayTimeCounter,2021-12-21
 Bluefissure,MapLinker,https://github.com/Bluefissure/MapLinker,2021-12-21
 goaaats,Dalamud.FindAnything,https://github.com/goaaats/Dalamud.FindAnything,2021-12-21
-Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-21
 Ottermandias,Accountant,https://github.com/Ottermandias/Accountant,2021-12-21
 marconsou,mp-tick-bar,https://github.com/marconsou/mp-tick-bar,2021-12-21
 daemitus,XIVComboPlugin (fork),https://github.com/daemitus/XIVComboPlugin,2021-12-21
@@ -27,7 +30,6 @@ Sevii77,ffxiv_materialui_accent,https://github.com/Sevii77/ffxiv_materialui_acce
 EmmettJayhart,XIVComboCurated (fork),https://github.com/EmmettJayhart/XIVComboCurated,2021-12-21
 kacie8989,FFXIV_Vibe_Plugin (fork),https://github.com/kacie8989/FFXIV_Vibe_Plugin,2021-12-20
 Snorgy,XIVComboPluginExpandedest (fork),https://github.com/Snorgy/XIVComboPluginExpandedest,2021-12-20
-MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-12-20
 Bluefissure,Dalamud-OBS,https://github.com/Bluefissure/Dalamud-OBS,2021-12-20
 LittleNightmare,MapLinker (fork),https://github.com/LittleNightmare/MapLinker,2021-12-20
 karashiiro,PingPlugin,https://github.com/karashiiro/PingPlugin,2021-12-20
@@ -36,7 +38,6 @@ shdwp,xivFaderPlugin,https://github.com/shdwp/xivFaderPlugin,2021-12-20
 suzutan,SimpleTweaksPlugin (fork),https://github.com/suzutan/SimpleTweaksPlugin,2021-12-20
 deathzombee,GatherBuddy (fork),https://github.com/deathzombee/GatherBuddy,2021-12-20
 Bluefissure,NoKillPlugin,https://github.com/Bluefissure/NoKillPlugin,2021-12-20
-r00telement,PlayerTags,https://github.com/r00telement/PlayerTags,2021-12-20
 yomishino,FFXIVTitleRenamed,https://github.com/yomishino/FFXIVTitleRenamed,2021-12-19
 Rylith,OpenerLearner,https://github.com/Rylith/OpenerLearner,2021-12-19
 Aireil,SimpleTweaksPlugin (fork),https://github.com/Aireil/SimpleTweaksPlugin,2021-12-19
@@ -59,7 +60,6 @@ UnknownX7,OOBlugin,https://github.com/UnknownX7/OOBlugin,2021-12-17
 Dalamud-Kr,WaymarkPresetPlugin (fork),https://github.com/Dalamud-Kr/WaymarkPresetPlugin,2021-12-17
 shdwp,xivPartyIcons,https://github.com/shdwp/xivPartyIcons,2021-12-17
 MogsFriend,Monoseros,https://github.com/MogsFriend/Monoseros,2021-12-17
-lemonlust,DelvUI (fork),https://github.com/lemonlust/DelvUI,2021-12-17
 TheResinger,DelvUI (fork),https://github.com/TheResinger/DelvUI,2021-12-17
 NamelocE,XIVComboPluginExpandedest (fork),https://github.com/NamelocE/XIVComboPluginExpandedest,2021-12-16
 captainbinary,XIVComboPluginKamified (fork),https://github.com/captainbinary/XIVComboPluginKamified,2021-12-16
@@ -239,7 +239,6 @@ NukoOoOoOoO,BozjaHelper,https://github.com/NukoOoOoOoO/BozjaHelper,2021-10-25
 Eternita-S,DynamicVisibility,https://github.com/Eternita-S/DynamicVisibility,2021-10-24
 horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-24
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-24
-horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-24
 horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-24
 horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-24
 horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-24
@@ -251,7 +250,6 @@ TheGreenkey,ItemSearchPlugin (fork),https://github.com/TheGreenkey/ItemSearchPlu
 Leftn,FFXIV-ACT-Endcounter,https://github.com/Leftn/FFXIV-ACT-Endcounter,2021-10-21
 rreminy,CharSyncPlugin,https://github.com/rreminy/CharSyncPlugin,2021-10-21
 TetraK1,XIVComboPlugin (fork),https://github.com/TetraK1/XIVComboPlugin,2021-10-21
-StargazingNeko,MogLog,https://github.com/StargazingNeko/MogLog,2021-10-18
 Tischel,DelvUI (fork),https://github.com/Tischel/DelvUI,2021-10-18
 duartemateus,DelvUI (fork),https://github.com/duartemateus/DelvUI,2021-10-18
 thakyZ,AetherSense (fork),https://github.com/thakyZ/AetherSense,2021-10-17
