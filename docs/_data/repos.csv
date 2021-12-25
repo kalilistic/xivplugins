@@ -1,16 +1,16 @@
 Author,Name,URL,LastUpdated
+kaedys,XIVComboPlugin (fork),https://github.com/kaedys/XIVComboPlugin,2021-12-25
+jawslouis,MakePlacePlugin,https://github.com/jawslouis/MakePlacePlugin,2021-12-25
+brian9206,Linguist,https://github.com/brian9206/Linguist,2021-12-25
+Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-12-25
+digital-pet,AetherSenseRedux,https://github.com/digital-pet/AetherSenseRedux,2021-12-25
 Grammernatzi,XIVComboPluginExpandedest (fork),https://github.com/Grammernatzi/XIVComboPluginExpandedest,2021-12-25
 vyfvyf,NamePlateDebuffs (fork),https://github.com/vyfvyf/NamePlateDebuffs,2021-12-25
-jawslouis,MakePlacePlugin,https://github.com/jawslouis/MakePlacePlugin,2021-12-24
 Gigahightier,XIVComboPlugin (fork),https://github.com/Gigahightier/XIVComboPlugin,2021-12-24
-digital-pet,AetherSenseRedux,https://github.com/digital-pet/AetherSenseRedux,2021-12-24
-MidoriKami,NoTankYou,https://github.com/MidoriKami/NoTankYou,2021-12-24
 Baelrayne,BrowserHost (fork),https://github.com/Baelrayne/BrowserHost,2021-12-24
-Nik-Potokar,XIVComboWayTooAkiiified,https://github.com/Nik-Potokar/XIVComboWayTooAkiiified,2021-12-24
 UnknownX7,ReAction,https://github.com/UnknownX7/ReAction,2021-12-24
 F-a-y-t-h,XIVComboPluginExpandedestF (fork),https://github.com/F-a-y-t-h/XIVComboPluginExpandedestF,2021-12-24
 damolitionn,XIVComboPluginPlus (fork),https://github.com/damolitionn/XIVComboPluginPlus,2021-12-24
-damolitionn,XIVComboWayTooAkiiified (fork),https://github.com/damolitionn/XIVComboWayTooAkiiified,2021-12-24
 lmcintyre,TitleEditPlugin,https://github.com/lmcintyre/TitleEditPlugin,2021-12-24
 lmcintyre,TitleEditPlugin (fork),https://github.com/lmcintyre/TitleEditPlugin,2021-12-24
 MgAl2O4,HarpHeroDalamud,https://github.com/MgAl2O4/HarpHeroDalamud,2021-12-24
@@ -101,7 +101,6 @@ rgd87,BigPlayerDebuffs,https://github.com/rgd87/BigPlayerDebuffs,2021-12-15
 carvelli,Fish-Notify,https://github.com/carvelli/Fish-Notify,2021-12-14
 Ottermandias,GatherBuddy,https://github.com/Ottermandias/GatherBuddy,2021-12-14
 markjsosnowski,OceanFishin,https://github.com/markjsosnowski/OceanFishin,2021-12-14
-brian9206,Linguist,https://github.com/brian9206/Linguist,2021-12-14
 horoscope-dev,Dalamud.Divination.InstanceIDViewer,https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer,2021-12-14
 PrincessRTFM,TinyCommands,https://github.com/PrincessRTFM/TinyCommands,2021-12-14
 lhn1703,XIVComboPlugin (fork),https://github.com/lhn1703/XIVComboPlugin,2021-12-14
@@ -186,7 +185,6 @@ Eternita-S,NotificationMaster,https://github.com/Eternita-S/NotificationMaster,2
 lmcintyre,Housemate,https://github.com/lmcintyre/Housemate,2021-12-06
 lmcintyre,PrefPro,https://github.com/lmcintyre/PrefPro,2021-12-06
 lmcintyre,DamageInfoPlugin,https://github.com/lmcintyre/DamageInfoPlugin,2021-12-06
-xorus,EngageTimer,https://github.com/xorus/EngageTimer,2021-12-06
 akira0245,DalamudCNAdapter,https://github.com/akira0245/DalamudCNAdapter,2021-12-05
 Eternita-S,Mini,https://github.com/Eternita-S/Mini,2021-12-04
 reiichi001,Dalamud.DiscordBridge (fork),https://github.com/reiichi001/Dalamud.DiscordBridge,2021-12-04
@@ -248,8 +246,6 @@ NukoOoOoOoO,BozjaHelper,https://github.com/NukoOoOoOoO/BozjaHelper,2021-10-25
 Eternita-S,DynamicVisibility,https://github.com/Eternita-S/DynamicVisibility,2021-10-24
 horoscope-dev,Dalamud.Divination.Debugger,https://github.com/horoscope-dev/Dalamud.Divination.Debugger,2021-10-24
 horoscope-dev,Dalamud.Divination.Voiceroid2Talker,https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker,2021-10-24
-horoscope-dev,Dalamud.Divination.Calculator,https://github.com/horoscope-dev/Dalamud.Divination.Calculator,2021-10-24
-horoscope-dev,Dalamud.Divination.PowerUtils,https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils,2021-10-24
 horoscope-dev,Dalamud.Divination.DiscordIntegration,https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration,2021-10-24
 horoscope-dev,Dalamud.Divination.TwitterIntegration,https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration,2021-10-24
 Eternita-S,QuestAWAY,https://github.com/Eternita-S/QuestAWAY,2021-10-23
@@ -260,7 +256,6 @@ TheGreenkey,ItemSearchPlugin (fork),https://github.com/TheGreenkey/ItemSearchPlu
 Leftn,FFXIV-ACT-Endcounter,https://github.com/Leftn/FFXIV-ACT-Endcounter,2021-10-21
 rreminy,CharSyncPlugin,https://github.com/rreminy/CharSyncPlugin,2021-10-21
 TetraK1,XIVComboPlugin (fork),https://github.com/TetraK1/XIVComboPlugin,2021-10-21
-StargazingNeko,MogLog,https://github.com/StargazingNeko/MogLog,2021-10-18
 Tischel,DelvUI (fork),https://github.com/Tischel/DelvUI,2021-10-18
 duartemateus,DelvUI (fork),https://github.com/duartemateus/DelvUI,2021-10-18
 thakyZ,AetherSense (fork),https://github.com/thakyZ/AetherSense,2021-10-17
