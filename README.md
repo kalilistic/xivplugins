@@ -1,3 +1,3 @@
-# neat-plugins-plus
+# XIV Plugins
 
-https://kalilistic.io/neat-plugins-plus
+https://xivplugins.com
