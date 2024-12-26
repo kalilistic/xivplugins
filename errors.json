@@ -1,14 +1,29 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/Feijiuj/DalamudPlugins/main/pluginmaster.json",
+        "url": "https://raw.githubusercontent.com/pinapelz/DalamudPlugins/main/pluginmaster.json",
         "errors": [
-            "Illegal trailing comma before end of array: line 116 column 13 (char 4292)"
+            "Expecting property name enclosed in double quotes: line 45 column 1 (char 1653)"
         ]
     },
     {
-        "url": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+        "url": "https://raw.githubusercontent.com/SoanEx/pandoraFix/master/pluginmaster.json",
         "errors": [
-            "Illegal trailing comma before end of object: line 13 column 101 (char 661)"
+            "Expecting property name enclosed in double quotes: line 4 column 25 (char 61)"
+        ]
+    },
+    {
+        "url": "https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json",
+        "errors": [
+            "Entry 1: Duplicate internalName: DailyRoutines",
+            "Entry 3: Missing both DalamudApiLevel and TestingDalamudApiLevel",
+            "Entry 4: Missing both DalamudApiLevel and TestingDalamudApiLevel",
+            "Entry 5: Missing both DalamudApiLevel and TestingDalamudApiLevel"
+        ]
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Feijiuj/DalamudPlugins/main/pluginmaster.json",
+        "errors": [
+            "Expecting value: line 117 column 5 (char 4298)"
         ]
     },
     {
@@ -18,15 +33,51 @@
         ]
     },
     {
+        "url": "https://github.com/PunishXIV/Splatoon/raw/main/Splatoon/Splatoon.json",
+        "errors": [
+            "Entry 0: Missing field: assemblyversion"
+        ]
+    },
+    {
+        "url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "errors": [
+            "Expecting property name enclosed in double quotes: line 21 column 3 (char 835)"
+        ]
+    },
+    {
         "url": "https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/pluginmaster.json",
         "errors": [
             "Entry 1: Missing both DalamudApiLevel and TestingDalamudApiLevel"
         ]
     },
     {
+        "url": "https://raw.githubusercontent.com/zw3lf/goat-repo/main/pluginmaster.json",
+        "errors": [
+            "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
+        ]
+    },
+    {
+        "url": "https://raw.githubusercontent.com/DreanorFFXIV/MyDalamudPlugins/master/pluginmaster.json",
+        "errors": [
+            "Expecting value: line 112 column 1 (char 5209)"
+        ]
+    },
+    {
+        "url": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+        "errors": [
+            "Expecting property name enclosed in double quotes: line 14 column 3 (char 665)"
+        ]
+    },
+    {
         "url": "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json",
         "errors": [
-            "Illegal trailing comma before end of object: line 108 column 121 (char 6649)"
+            "Expecting property name enclosed in double quotes: line 109 column 3 (char 6653)"
+        ]
+    },
+    {
+        "url": "https://raw.githubusercontent.com/joshua86z/KodakkuAssistScript/main/pluginmaster.json",
+        "errors": [
+            "Expecting property name enclosed in double quotes: line 70 column 3 (char 3011)"
         ]
     },
     {
@@ -63,10 +114,10 @@
             "Entry 243: Duplicate internalName: SomethingNeedDoing",
             "Entry 246: Duplicate internalName: SomethingNeedDoing",
             "Entry 248: Duplicate internalName: SomethingNeedDoing",
-            "Entry 250: Duplicate internalName: vnavmesh",
+            "Entry 250: Duplicate internalName: visland",
             "Entry 251: Duplicate internalName: vfaux",
-            "Entry 252: Duplicate internalName: BossMod",
-            "Entry 253: Duplicate internalName: visland",
+            "Entry 252: Duplicate internalName: vnavmesh",
+            "Entry 253: Duplicate internalName: BossMod",
             "Entry 257: Duplicate internalName: Moodles",
             "Entry 260: Duplicate internalName: Artisan",
             "Entry 267: Duplicate internalName: YesAlready",
@@ -79,52 +130,19 @@
         ]
     },
     {
-        "url": "https://github.com/PunishXIV/Splatoon/raw/main/Splatoon/Splatoon.json",
-        "errors": [
-            "Entry 0: Missing field: assemblyversion"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/pinapelz/DalamudPlugins/main/pluginmaster.json",
-        "errors": [
-            "Illegal trailing comma before end of object: line 44 column 105 (char 1651)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/SoanEx/pandoraFix/master/pluginmaster.json",
-        "errors": [
-            "Expecting property name enclosed in double quotes: line 4 column 25 (char 61)"
-        ]
-    },
-    {
-        "url": "https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json",
-        "errors": [
-            "Entry 1: Duplicate internalName: DailyRoutines",
-            "Entry 3: Missing both DalamudApiLevel and TestingDalamudApiLevel",
-            "Entry 4: Missing both DalamudApiLevel and TestingDalamudApiLevel",
-            "Entry 5: Missing both DalamudApiLevel and TestingDalamudApiLevel"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/DreanorFFXIV/MyDalamudPlugins/master/pluginmaster.json",
-        "errors": [
-            "Illegal trailing comma before end of array: line 111 column 4 (char 5206)"
-        ]
-    },
-    {
         "url": "https://raw.githubusercontent.com/XenHat/MyDalamudPlugins/main/pluginmaster.json",
         "errors": [
-            "Illegal trailing comma before end of object: line 32 column 25 (char 1595)"
+            "Expecting property name enclosed in double quotes: line 33 column 3 (char 1600)"
         ]
     },
     {
         "url": "https://raw.githubusercontent.com/Nik-Potokar/Plogons/main/pluginmaster.json",
         "errors": [
-            "Illegal trailing comma before end of array: line 27 column 6 (char 1041)"
+            "Expecting value: line 28 column 1 (char 1043)"
         ]
     },
     {
-        "url": "https://raw.githubusercontent.com/zw3lf/goat-repo/main/pluginmaster.json",
+        "url": "https://github.com/Hiroa/LazyGatherer/raw/main/repo.json",
         "errors": [
             "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
         ]
@@ -136,27 +154,9 @@
         ]
     },
     {
-        "url": "https://raw.githubusercontent.com/joshua86z/KodakkuAssistScript/main/pluginmaster.json",
-        "errors": [
-            "Illegal trailing comma before end of object: line 69 column 110 (char 3007)"
-        ]
-    },
-    {
-        "url": "https://github.com/Hiroa/LazyGatherer/raw/main/repo.json",
-        "errors": [
-            "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "errors": [
-            "Illegal trailing comma before end of object: line 20 column 103 (char 831)"
-        ]
-    },
-    {
         "url": "https://raw.githubusercontent.com/DiceFFXiv/GlobeTrotter/main/pluginmaster.json",
         "errors": [
-            "Illegal trailing comma before end of object: line 21 column 114 (char 987)"
+            "Expecting property name enclosed in double quotes: line 22 column 3 (char 991)"
         ]
     },
     {
@@ -166,51 +166,15 @@
         ]
     },
     {
-        "url": "https://github.com/TheNickoos/FFXIVPluginRepo",
-        "errors": [
-            "Detected as potential unapproved mega repo with 62 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/uiharuayako/DalamudPlugins (CN)",
-        "errors": [
-            "Detected as potential unapproved mega repo with 3 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/Murakumo-JP/eScape",
-        "errors": [
-            "Detected as potential unapproved mega repo with 9 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/AshShade/p",
-        "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
-        ]
-    },
-    {
         "url": "https://github.com/NiGuangOwO/DalamudPlugins (CN)",
         "errors": [
             "Detected as potential unapproved mega repo with 4 different developers."
         ]
     },
     {
-        "url": "https://github.com/Nukoooo/DalamudPlugins (CN)",
+        "url": "https://github.com/FairyScript/MyDalamudRepo (CN)",
         "errors": [
             "Detected as potential unapproved mega repo with 2 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/MisaUo/DalamudPlugins (CN)",
-        "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/StoiaCode/SeaOfStars",
-        "errors": [
-            "Detected as potential unapproved mega repo with 10 different developers."
         ]
     },
     {
@@ -226,13 +190,19 @@
         ]
     },
     {
-        "url": "https://github.com/yuwuhuo/yuwuhuoCNplugins (CN)",
+        "url": "https://github.com/nite-cat/the-giga-repo",
         "errors": [
-            "Detected as potential unapproved mega repo with 3 different developers."
+            "Detected as potential unapproved mega repo with 19 different developers."
         ]
     },
     {
-        "url": "https://github.com/FairyScript/MyDalamudRepo (CN)",
+        "url": "https://github.com/StoiaCode/SeaOfStars",
+        "errors": [
+            "Detected as potential unapproved mega repo with 10 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/Nukoooo/DalamudPlugins (CN)",
         "errors": [
             "Detected as potential unapproved mega repo with 2 different developers."
         ]
@@ -244,19 +214,55 @@
         ]
     },
     {
+        "url": "https://github.com/tssailzz8/MyPlugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/AshShade/p",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/MisaUo/DalamudPlugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/yuwuhuo/yuwuhuoCNplugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 3 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/Murakumo-JP/eScape",
+        "errors": [
+            "Detected as potential unapproved mega repo with 9 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/TheNickoos/FFXIVPluginRepo",
+        "errors": [
+            "Detected as potential unapproved mega repo with 62 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/uiharuayako/DalamudPlugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 3 different developers."
+        ]
+    },
+    {
         "url": "https://github.com/Valgrifer/MergeDalamudRepo (CN)",
         "errors": [
             "Detected as potential unapproved mega repo with 52 different developers."
         ]
     },
     {
-        "url": "https://github.com/nite-cat/the-giga-repo",
-        "errors": [
-            "Detected as potential unapproved mega repo with 19 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/tssailzz8/MyPlugins (CN)",
+        "url": "https://github.com/moewcorp/DalamudPlugins (CN)",
         "errors": [
             "Detected as potential unapproved mega repo with 2 different developers."
         ]
@@ -265,12 +271,6 @@
         "url": "https://github.com/plottingCreeper/MyDalamudPlugins",
         "errors": [
             "Detected as potential unapproved mega repo with 3 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/moewcorp/DalamudPlugins (CN)",
-        "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
         ]
     }
 ]
