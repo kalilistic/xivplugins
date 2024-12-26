@@ -1,0 +1,773 @@
+[
+    {
+        "developer_name": "CaiClone",
+        "repo_url": "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
+        "source_type": "closed"
+    },
+    {
+        "repo_url": "https://github.com/0ceal0t/Dalamud-VFXEditor/raw/main/repo.json",
+        "source_url": "https://github.com/0ceal0t/Dalamud-VFXEditor"
+    },
+    {
+        "repo_url": "https://github.com/Aether-Tools/CustomizePlus/raw/main/repo.json",
+        "source_url": "https://github.com/Aether-Tools/CustomizePlus"
+    },
+    {
+        "repo_url": "https://github.com/Aida-Enna/XIVPlugins/raw/main/repo.json",
+        "source_url": "https://github.com/Aida-Enna/XIVPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Aireil/MyDalamudPlugins/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/Aireil/MyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/AjisaiMirai/plugins/raw/main/repo.json",
+        "source_url": "https://github.com/AjisaiMirai/plugins"
+    },
+    {
+        "repo_url": "https://github.com/Aspher0/GlamMaster/raw/main/GlamMaster.json",
+        "source_url": "https://github.com/Aspher0/GlamMaster"
+    },
+    {
+        "repo_url": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo"
+    },
+    {
+        "repo_url": "https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/AtmoOmen/DalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Atomoxide/DalamudPluginRepo/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/Atomoxide/DalamudPluginRepo"
+    },
+    {
+        "repo_url": "https://github.com/Brappp/repo/raw/main/wah.json",
+        "source_url": "https://github.com/Brappp/repo"
+    },
+    {
+        "repo_url": "https://github.com/CatboyEngineering/Plugins/raw/main/repo.json",
+        "source_url": "https://github.com/CatboyEngineering/Plugins"
+    },
+    {
+        "repo_url": "https://github.com/CondeSaheki/MeterWay/raw/main/repo.json",
+        "source_url": "https://github.com/CondeSaheki/MeterWay"
+    },
+    {
+        "repo_url": "https://github.com/Eisenhuth/TrustworthyDalamudPlugins/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/Eisenhuth/TrustworthyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Etheirys/Brio/raw/main/repo.json",
+        "source_url": "https://github.com/Etheirys/Brio"
+    },
+    {
+        "repo_url": "https://github.com/Ewilhan/LMeter/raw/main/repo.json",
+        "source_url": "https://github.com/Ewilhan/LMeter"
+    },
+    {
+        "repo_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo"
+    },
+    {
+        "repo_url": "https://github.com/FFXIV-Sonar/SonarRepo/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/FFXIV-Sonar/SonarRepo"
+    },
+    {
+        "repo_url": "https://github.com/FantasticalMouthpiece/XivVoices/raw/main/repo.json",
+        "source_url": "https://github.com/FantasticalMouthpiece/XivVoices"
+    },
+    {
+        "repo_url": "https://github.com/Grammernatzi/MyDalamudPlugins/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/Grammernatzi/MyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Haselnussbomber/MyDalamudPlugins/raw/main/repo.json",
+        "source_url": "https://github.com/Haselnussbomber/MyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Hiroa/LazyGatherer/raw/main/repo.json",
+        "source_url": "https://github.com/Hiroa/LazyGatherer"
+    },
+    {
+        "repo_url": "https://github.com/IKDprogram/pluginsJson/raw/main/plugin.json",
+        "source_url": "https://github.com/IKDprogram/pluginsJson"
+    },
+    {
+        "repo_url": "https://github.com/JimmyRustles15/Ktisis/raw/main/repo.json",
+        "source_url": "https://github.com/JimmyRustles15/Ktisis"
+    },
+    {
+        "repo_url": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugin_repository.json",
+        "source_url": "https://github.com/KangasZ/DalamudPluginRepository"
+    },
+    {
+        "repo_url": "https://github.com/LeonBlade/DalamudPlugins/raw/main/repo.json",
+        "source_url": "https://github.com/LeonBlade/DalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/Mara-Dawn/MyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Meisterlala/NekoFans/raw/master/repo.json",
+        "source_url": "https://github.com/Meisterlala/NekoFans"
+    },
+    {
+        "repo_url": "https://github.com/MeowZWR/Brio/raw/main/repo.json",
+        "source_url": "https://github.com/MeowZWR/Brio"
+    },
+    {
+        "repo_url": "https://github.com/MeowZWR/Ktisis/raw/cn/repo.json",
+        "source_url": "https://github.com/MeowZWR/Ktisis"
+    },
+    {
+        "repo_url": "https://github.com/Milesnocte/PFLogs/raw/master/repo.json",
+        "source_url": "https://github.com/Milesnocte/PFLogs"
+    },
+    {
+        "repo_url": "https://github.com/Murakumo-JP/eScape/raw/main/repo.json",
+        "source_url": "https://github.com/Murakumo-JP/eScape"
+    },
+    {
+        "repo_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump/raw/main/repo.json",
+        "source_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump"
+    },
+    {
+        "repo_url": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/NiGuangOwO/DalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/NightmareXIV/MyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/Nik-Potokar/MyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/NostraThomas99/NostraPlugins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/NostraThomas99/NostraPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/pluginmaster.json",
+        "source_url": "https://github.com/Nukoooo/DalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Ottermandias/SeaOfStars/raw/main/repo.json",
+        "source_url": "https://github.com/Ottermandias/SeaOfStars",
+        "is_allowed_mega_repo": true
+    },
+    {
+        "repo_url": "https://github.com/PassiveModding/Meddle/raw/main/repo.json",
+        "source_url": "https://github.com/PassiveModding/Meddle"
+    },
+    {
+        "repo_url": "https://github.com/Penumbra-Sync/repo/raw/main/plogonmaster.json",
+        "source_url": "https://github.com/Penumbra-Sync/repo"
+    },
+    {
+        "repo_url": "https://github.com/Project-GagSpeak/repo/raw/main/projectgagspeak.json",
+        "source_url": "https://github.com/Project-GagSpeak/repo"
+    },
+    {
+        "repo_url": "https://github.com/PunishXIV/Splatoon/raw/main/Splatoon/Splatoon.json",
+        "source_url": "https://github.com/PunishXIV/Splatoon"
+    },
+    {
+        "repo_url": "https://github.com/Quantity-4/xiv-plugins-repo/raw/main/pluginslist.json",
+        "source_url": "https://github.com/Quantity-4/xiv-plugins-repo"
+    },
+    {
+        "repo_url": "https://github.com/RaidenvBlack/RaidenvPlugins/raw/main/repo.json",
+        "source_url": "https://github.com/RaidenvBlack/RaidenvPlugins"
+    },
+    {
+        "repo_url": "https://github.com/RaidenvBlack/Updated/raw/main/repo.json",
+        "source_url": "https://github.com/RaidenvBlack/Updated"
+    },
+    {
+        "repo_url": "https://github.com/SHOEGAZEssb/DalamudPluginRepo/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/SHOEGAZEssb/DalamudPluginRepo"
+    },
+    {
+        "repo_url": "https://github.com/Sebane1/AQuestReborn/raw/Mare-Independance/repo.json",
+        "source_url": "https://github.com/Sebane1/AQuestReborn"
+    },
+    {
+        "repo_url": "https://github.com/Sebane1/AQuestReborn/raw/master/repo.json",
+        "source_url": "https://github.com/Sebane1/AQuestReborn"
+    },
+    {
+        "repo_url": "https://github.com/Sebane1/Brio/raw/main/repo.json",
+        "source_url": "https://github.com/Sebane1/Brio"
+    },
+    {
+        "repo_url": "https://github.com/Sevii77/properhousing/raw/master/repo.json",
+        "source_url": "https://github.com/Sevii77/properhousing"
+    },
+    {
+        "repo_url": "https://github.com/Skooz/Zookins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/Skooz/Zookins"
+    },
+    {
+        "repo_url": "https://github.com/SlashNephy/divination-distrib/raw/ci/update-plugin-master-0y1ardx/plugins/master.json",
+        "source_url": "https://github.com/SlashNephy/divination-distrib"
+    },
+    {
+        "repo_url": "https://github.com/SlashNephy/divination-distrib/raw/master/plugins/master.json",
+        "source_url": "https://github.com/SlashNephy/divination-distrib"
+    },
+    {
+        "repo_url": "https://github.com/SoyaX/SoyaPlugins/raw/main/repo.json",
+        "source_url": "https://github.com/SoyaX/SoyaPlugins"
+    },
+    {
+        "repo_url": "https://github.com/StackBLU/MSQCutsceneSkipper/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/StackBLU/MSQCutsceneSkipper"
+    },
+    {
+        "repo_url": "https://github.com/StoiaCode/SeaOfStars/raw/main/repo.json",
+        "source_url": "https://github.com/StoiaCode/SeaOfStars"
+    },
+    {
+        "repo_url": "https://github.com/StoiaCode/SeaOfStars/raw/patch-1/repo.json",
+        "source_url": "https://github.com/StoiaCode/SeaOfStars"
+    },
+    {
+        "repo_url": "https://github.com/TheNickoos/FFXIVPluginRepo/raw/master/repo.json",
+        "source_url": "https://github.com/TheNickoos/FFXIVPluginRepo"
+    },
+    {
+        "repo_url": "https://github.com/Tischel/BLMInTheShell/raw/master/repo.json",
+        "source_url": "https://github.com/Tischel/BLMInTheShell"
+    },
+    {
+        "repo_url": "https://github.com/TomestoneGG/Dalamud.Tomestone/raw/master/repo.json",
+        "source_url": "https://github.com/TomestoneGG/Dalamud.Tomestone"
+    },
+    {
+        "repo_url": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/UnknownX7/DalamudPluginRepo"
+    },
+    {
+        "repo_url": "https://github.com/Valgrifer/MergeDalamudRepo/raw/master/repo.json",
+        "source_url": "https://github.com/Valgrifer/MergeDalamudRepo"
+    },
+    {
+        "repo_url": "https://github.com/ViviAshe/plugins/raw/main/PluginMaster.json",
+        "source_url": "https://github.com/ViviAshe/plugins"
+    },
+    {
+        "repo_url": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/WINDOWCOLLAPSIBLE/404notfound"
+    },
+    {
+        "repo_url": "https://github.com/WesleyLuk90/ffxiv-vr/raw/master/PluginRepo/pluginmaster.json",
+        "source_url": "https://github.com/WesleyLuk90/ffxiv-vr"
+    },
+    {
+        "repo_url": "https://github.com/WilliamW1979/FashionReport/raw/master/FashionReport/FashionReport.json",
+        "source_url": "https://github.com/WilliamW1979/FashionReport"
+    },
+    {
+        "repo_url": "https://github.com/WorkingRobot/MyDalamudPlugins/raw/main/goodplogon.json",
+        "source_url": "https://github.com/WorkingRobot/MyDalamudPlugins",
+        "plugins": [
+            {
+                "plugin_internal_name": "Waitingway.DalamudUnofficial",
+                "plugin_source_url": "https://github.com/WorkingRobot/Waitingway"
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/Yhumi/Plogons/raw/master/plugins.json",
+        "plugins": [
+            {
+                "plugin_internal_name": "UcobClears",
+                "plugin_source_url": "https://github.com/Yhumi/ucob-clears"
+            }
+        ],
+        "source_url": "https://github.com/Yhumi/Plogons"
+    },
+    {
+        "repo_url": "https://github.com/ZapleMyrup/MyDalamudPlugins/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/ZapleMyrup/MyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/aetherremote/AetherRemote/raw/main/repo.json",
+        "source_url": "https://github.com/aetherremote/AetherRemote"
+    },
+    {
+        "repo_url": "https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.json",
+        "source_url": "https://github.com/anya-hichu/DalamudPluginRepo"
+    },
+    {
+        "repo_url": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/awgil/ffxiv_plugin_distribution"
+    },
+    {
+        "repo_url": "https://github.com/cfsen/Ktisis/raw/main/repo.json",
+        "source_url": "https://github.com/cfsen/Ktisis"
+    },
+    {
+        "repo_url": "https://github.com/cielo-h/c-pluginrepo/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/cielo-h/c-pluginrepo"
+    },
+    {
+        "repo_url": "https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/daemitus/MyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/dodingdaga/DalamudPlugins/raw/main/PuppetMaster.json",
+        "source_url": "https://github.com/dodingdaga/DalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/emyxiv/Dresser/raw/master/repo.json",
+        "source_url": "https://github.com/emyxiv/Dresser"
+    },
+    {
+        "repo_url": "https://github.com/extrant/DalamudPlugins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/extrant/DalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/goaaats/test/raw/main/cool_custom_repo/repo.json",
+        "plugins": [
+            {
+                "plugin_internal_name": "Dalamud.FindEverything",
+                "plugin_source_url": "https://github.com/goaaats/Dalamud.FindAnything"
+            }
+        ],
+        "source_url": "https://github.com/goaaats/test"
+    },
+    {
+        "repo_url": "https://github.com/huntsffxiv/repo/raw/main/repo.json",
+        "source_url": "https://github.com/huntsffxiv/repo"
+    },
+    {
+        "repo_url": "https://github.com/ifan0927/test123/raw/main/123.json",
+        "source_url": "https://github.com/ifan0927/test123"
+    },
+    {
+        "repo_url": "https://github.com/kelvin124124/CustomPlugins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/kelvin124124/CustomPlugins"
+    },
+    {
+        "repo_url": "https://github.com/ktisis-tools/Ktisis/raw/main/repo.json",
+        "source_url": "https://github.com/ktisis-tools/Ktisis"
+    },
+    {
+        "repo_url": "https://github.com/lichie567/LMeter/raw/main/repo.json",
+        "source_url": "https://github.com/lichie567/LMeter"
+    },
+    {
+        "repo_url": "https://github.com/lnjanos/peepingtim/raw/master/SamplePlugin/PeepingTim.json",
+        "source_url": "https://github.com/lnjanos/peepingtim"
+    },
+    {
+        "repo_url": "https://github.com/marzent/IINACT/raw/main/repo.json",
+        "source_url": "https://github.com/marzent/IINACT"
+    },
+    {
+        "repo_url": "https://github.com/nite-cat/the-giga-repo/raw/main/the-one.json",
+        "source_url": "https://github.com/nite-cat/the-giga-repo"
+    },
+    {
+        "repo_url": "https://github.com/nullKomplex/LMeter/raw/CustomFix/repo.json",
+        "source_url": "https://github.com/nullKomplex/LMeter"
+    },
+    {
+        "repo_url": "https://github.com/obi-o-n-e/pt/raw/main/repo.json",
+        "source_url": "https://github.com/obi-o-n-e/pt"
+    },
+    {
+        "repo_url": "https://github.com/papapachin/ActionTimelineReplacement/raw/api11/repo.json",
+        "source_url": "https://github.com/papapachin/ActionTimelineReplacement"
+    },
+    {
+        "repo_url": "https://github.com/pot0to/DalamudPluginConfigs/raw/master/plogon.json",
+        "source_url": "https://github.com/pot0to/DalamudPluginConfigs"
+    },
+    {
+        "repo_url": "https://github.com/redeven/DalamudPluginRepo/raw/master/repository.json",
+        "source_url": "https://github.com/redeven/DalamudPluginRepo"
+    },
+    {
+        "repo_url": "https://github.com/redeven/VentureTime/raw/master/repository.json",
+        "source_url": "https://github.com/redeven/VentureTime"
+    },
+    {
+        "repo_url": "https://github.com/rkycx/plogons/raw/main/repo.json",
+        "source_url": "https://github.com/rkycx/plogons"
+    },
+    {
+        "repo_url": "https://github.com/ryonive/Dalamud-Darkness-Repo/raw/main/ffxiv_custom_repo.json",
+        "source_url": "https://github.com/ryonive/Dalamud-Darkness-Repo"
+    },
+    {
+        "repo_url": "https://github.com/ryonive/XIVPlugins/raw/main/repo.json",
+        "source_url": "https://github.com/ryonive/XIVPlugins"
+    },
+    {
+        "repo_url": "https://github.com/sicakbirtebessum/PlayerScope/raw/master/repo.json",
+        "source_url": "https://github.com/sicakbirtebessum/PlayerScope"
+    },
+    {
+        "repo_url": "https://github.com/silasary/APxiv/raw/master/repo.json",
+        "source_url": "https://github.com/silasary/APxiv"
+    },
+    {
+        "repo_url": "https://github.com/thakyZ/MyDalamudPlugins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/thakyZ/MyDalamudPlugins",
+        "plugins": [
+            {
+                "plugin_internal_name": "ResetEnmityCommand",
+                "plugin_source_url": "https://github.com/thakyZ/ResetEnmityCommand"
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/zettiverse/DalamudRepo/raw/main/repo.json",
+        "source_url": "https://github.com/zettiverse/DalamudRepo"
+    },
+    {
+        "repo_url": "https://github.com/zettiverse/WondrousTailsCopier/raw/main/WondrousTailsCopier/WondrousTailsCopier.json",
+        "source_url": "https://github.com/zettiverse/WondrousTailsCopier"
+    },
+    {
+        "developer_name": "kaminariss",
+        "repo_url": "https://gitlab.com/kaminariss/nextui-repo/-/raw/main/pluginmaster.json",
+        "source_url": "https://gitlab.com/kaminariss/nextui-plugin",
+        "source_type": "gitlab"
+    },
+    {
+        "developer_name": "monnef",
+        "repo_url": "https://gitlab.com/monnef/dalamud-plugin-repo/-/raw/master/master.json",
+        "source_url": "https://gitlab.com/monnef/dalamud-plugin-repo",
+        "source_type": "gitlab"
+    },
+    {
+        "repo_name": "Main Repo",
+        "repo_url": "https://kamori.goats.dev/Plugin/PluginMaster",
+        "is_allowed_mega_repo": true,
+        "plugins": [
+            {
+                "plugin_internal_name": "Altoholic",
+                "plugin_source_url": "https://github.com/Sohtoren/Altoholic"
+            },
+            {
+                "plugin_internal_name": "AbilityAnts",
+                "plugin_source_url": "https://github.com/attickdoor/AbilityAntsPlugin"
+            },
+            {
+                "plugin_internal_name": "AutoMammet",
+                "plugin_source_url": "https://github.com/Rietty/AutoMammet"
+            },
+            {
+                "plugin_internal_name": "AutoTimer",
+                "plugin_source_url": "https://github.com/s5bug/AutoTimer"
+            },
+            {
+                "plugin_internal_name": "Beachcomber",
+                "plugin_source_url": "https://github.com/rosella500/IslandWorkshopSolver"
+            },
+            {
+                "plugin_internal_name": "BeegWindow",
+                "plugin_source_url": "https://github.com/arcanedisgea/beegwindow"
+            },
+            {
+                "plugin_internal_name": "BetterInBlue",
+                "plugin_source_url": "https://github.com/NotNite/BetterInBlue"
+            },
+            {
+                "plugin_internal_name": "BetterPartyFinder",
+                "plugin_source_url": "https://github.com/sersorrel/BetterPartyFinder"
+            },
+            {
+                "plugin_internal_name": "borderless-fix",
+                "plugin_source_url": "https://github.com/awgil/ffxiv_borderless_fix"
+            },
+            {
+                "plugin_internal_name": "BozjaBuddy",
+                "plugin_source_url": "https://github.com/kaleidocli/BozjaBuddy"
+            },
+            {
+                "plugin_internal_name": "Casexile",
+                "plugin_source_url": "https://gitlab.com/Bakura/casexile"
+            },
+            {
+                "plugin_internal_name": "ChatProximity",
+                "plugin_source_url": "https://github.com/iv230/chat-proximity"
+            },
+            {
+                "plugin_internal_name": "ClarityInChaos",
+                "plugin_source_url": "https://github.com/meoiswa/ClarityInChaos"
+            },
+            {
+                "plugin_internal_name": "CleanHuntChat",
+                "plugin_source_url": "https://github.com/Guerzoniansus/CleanHuntChat"
+            },
+            {
+                "plugin_internal_name": "Congratulations",
+                "plugin_source_url": "https://github.com/jkchen2/ffxiv-congratulations-plugin"
+            },
+            {
+                "plugin_internal_name": "CoordImporter",
+                "plugin_source_url": "https://github.com/zw3lf/ffxiv-coord-importer"
+            },
+            {
+                "plugin_internal_name": "CopyTranslated",
+                "plugin_source_url": "https://github.com/kelvin124124/CopyTranslated"
+            },
+            {
+                "plugin_internal_name": "CraftRemaining",
+                "plugin_source_url": "https://github.com/KoizumiChan/CraftRemnantsXIV"
+            },
+            {
+                "plugin_internal_name": "Dalamud.FindAnything",
+                "plugin_source_url": "https://github.com/goaaats/Dalamud.FindAnything"
+            },
+            {
+                "plugin_internal_name": "Dalamud.LoadingImage",
+                "plugin_source_url": "https://github.com/goaaats/Dalamud.LoadingImage"
+            },
+            {
+                "plugin_internal_name": "DalamudMinesweeper",
+                "plugin_source_url": "https://github.com/hunter2actual/DalamudMinesweeper"
+            },
+            {
+                "plugin_internal_name": "Directional",
+                "plugin_source_url": "https://github.com/herulume/Directional"
+            },
+            {
+                "plugin_internal_name": "DynamicUIScaling",
+                "plugin_source_url": "https://github.com/HybridEidolon/eid-ffxiv-plugins"
+            },
+            {
+                "plugin_internal_name": "EorzeaVotes",
+                "plugin_source_url": "https://git.anna.lgbt/anna/eorzea-votes"
+            },
+            {
+                "plugin_internal_name": "FastJobSwitcher",
+                "plugin_source_url": "https://github.com/meoiswa/fast-job-switcher"
+            },
+            {
+                "plugin_internal_name": "Fungah",
+                "plugin_source_url": "https://github.com/img02/Fungah-Totally-Safe-Spot"
+            },
+            {
+                "plugin_internal_name": "GaugeOMatic",
+                "plugin_source_url": "https://github.com/itsbexy/gaugeomatic"
+            },
+            {
+                "plugin_internal_name": "HarpHero",
+                "plugin_source_url": "https://github.com/MgAl2O4/HarpHeroDalamud"
+            },
+            {
+                "plugin_internal_name": "HotbarHelper",
+                "plugin_source_url": "https://github.com/kiwikahawai/HotbarHelper"
+            },
+            {
+                "plugin_internal_name": "IslandWorkshopSearch",
+                "plugin_source_url": "https://github.com/img02/IslandWorkshopSearch"
+            },
+            {
+                "plugin_internal_name": "MagitekStratagem",
+                "plugin_source_url": "https://github.com/meoiswa/MagitekStratagem"
+            },
+            {
+                "plugin_internal_name": "Malmstone",
+                "plugin_source_url": "https://github.com/pinapelz/ffxiv-malmstone"
+            },
+            {
+                "plugin_internal_name": "OfDungeonsDeep",
+                "plugin_source_url": "https://github.com/NotNite/OfDungeonsDeep"
+            },
+            {
+                "plugin_internal_name": "OhGeeCD",
+                "plugin_source_url": "https://github.com/kiwikahawai/OhGeeCD"
+            },
+            {
+                "plugin_internal_name": "OpenerCreator",
+                "plugin_source_url": "https://github.com/herulume/OpenerCreator"
+            },
+            {
+                "plugin_internal_name": "owofy",
+                "plugin_source_url": "https://github.com/reiichi001/dalamud-owo"
+            },
+            {
+                "plugin_internal_name": "Paggles",
+                "plugin_source_url": "https://github.com/InvoxiPlayGames/paggles-xiv"
+            },
+            {
+                "plugin_internal_name": "PatMe",
+                "plugin_source_url": "https://github.com/MgAl2O4/PatMeDalamud"
+            },
+            {
+                "plugin_internal_name": "PetScale",
+                "plugin_source_url": "https://github.com/Kurochi51/PetScale"
+            },
+            {
+                "plugin_internal_name": "PushyFinder",
+                "plugin_source_url": "https://github.com/lostkagamine/PushyFinder"
+            },
+            {
+                "plugin_internal_name": "RPBlurb",
+                "plugin_source_url": "https://github.com/meoiswa/RPBlurb"
+            },
+            {
+                "plugin_internal_name": "ShowGear",
+                "plugin_source_url": "https://github.com/sersorrel/ShowGear"
+            },
+            {
+                "plugin_internal_name": "SonarPlugin",
+                "plugin_source_url": "https://github.com/FFXIV-Sonar/SonarDistrib"
+            },
+            {
+                "plugin_internal_name": "TalkCopy",
+                "plugin_source_url": "https://github.com/Glyceri/TalkCopy"
+            },
+            {
+                "plugin_internal_name": "TheDot",
+                "plugin_source_url": "https://github.com/eja-git/thedotplugin"
+            },
+            {
+                "plugin_internal_name": "TickTracker",
+                "plugin_source_url": "https://github.com/Kurochi51/TickTracker"
+            },
+            {
+                "plugin_internal_name": "Tilted",
+                "plugin_source_url": "https://github.com/meoiswa/TiltedPlugin"
+            },
+            {
+                "plugin_internal_name": "TooltipNotes",
+                "plugin_source_url": "https://github.com/Lerofni/TooltipNotes"
+            },
+            {
+                "plugin_internal_name": "TriadBuddy",
+                "plugin_source_url": "https://github.com/MgAl2O4/FFTriadBuddyDalamud"
+            },
+            {
+                "plugin_internal_name": "Waitingway.Dalamud",
+                "plugin_source_url": "https://github.com/WorkingRobot/Waitingway"
+            },
+            {
+                "plugin_internal_name": "WhosTalking",
+                "plugin_source_url": "https://github.com/sersorrel/WhosTalking"
+            },
+            {
+                "plugin_internal_name": "Wordsmith",
+                "plugin_source_url": "https://github.com/LadyDefile/Wordsmith-DalamudPlugin"
+            },
+            {
+                "plugin_internal_name": "XIVChat",
+                "plugin_source_url": "https://git.anna.lgbt/XIVChat/XIVChat"
+            },
+            {
+                "plugin_internal_name": "XIVJitterFix",
+                "plugin_source_url": "https://github.com/rootdarkarchon/XIVJitterFix"
+            },
+            {
+                "plugin_internal_name": "XIVWindowResizer",
+                "plugin_source_url": "https://github.com/AlexCSDev/XIVWindowResizer"
+            },
+            {
+                "plugin_internal_name": "GlamourSpamRemover",
+                "plugin_source_url": "https://github.com/Shezwick/GlamourSpamRemover"
+            },
+            {
+                "plugin_internal_name": "AllaganMarket",
+                "plugin_source_url": "https://github.com/Critical-Impact/AllaganMarket"
+            },
+            {
+                "plugin_internal_name": "PennyPincher",
+                "plugin_source_url": "https://github.com/tesu/PennyPincher"
+            },
+            {
+                "plugin_internal_name": "QuestTracker",
+                "plugin_source_url": "https://github.com/isaiahcat/QuestTracker"
+            },
+            {
+                "plugin_internal_name": "AutoBGM",
+                "plugin_source_url": "https://github.com/meoiswa/autobgm"
+            },
+            {
+                "plugin_internal_name": "MultiHit",
+                "plugin_source_url": "https://github.com/Bluefissure/MultiHit"
+            },
+            {
+                "plugin_internal_name": "VoiceDirector",
+                "plugin_source_url": "https://github.com/Noevain/VoiceDirector"
+            },
+            {
+                "plugin_internal_name": "CWLSLastSeenTool",
+                "plugin_source_url": "https://github.com/radax864/CWLSLastSeenTool"
+            },
+            {
+                "plugin_internal_name": "VanillaHotbarExtender",
+                "plugin_source_url": "https://github.com/mustafakalash/VanillaHotbarExtender"
+            },
+            {
+                "plugin_internal_name": "Gamba",
+                "plugin_source_url": "https://github.com/Comfefe/Gamba"
+            },
+            {
+                "plugin_internal_name": "HotbarBackup",
+                "plugin_source_url": "https://github.com/MistralsA/HotbarBackup"
+            },
+            {
+                "plugin_internal_name": "AbsoluteRoleplay",
+                "plugin_source_url": "https://github.com/serifas/AbsoluteRP"
+            },
+            {
+                "plugin_internal_name": "AFKMute",
+                "plugin_source_url": "https://github.com/wompscode/AFKMute"
+            },
+            {
+                "plugin_internal_name": "MountRadio",
+                "plugin_source_url": "https://github.com/Jish2637/MountRadio"
+            },
+            {
+                "plugin_internal_name": "QuietDen",
+                "plugin_source_url": "https://github.com/xorelcodes/QuietTheDen"
+            }
+        ]
+    },
+    {
+        "developer_name": "PunishXIV",
+        "developer_url": "https://puni.sh",
+        "repo_url": "https://love.puni.sh/ment.json",
+        "source_type": "closed"
+    },
+    {
+        "developer_name": "anna",
+        "developer_url": "https://git.anna.lgbt/anna",
+        "repo_url": "https://plugins.anna.lgbt",
+        "source_url": "https://git.anna.lgbt/anna/plugin_repo",
+        "source_type": "gitea"
+    },
+    {
+        "developer_name": "carvel",
+        "developer_url": "https://git.carvel.li/liza",
+        "repo_url": "https://plugins.carvel.li",
+        "source_url": "https://git.carvel.li/liza/plugin-repo",
+        "source_type": "gitea"
+    },
+    {
+        "developer_name": "caraxi",
+        "developer_url": "https://github.com/caraxi",
+        "repo_url": "https://repo.caraxian.com",
+        "source_type": "closed"
+    },
+    {
+        "developer_name": "anna",
+        "developer_url": "https://git.anna.lgbt/anna",
+        "repo_url": "https://repo.heliosphere.app",
+        "source_type": "closed"
+    },
+    {
+        "developer_name": "SlashNephy",
+        "developer_url": "https://github.com/SlashNephy",
+        "repo_url": "https://xiv.starry.blue/plugins/master.json",
+        "source_type": "closed"
+    }
+]
