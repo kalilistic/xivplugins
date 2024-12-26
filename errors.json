@@ -166,26 +166,111 @@
         ]
     },
     {
-        "url": "../data/errors.json",
+        "url": "https://github.com/TheNickoos/FFXIVPluginRepo",
         "errors": [
-            "{'repo_name': 'TheNickoos/FFXIVPluginRepo', 'error': 'Detected as potential unapproved mega repo with 62 different developers.'}",
-            "{'repo_name': 'uiharuayako/DalamudPlugins (CN)', 'error': 'Detected as potential unapproved mega repo with 3 different developers.'}",
-            "{'repo_name': 'Murakumo-JP/eScape', 'error': 'Detected as potential unapproved mega repo with 9 different developers.'}",
-            "{'repo_name': 'AshShade/p', 'error': 'Detected as potential unapproved mega repo with 2 different developers.'}",
-            "{'repo_name': 'NiGuangOwO/DalamudPlugins (CN)', 'error': 'Detected as potential unapproved mega repo with 4 different developers.'}",
-            "{'repo_name': 'Nukoooo/DalamudPlugins (CN)', 'error': 'Detected as potential unapproved mega repo with 2 different developers.'}",
-            "{'repo_name': 'MisaUo/DalamudPlugins (CN)', 'error': 'Detected as potential unapproved mega repo with 2 different developers.'}",
-            "{'repo_name': 'StoiaCode/SeaOfStars', 'error': 'Detected as potential unapproved mega repo with 10 different developers.'}",
-            "{'repo_name': 'IKDprogram/pluginsJson', 'error': 'Detected as potential unapproved mega repo with 2 different developers.'}",
-            "{'repo_name': 'Mara-Dawn/MyDalamudPlugins', 'error': 'Detected as potential unapproved mega repo with 2 different developers.'}",
-            "{'repo_name': 'yuwuhuo/yuwuhuoCNplugins (CN)', 'error': 'Detected as potential unapproved mega repo with 3 different developers.'}",
-            "{'repo_name': 'FairyScript/MyDalamudRepo (CN)', 'error': 'Detected as potential unapproved mega repo with 2 different developers.'}",
-            "{'repo_name': 'theEricPeters/CameraPlugin', 'error': 'Detected as potential unapproved mega repo with 2 different developers.'}",
-            "{'repo_name': 'Valgrifer/MergeDalamudRepo (CN)', 'error': 'Detected as potential unapproved mega repo with 52 different developers.'}",
-            "{'repo_name': 'nite-cat/the-giga-repo', 'error': 'Detected as potential unapproved mega repo with 19 different developers.'}",
-            "{'repo_name': 'tssailzz8/MyPlugins (CN)', 'error': 'Detected as potential unapproved mega repo with 2 different developers.'}",
-            "{'repo_name': 'plottingCreeper/MyDalamudPlugins', 'error': 'Detected as potential unapproved mega repo with 3 different developers.'}",
-            "{'repo_name': 'moewcorp/DalamudPlugins (CN)', 'error': 'Detected as potential unapproved mega repo with 2 different developers.'}"
+            "Detected as potential unapproved mega repo with 62 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/uiharuayako/DalamudPlugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 3 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/Murakumo-JP/eScape",
+        "errors": [
+            "Detected as potential unapproved mega repo with 9 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/AshShade/p",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/NiGuangOwO/DalamudPlugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 4 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/Nukoooo/DalamudPlugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/MisaUo/DalamudPlugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/StoiaCode/SeaOfStars",
+        "errors": [
+            "Detected as potential unapproved mega repo with 10 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/IKDprogram/pluginsJson",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/Mara-Dawn/MyDalamudPlugins",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/yuwuhuo/yuwuhuoCNplugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 3 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/FairyScript/MyDalamudRepo (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/theEricPeters/CameraPlugin",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/Valgrifer/MergeDalamudRepo (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 52 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/nite-cat/the-giga-repo",
+        "errors": [
+            "Detected as potential unapproved mega repo with 19 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/tssailzz8/MyPlugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/plottingCreeper/MyDalamudPlugins",
+        "errors": [
+            "Detected as potential unapproved mega repo with 3 different developers."
+        ]
+    },
+    {
+        "url": "https://github.com/moewcorp/DalamudPlugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 2 different developers."
         ]
     }
 ]
