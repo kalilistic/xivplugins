@@ -53,6 +53,10 @@
         "source_url": "https://github.com/CondeSaheki/MeterWay"
     },
     {
+        "repo_url": "https://github.com/Deccentric/Dalamud-Depot/raw/main/repo.json",
+        "source_url": "https://github.com/Deccentric/Dalamud-Depot"
+    },
+    {
         "repo_url": "https://github.com/Eisenhuth/TrustworthyDalamudPlugins/raw/master/pluginmaster.json",
         "source_url": "https://github.com/Eisenhuth/TrustworthyDalamudPlugins"
     },
@@ -302,6 +306,10 @@
         "source_url": "https://github.com/anya-hichu/DalamudPluginRepo"
     },
     {
+        "repo_url": "https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.json",
+        "source_url": "https://github.com/anya-hichu/DalamudPluginRepo"
+    },
+    {
         "repo_url": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/pluginmaster.json",
         "source_url": "https://github.com/awgil/ffxiv_plugin_distribution"
     },
@@ -424,6 +432,10 @@
                 "plugin_source_url": "https://github.com/thakyZ/ResetEnmityCommand"
             }
         ]
+    },
+    {
+        "repo_url": "https://github.com/yschuurmans/MyDalamudPlugins/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/yschuurmans/MyDalamudPlugins"
     },
     {
         "repo_url": "https://github.com/zettiverse/DalamudRepo/raw/main/repo.json",
@@ -733,6 +745,10 @@
         ]
     },
     {
+        "repo_url": "https://kirisamevanilla.github.io/ffxiv/dalamudrepo.json",
+        "source_type": "closed"
+    },
+    {
         "developer_name": "PunishXIV",
         "developer_url": "https://puni.sh",
         "repo_url": "https://love.puni.sh/ment.json",
@@ -769,21 +785,5 @@
         "developer_url": "https://github.com/SlashNephy",
         "repo_url": "https://xiv.starry.blue/plugins/master.json",
         "source_type": "closed"
-    },
-    {
-        "repo_url": "https://github.com/yschuurmans/MyDalamudPlugins/raw/master/pluginmaster.json",
-        "source_url": "https://github.com/yschuurmans/MyDalamudPlugins"
-    },
-    {
-        "repo_url": "https://github.com/Deccentric/Dalamud-Depot/raw/main/repo.json",
-        "source_url": "https://github.com/Deccentric/Dalamud-Depot"
-    },
-    {
-        "repo_url": "https://kirisamevanilla.github.io/ffxiv/dalamudrepo.json",
-        "source_type": "closed"
-    },
-    {
-    "repo_url": "https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.json",
-    "source_url": "https://github.com/anya-hichu/DalamudPluginRepo"
     }
 ]
