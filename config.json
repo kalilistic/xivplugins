@@ -746,6 +746,8 @@
     },
     {
         "repo_url": "https://kirisamevanilla.github.io/ffxiv/dalamudrepo.json",
+        "developer_name": "kirisamevanilla",
+        "developer_url": "https://github.com/kirisamevanilla",
         "source_type": "closed"
     },
     {
