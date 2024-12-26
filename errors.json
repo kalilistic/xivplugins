@@ -93,6 +93,12 @@
         ]
     },
     {
+        "url": "https://github.com/kirisamevanilla/plugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 3 different developers."
+        ]
+    },
+    {
         "url": "https://github.com/moewcorp/DalamudPlugins (CN)",
         "errors": [
             "Detected as potential unapproved mega repo with 2 different developers."
@@ -143,8 +149,8 @@
             "Entry 248: Duplicate internalName: SomethingNeedDoing",
             "Entry 250: Duplicate internalName: BossMod",
             "Entry 251: Duplicate internalName: vfaux",
-            "Entry 252: Duplicate internalName: visland",
-            "Entry 253: Duplicate internalName: vnavmesh",
+            "Entry 252: Duplicate internalName: vnavmesh",
+            "Entry 253: Duplicate internalName: visland",
             "Entry 257: Duplicate internalName: Moodles",
             "Entry 260: Duplicate internalName: Artisan",
             "Entry 267: Duplicate internalName: YesAlready",
