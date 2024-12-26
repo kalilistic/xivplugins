@@ -769,5 +769,21 @@
         "developer_url": "https://github.com/SlashNephy",
         "repo_url": "https://xiv.starry.blue/plugins/master.json",
         "source_type": "closed"
+    },
+    {
+        "repo_url": "https://github.com/yschuurmans/MyDalamudPlugins/raw/master/pluginmaster.json",
+        "source_url": "https://github.com/yschuurmans/MyDalamudPlugins"
+    },
+    {
+        "repo_url": "https://github.com/Deccentric/Dalamud-Depot/raw/main/repo.json",
+        "source_url": "https://github.com/Deccentric/Dalamud-Depot"
+    },
+    {
+        "repo_url": "https://kirisamevanilla.github.io/ffxiv/dalamudrepo.json",
+        "source_type": "closed"
+    },
+    {
+    "repo_url": "https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.json",
+    "source_url": "https://github.com/anya-hichu/DalamudPluginRepo"
     }
 ]
