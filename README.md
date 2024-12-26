@@ -13,3 +13,5 @@ If your custom repository is missing or the information appears incorrect, you c
 2. Alternatively, raise an issue on GitHub. While issues are acceptable, PRs are preferred for quicker resolution.
 
 You should also check the `errors.json` file for any issues with your repository that may have caused it to be skipped during aggregation.
+
+The data currently updates twice a day at noon and midnight UTC.
