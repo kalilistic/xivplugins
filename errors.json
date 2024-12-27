@@ -8,10 +8,8 @@
     {
         "url": "https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json",
         "errors": [
-            "Entry 1: Duplicate internalName detected.",
-            "Entry 3: Missing both DalamudApiLevel and TestingDalamudApiLevel",
-            "Entry 4: Missing both DalamudApiLevel and TestingDalamudApiLevel",
-            "Entry 5: Missing both DalamudApiLevel and TestingDalamudApiLevel"
+            "Duplicate internalName detected.",
+            "Missing both DalamudApiLevel and TestingDalamudApiLevel"
         ]
     },
     {
@@ -65,13 +63,13 @@
     {
         "url": "https://github.com/PunishXIV/Splatoon/raw/main/Splatoon/Splatoon.json",
         "errors": [
-            "Entry 0: Missing mandatory field."
+            "Missing mandatory field."
         ]
     },
     {
         "url": "https://github.com/Quantity-4/xiv-plugins-repo/raw/main/pluginslist.json",
         "errors": [
-            "Entry 0: Missing both downloadLinkInstall and DownloadLinkTesting"
+            "Missing both downloadLinkInstall and DownloadLinkTesting"
         ]
     },
     {
@@ -119,50 +117,10 @@
     {
         "url": "https://github.com/ryonive/Dalamud-Darkness-Repo/raw/main/ffxiv_custom_repo.json",
         "errors": [
-            "Entry 103: Duplicate internalName detected.",
-            "Entry 124: Duplicate internalName detected.",
-            "Entry 140: Missing both DalamudApiLevel and TestingDalamudApiLevel",
-            "Entry 151: Duplicate internalName detected.",
-            "Entry 161: Duplicate internalName detected.",
-            "Entry 162: Duplicate internalName detected.",
-            "Entry 163: Duplicate internalName detected.",
-            "Entry 164: Duplicate internalName detected.",
-            "Entry 165: Duplicate internalName detected.",
-            "Entry 171: Duplicate internalName detected.",
-            "Entry 178: Missing both DalamudApiLevel and TestingDalamudApiLevel",
-            "Entry 178: Missing both downloadLinkInstall and DownloadLinkTesting",
-            "Entry 178: Missing mandatory field.",
-            "Entry 178: Missing mandatory field.",
-            "Entry 188: Duplicate internalName detected.",
-            "Entry 194: Duplicate internalName detected.",
-            "Entry 201: Duplicate internalName detected.",
-            "Entry 211: Duplicate internalName detected.",
-            "Entry 214: Duplicate internalName detected.",
-            "Entry 221: Duplicate internalName detected.",
-            "Entry 233: Duplicate internalName detected.",
-            "Entry 239: Duplicate internalName detected.",
-            "Entry 240: Duplicate internalName detected.",
-            "Entry 241: Duplicate internalName detected.",
-            "Entry 242: Duplicate internalName detected.",
-            "Entry 243: Duplicate internalName detected.",
-            "Entry 246: Duplicate internalName detected.",
-            "Entry 248: Duplicate internalName detected.",
-            "Entry 250: Duplicate internalName detected.",
-            "Entry 251: Duplicate internalName detected.",
-            "Entry 252: Duplicate internalName detected.",
-            "Entry 253: Duplicate internalName detected.",
-            "Entry 257: Duplicate internalName detected.",
-            "Entry 260: Duplicate internalName detected.",
-            "Entry 267: Duplicate internalName detected.",
-            "Entry 270: Duplicate internalName detected.",
-            "Entry 271: Duplicate internalName detected.",
-            "Entry 276: Missing both DalamudApiLevel and TestingDalamudApiLevel",
-            "Entry 283: Duplicate internalName detected.",
-            "Entry 297: Duplicate internalName detected.",
-            "Entry 298: Duplicate internalName detected.",
-            "Entry 46: Missing both DalamudApiLevel and TestingDalamudApiLevel",
-            "Entry 51: Missing both DalamudApiLevel and TestingDalamudApiLevel",
-            "Entry 90: Duplicate internalName detected."
+            "Duplicate internalName detected.",
+            "Missing both DalamudApiLevel and TestingDalamudApiLevel",
+            "Missing both downloadLinkInstall and DownloadLinkTesting",
+            "Missing mandatory field."
         ]
     },
     {
@@ -192,13 +150,13 @@
     {
         "url": "https://gitlab.com/kaminariss/nextui-repo/-/raw/main/pluginmaster.json",
         "errors": [
-            "Entry 0: Missing DalamudApiLevel on a plugin entry."
+            "Missing DalamudApiLevel on a plugin entry."
         ]
     },
     {
         "url": "https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/pluginmaster.json",
         "errors": [
-            "Entry 1: Missing both DalamudApiLevel and TestingDalamudApiLevel"
+            "Missing both DalamudApiLevel and TestingDalamudApiLevel"
         ]
     },
     {
@@ -252,7 +210,7 @@
     {
         "url": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
         "errors": [
-            "Entry 9: Duplicate internalName detected."
+            "Duplicate internalName detected."
         ]
     },
     {
