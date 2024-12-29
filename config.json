@@ -9,6 +9,11 @@
         "source_url": "https://github.com/0ceal0t/Dalamud-VFXEditor"
     },
     {
+        "repo_url": "https://github.com/44451516/XIVSlothComboPlus/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/44451516/XIVSlothComboPlus",
+        "game_client": "chinese"
+    },
+    {
         "repo_url": "https://github.com/Aether-Tools/CustomizePlus/raw/main/repo.json",
         "source_url": "https://github.com/Aether-Tools/CustomizePlus"
     },
@@ -749,11 +754,6 @@
         "developer_name": "kirisamevanilla",
         "developer_url": "https://github.com/kirisamevanilla",
         "source_type": "closed"
-    },
-    {
-        "repo_url": "https://raw.githubusercontent.com/44451516/XIVSlothComboPlus/main/pluginmaster.json",
-        "source_url": "https://github.com/44451516/XIVSlothComboPlus",
-        "game_client": "chinese"
     },
     {
         "developer_name": "PunishXIV",
