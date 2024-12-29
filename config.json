@@ -433,6 +433,16 @@
         "source_url": "https://github.com/pot0to/DalamudPluginConfigs"
     },
     {
+        "repo_url": "https://github.com/reckhou/DalamudPlugins-Ori/raw/api6/pluginmaster.json",
+        "source_url": "https://github.com/reckhou/DalamudPlugins-Ori",
+        "plugins": [
+            {
+                "plugin_internal_name": "MidiBard2",
+                "plugin_source_url": "https://github.com/reckhou/MidiBard2"
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/redeven/DalamudPluginRepo/raw/master/repository.json",
         "source_url": "https://github.com/redeven/DalamudPluginRepo"
     },
@@ -824,15 +834,5 @@
         "developer_url": "https://github.com/SlashNephy",
         "repo_url": "https://xiv.starry.blue/plugins/master.json",
         "source_type": "closed"
-    },
-    {
-        "repo_url": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
-        "source_url": "https://github.com/reckhou/DalamudPlugins-Ori",
-        "plugins": [
-            {
-                "plugin_internal_name": "MidiBard2",
-                "plugin_source_url": "https://github.com/reckhou/MidiBard2"
-            }
-        ]
     }
 ]
