@@ -751,6 +751,11 @@
         "source_type": "closed"
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/44451516/XIVSlothComboPlus/main/pluginmaster.json",
+        "source_url": "https://github.com/44451516/XIVSlothComboPlus",
+        "game_client": "chinese"
+    },
+    {
         "developer_name": "PunishXIV",
         "developer_url": "https://puni.sh",
         "repo_url": "https://love.puni.sh/ment.json",
