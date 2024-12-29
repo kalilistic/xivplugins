@@ -43,7 +43,17 @@
     },
     {
         "repo_url": "https://github.com/Atomoxide/DalamudPluginRepo/raw/main/pluginmaster.json",
-        "source_url": "https://github.com/Atomoxide/DalamudPluginRepo"
+        "source_url": "https://github.com/Atomoxide/DalamudPluginRepo",
+        "plugins": [
+            {
+                "plugin_internal_name": "TestPlugin",
+                "plugin_source_url": "https://github.com/Atomoxide/HitboxExtend"
+            },
+            {
+                "plugin_internal_name": "DontLookBack",
+                "plugin_source_url": "https://github.com/Atomoxide/DontLookBack"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/Brappp/repo/raw/main/wah.json",
@@ -75,11 +85,27 @@
     },
     {
         "repo_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
-        "source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo"
+        "source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo",
+        "plugins": [
+            {
+                "plugin_internal_name": "RotationSolver",
+                "plugin_source_url": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn"
+            },
+            {
+                "plugin_internal_name": "ActionTimelineEx",
+                "plugin_source_url": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/FFXIV-Sonar/SonarRepo/raw/main/pluginmaster.json",
-        "source_url": "https://github.com/FFXIV-Sonar/SonarRepo"
+        "source_url": "https://github.com/FFXIV-Sonar/SonarRepo",
+        "plugins": [
+            {
+                "plugin_internal_name": "SonarPlugin-preview",
+                "plugin_source_url": "https://github.com/FFXIV-Sonar/SonarDistrib"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/FantasticalMouthpiece/XivVoices/raw/main/repo.json",
@@ -164,7 +190,13 @@
     {
         "repo_url": "https://github.com/Ottermandias/SeaOfStars/raw/main/repo.json",
         "source_url": "https://github.com/Ottermandias/SeaOfStars",
-        "is_allowed_mega_repo": true
+        "is_allowed_mega_repo": true,
+        "plugins": [
+            {
+                "plugin_internal_name": "heliosphere-plugin",
+                "plugin_source_url": "https://github.com/heliosphere-xiv/plugin"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/PassiveModding/Meddle/raw/main/repo.json",
@@ -792,5 +824,15 @@
         "developer_url": "https://github.com/SlashNephy",
         "repo_url": "https://xiv.starry.blue/plugins/master.json",
         "source_type": "closed"
+    },
+    {
+        "repo_url": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
+        "source_url": "https://github.com/reckhou/DalamudPlugins-Ori",
+        "plugins": [
+            {
+                "plugin_internal_name": "MidiBard2",
+                "plugin_source_url": "https://github.com/reckhou/MidiBard2"
+            }
+        ]
     }
 ]
