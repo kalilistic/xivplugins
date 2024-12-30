@@ -571,6 +571,10 @@
         "is_allowed_mega_repo": true,
         "plugins": [
             {
+                "plugin_internal_name": "CurrencySpender",
+                "plugin_source_url": "https://github.com/Blackcatz1911/CurrencySpender"
+            },
+            {
                 "plugin_internal_name": "Altoholic",
                 "plugin_source_url": "https://github.com/Sohtoren/Altoholic"
             },
