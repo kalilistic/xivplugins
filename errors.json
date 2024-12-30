@@ -55,6 +55,12 @@
         ]
     },
     {
+        "url": "https://github.com/None/plugins (CN)",
+        "errors": [
+            "Detected as potential unapproved mega repo with 3 different developers."
+        ]
+    },
+    {
         "url": "https://github.com/Nukoooo/DalamudPlugins (CN)",
         "errors": [
             "Detected as potential unapproved mega repo with 2 different developers."
@@ -88,12 +94,6 @@
         "url": "https://github.com/Valgrifer/MergeDalamudRepo (CN)",
         "errors": [
             "Detected as potential unapproved mega repo with 52 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/kirisamevanilla/plugins (CN)",
-        "errors": [
-            "Detected as potential unapproved mega repo with 3 different developers."
         ]
     },
     {
