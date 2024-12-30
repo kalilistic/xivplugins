@@ -220,7 +220,38 @@
     },
     {
         "repo_url": "https://github.com/RaidenvBlack/RaidenvPlugins/raw/main/repo.json",
-        "source_url": "https://github.com/RaidenvBlack/RaidenvPlugins"
+        "source_url": "https://github.com/RaidenvBlack/RaidenvPlugins",
+        "plugins": [
+            {
+                "plugin_internal_name": "DcNotify",
+                "plugin_source_url": "https://github.com/RaidenvBlack/DcNotify"
+            }
+        ]
+    },
+    {
+        "repo_url": "https://raw.githubusercontent.com/raguilar127/dalamud-plugins/main/plugins.json",
+        "source_url": "https://github.com/raguilar127/dalamud-plugins",
+        "plugins": [
+            {
+                "plugin_internal_name": "AetherCompassPreview",
+                "plugin_source_url": "https://github.com/raguilar127/FFXIVAetherCompass"
+            }
+        ]
+    },
+    {
+        "repo_url": "https://raw.githubusercontent.com/Critical-Impact/PluginRepo/main/plugins.json",
+        "source_url": "https://github.com/Critical-Impact/PluginRepo",
+        "plugins": [
+            {
+                "plugin_internal_name": "InventoryTools2",
+                "plugin_source_url": "https://github.com/Critical-Impact/InventoryTools"
+            }
+        ]
+    },
+    {
+        "repo_url": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/pluginmaster.json",
+        "source_url": "https://github.com/Karlin-Z/DalamudPlugins",
+        "game_client": "chinese"
     },
     {
         "repo_url": "https://github.com/RaidenvBlack/Updated/raw/main/repo.json",
@@ -398,7 +429,13 @@
     },
     {
         "repo_url": "https://github.com/huntsffxiv/repo/raw/main/repo.json",
-        "source_url": "https://github.com/huntsffxiv/repo"
+        "source_url": "https://github.com/huntsffxiv/repo",
+        "plugins": [
+            {
+                "plugin_internal_name": "HuntAlerts",
+                "plugin_source_url": "https://github.com/huntsffxiv/huntalerts"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/ifan0927/test123/raw/main/123.json",
@@ -480,7 +517,13 @@
     },
     {
         "repo_url": "https://github.com/silasary/APxiv/raw/master/repo.json",
-        "source_url": "https://github.com/silasary/APxiv"
+        "source_url": "https://github.com/silasary/APxiv",
+        "plugins": [
+            {
+                "plugin_internal_name": "ArchipelagoXIV",
+                "plugin_source_url": "https://github.com/silasary/APxiv"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/thakyZ/MyDalamudPlugins/raw/main/pluginmaster.json",
@@ -661,7 +704,7 @@
             },
             {
                 "plugin_internal_name": "OhGeeCD",
-                "plugin_source_url": "https://github.com/kiwikahawai/OhGeeCD"
+                "plugin_source_url": "https://github.com/rootdarkarchon/OhGeeCD"
             },
             {
                 "plugin_internal_name": "OpenerCreator",
