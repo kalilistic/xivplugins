@@ -296,7 +296,13 @@
     },
     {
         "repo_url": "https://github.com/ViviAshe/plugins/raw/main/PluginMaster.json",
-        "source_url": "https://github.com/ViviAshe/plugins"
+        "source_url": "https://github.com/ViviAshe/plugins",
+        "plugins": [
+            {
+                "plugin_internal_name": "Snapper",
+                "plugin_source_url": "https://github.com/ViviAshe/XIVSnapper"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/pluginmaster.json",
@@ -308,7 +314,13 @@
     },
     {
         "repo_url": "https://github.com/WilliamW1979/FashionReport/raw/master/FashionReport/FashionReport.json",
-        "source_url": "https://github.com/WilliamW1979/FashionReport"
+        "source_url": "https://github.com/WilliamW1979/FashionReport",
+        "plugins": [
+            {
+                "plugin_internal_name": "FashionReport",
+                "plugin_source_url": "https:/github.com/WilliamW1979/FashionReport"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/WorkingRobot/MyDalamudPlugins/raw/main/goodplogon.json",
