@@ -68,6 +68,16 @@
         "source_url": "https://github.com/CondeSaheki/MeterWay"
     },
     {
+        "repo_url": "https://github.com/Critical-Impact/PluginRepo/raw/main/plugins.json",
+        "source_url": "https://github.com/Critical-Impact/PluginRepo",
+        "plugins": [
+            {
+                "plugin_internal_name": "InventoryTools2",
+                "plugin_source_url": "https://github.com/Critical-Impact/InventoryTools"
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Deccentric/Dalamud-Depot/raw/main/repo.json",
         "source_url": "https://github.com/Deccentric/Dalamud-Depot"
     },
@@ -134,6 +144,11 @@
     {
         "repo_url": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugin_repository.json",
         "source_url": "https://github.com/KangasZ/DalamudPluginRepository"
+    },
+    {
+        "repo_url": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/pluginmaster.json",
+        "source_url": "https://github.com/Karlin-Z/DalamudPlugins",
+        "game_client": "chinese"
     },
     {
         "repo_url": "https://github.com/LeonBlade/DalamudPlugins/raw/main/repo.json",
@@ -227,31 +242,6 @@
                 "plugin_source_url": "https://github.com/RaidenvBlack/DcNotify"
             }
         ]
-    },
-    {
-        "repo_url": "https://raw.githubusercontent.com/raguilar127/dalamud-plugins/main/plugins.json",
-        "source_url": "https://github.com/raguilar127/dalamud-plugins",
-        "plugins": [
-            {
-                "plugin_internal_name": "AetherCompassPreview",
-                "plugin_source_url": "https://github.com/raguilar127/FFXIVAetherCompass"
-            }
-        ]
-    },
-    {
-        "repo_url": "https://raw.githubusercontent.com/Critical-Impact/PluginRepo/main/plugins.json",
-        "source_url": "https://github.com/Critical-Impact/PluginRepo",
-        "plugins": [
-            {
-                "plugin_internal_name": "InventoryTools2",
-                "plugin_source_url": "https://github.com/Critical-Impact/InventoryTools"
-            }
-        ]
-    },
-    {
-        "repo_url": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/pluginmaster.json",
-        "source_url": "https://github.com/Karlin-Z/DalamudPlugins",
-        "game_client": "chinese"
     },
     {
         "repo_url": "https://github.com/RaidenvBlack/Updated/raw/main/repo.json",
@@ -480,6 +470,16 @@
     {
         "repo_url": "https://github.com/pot0to/DalamudPluginConfigs/raw/master/plogon.json",
         "source_url": "https://github.com/pot0to/DalamudPluginConfigs"
+    },
+    {
+        "repo_url": "https://github.com/raguilar127/dalamud-plugins/raw/main/plugins.json",
+        "source_url": "https://github.com/raguilar127/dalamud-plugins",
+        "plugins": [
+            {
+                "plugin_internal_name": "AetherCompassPreview",
+                "plugin_source_url": "https://github.com/raguilar127/FFXIVAetherCompass"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/reckhou/DalamudPlugins-Ori/raw/api6/pluginmaster.json",
