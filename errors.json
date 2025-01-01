@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://github.com/AshShade/p",
-        "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
-        ]
-    },
-    {
         "url": "https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json",
         "errors": [
             "Duplicate internalName detected.",
@@ -13,57 +7,45 @@
         ]
     },
     {
-        "url": "https://github.com/FairyScript/MyDalamudRepo (CN)",
+        "url": "https://github.com/FairyScript/MyDalamudRepo/raw/master/pluginmaster.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/Hiroa/LazyGatherer/raw/main/repo.json",
+        "url": "https://github.com/Feijiuj/DalamudPlugins/raw/main/pluginmaster.json",
         "errors": [
-            "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/IKDprogram/pluginsJson",
+        "url": "https://github.com/IKDprogram/pluginsJson/raw/main/plugin.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/Mara-Dawn/MyDalamudPlugins",
+        "url": "https://github.com/MisaUo/DalamudPlugins/raw/main/pluginmaster.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/MisaUo/DalamudPlugins (CN)",
+        "url": "https://github.com/Murakumo-JP/eScape/raw/main/repo.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/Murakumo-JP/eScape",
+        "url": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/pluginmaster.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 9 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/NiGuangOwO/DalamudPlugins (CN)",
+        "url": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/pluginmaster.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 4 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/None/plugins (CN)",
-        "errors": [
-            "Detected as potential unapproved mega repo with 3 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/Nukoooo/DalamudPlugins (CN)",
-        "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
@@ -79,39 +61,27 @@
         ]
     },
     {
-        "url": "https://github.com/StoiaCode/SeaOfStars",
+        "url": "https://github.com/StoiaCode/SeaOfStars/raw/main/repo.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 10 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/TheNickoos/FFXIVPluginRepo",
+        "url": "https://github.com/Valgrifer/MergeDalamudRepo/raw/master/repo.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 62 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/Valgrifer/MergeDalamudRepo (CN)",
+        "url": "https://github.com/moewcorp/DalamudPlugins/raw/main/pluginmaster.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 52 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/moewcorp/DalamudPlugins (CN)",
+        "url": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/pluginmaster.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/nite-cat/the-giga-repo",
-        "errors": [
-            "Detected as potential unapproved mega repo with 19 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/plottingCreeper/MyDalamudPlugins",
-        "errors": [
-            "Detected as potential unapproved mega repo with 3 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
@@ -124,33 +94,27 @@
         ]
     },
     {
-        "url": "https://github.com/theEricPeters/CameraPlugin",
+        "url": "https://github.com/tssailzz8/MyPlugins/raw/master/pluginmaster.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/tssailzz8/MyPlugins (CN)",
+        "url": "https://github.com/uiharuayako/DalamudPlugins/raw/main/pluginmaster.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 2 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
-        "url": "https://github.com/uiharuayako/DalamudPlugins (CN)",
+        "url": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/pluginmaster.json",
         "errors": [
-            "Detected as potential unapproved mega repo with 3 different developers."
-        ]
-    },
-    {
-        "url": "https://github.com/yuwuhuo/yuwuhuoCNplugins (CN)",
-        "errors": [
-            "Detected as potential unapproved mega repo with 3 different developers."
+            "Detected as potential unapproved mega repo."
         ]
     },
     {
         "url": "https://gitlab.com/kaminariss/nextui-repo/-/raw/main/pluginmaster.json",
         "errors": [
-            "Missing DalamudApiLevel on a plugin entry."
+            "Missing Dalamud API levels."
         ]
     },
     {
@@ -160,51 +124,9 @@
         ]
     },
     {
-        "url": "https://raw.githubusercontent.com/DiceFFXiv/GlobeTrotter/main/pluginmaster.json",
-        "errors": [
-            "Expecting property name enclosed in double quotes: line 22 column 3 (char 991)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/DreanorFFXIV/MyDalamudPlugins/master/pluginmaster.json",
-        "errors": [
-            "Expecting value: line 112 column 1 (char 5209)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Feijiuj/DalamudPlugins/main/pluginmaster.json",
-        "errors": [
-            "Expecting value: line 117 column 5 (char 4298)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Nik-Potokar/Plogons/main/pluginmaster.json",
-        "errors": [
-            "Expecting value: line 28 column 1 (char 1043)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
-        "errors": [
-            "Expecting property name enclosed in double quotes: line 14 column 3 (char 665)"
-        ]
-    },
-    {
         "url": "https://raw.githubusercontent.com/SoanEx/pandoraFix/master/pluginmaster.json",
         "errors": [
-            "Expecting property name enclosed in double quotes: line 4 column 25 (char 61)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/XenHat/MyDalamudPlugins/main/pluginmaster.json",
-        "errors": [
-            "Expecting property name enclosed in double quotes: line 33 column 3 (char 1600)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "errors": [
-            "Expecting property name enclosed in double quotes: line 21 column 3 (char 835)"
+            "Invalid JSON after cleaning: Expecting property name enclosed in double quotes: line 4 column 25 (char 61)"
         ]
     },
     {
@@ -214,27 +136,9 @@
         ]
     },
     {
-        "url": "https://raw.githubusercontent.com/joshua86z/KodakkuAssistScript/main/pluginmaster.json",
-        "errors": [
-            "Expecting property name enclosed in double quotes: line 70 column 3 (char 3011)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/pinapelz/DalamudPlugins/main/pluginmaster.json",
-        "errors": [
-            "Expecting property name enclosed in double quotes: line 45 column 1 (char 1653)"
-        ]
-    },
-    {
         "url": "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json",
         "errors": [
-            "Expecting property name enclosed in double quotes: line 109 column 3 (char 6653)"
-        ]
-    },
-    {
-        "url": "https://raw.githubusercontent.com/zw3lf/goat-repo/main/pluginmaster.json",
-        "errors": [
-            "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
+            "Duplicate internalName detected."
         ]
     }
 ]
