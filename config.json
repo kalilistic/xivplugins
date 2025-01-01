@@ -104,6 +104,22 @@
             {
                 "plugin_internal_name": "ActionTimelineEx",
                 "plugin_source_url": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn"
+            },
+            {
+                "plugin_internal_name": "BossModReborn",
+                "plugin_source_url": "https://github.com/FFXIV-CombatReborn/BossmodReborn"
+            },
+            {
+                "plugin_internal_name": "EasyZoomReborn",
+                "plugin_source_url": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn"
+            },
+            {
+                "plugin_internal_name": "GatherbuddyReborn",
+                "plugin_source_url": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn"
+            },
+            {
+                "plugin_internal_name": "RebornToolbox",
+                "plugin_source_url": "https://github.com/FFXIV-CombatReborn/RebornToolbox"
             }
         ]
     },
@@ -200,9 +216,16 @@
     },
     {
         "repo_url": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/pluginmaster.json",
-        "repo_source_url": "https://github.com/Nukoooo/DalamudPlugins"
+        "repo_source_url": "https://github.com/Nukoooo/DalamudPlugins",
+        "plugins": [
+            {
+                "plugin_internal_name": "FishersIntuition",
+                "plugin_source_url": "https://github.com/Nukoooo/Dalamud.FishersIntuition"
+            }
+        ]
     },
     {
+        "repo_name": "Sea Of Stars",
         "repo_url": "https://github.com/Ottermandias/SeaOfStars/raw/main/repo.json",
         "repo_source_url": "https://github.com/Ottermandias/SeaOfStars",
         "is_allowed_mega_repo": true,
@@ -269,7 +292,13 @@
     },
     {
         "repo_url": "https://github.com/Skooz/Zookins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Skooz/Zookins"
+        "repo_source_url": "https://github.com/Skooz/Zookins",
+        "plugins": [
+            {
+                "plugin_internal_name": "XIVComboTweaks",
+                "plugin_source_url": "https://github.com/Skooz/XIVComboPlugin"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/SlashNephy/divination-distrib/raw/ci/update-plugin-master-0y1ardx/plugins/master.json",
@@ -376,10 +405,6 @@
         "repo_source_url": "https://github.com/anya-hichu/DalamudPluginRepo"
     },
     {
-        "repo_url": "https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.json",
-        "repo_source_url": "https://github.com/anya-hichu/DalamudPluginRepo"
-    },
-    {
         "repo_url": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/awgil/ffxiv_plugin_distribution"
     },
@@ -428,6 +453,16 @@
         ]
     },
     {
+        "repo_url": "https://github.com/iVeigar/MyDalamudPlugins/raw/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/iVeigar/MyDalamudPlugins",
+        "plugins": [
+            {
+                "plugin_internal_name": "TidyChatCN",
+                "plugin_source_url": "https://github.com/iVeigar/TidyChatCN"
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/ifan0927/test123/raw/main/123.json",
         "repo_source_url": "https://github.com/ifan0927/test123"
     },
@@ -466,6 +501,20 @@
     {
         "repo_url": "https://github.com/papapachin/ActionTimelineReplacement/raw/api11/repo.json",
         "repo_source_url": "https://github.com/papapachin/ActionTimelineReplacement"
+    },
+    {
+        "repo_url": "https://github.com/pinapelz/DalamudPlugins/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/pinapelz/DalamudPlugins",
+        "plugins": [
+            {
+                "plugin_internal_name": "Malmstone",
+                "plugin_source_url": "https://github.com/pinapelz/ffxiv-malmstone"
+            },
+            {
+                "plugin_internal_name": "DiscordToXIV",
+                "plugin_source_url": "https://github.com/pinapelz/discord-to-xiv"
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/pot0to/DalamudPluginConfigs/raw/master/plogon.json",
@@ -570,6 +619,10 @@
         "repo_url": "https://kamori.goats.dev/Plugin/PluginMaster",
         "is_allowed_mega_repo": true,
         "plugins": [
+            {
+                "plugin_internal_name": "CurrencySpender",
+                "plugin_source_url": "https://github.com/Blackcatz1911/CurrencySpender"
+            },
             {
                 "plugin_internal_name": "Altoholic",
                 "plugin_source_url": "https://github.com/Sohtoren/Altoholic"
@@ -865,18 +918,18 @@
         "repo_source_type": "closed"
     },
     {
-        "repo_developer_name": "anna",
-        "repo_developer_url": "https://git.anna.lgbt/anna",
-        "repo_url": "https://plugins.anna.lgbt",
-        "repo_source_url": "https://git.anna.lgbt/anna/plugin_repo",
-        "repo_source_type": "gitea"
-    },
-    {
         "repo_developer_name": "carvel",
         "repo_developer_url": "https://git.carvel.li/liza",
         "repo_url": "https://plugins.carvel.li",
         "repo_source_url": "https://git.carvel.li/liza/plugin-repo",
         "repo_source_type": "gitea"
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/croizat",
+        "repo_developer_name": "croizat",
+        "repo_developer_url": "https://github.com/jaksuhn",
+        "repo_source_type": "closed",
+        "repo_game_client": "global"
     },
     {
         "repo_developer_name": "caraxi",
@@ -888,7 +941,13 @@
         "repo_developer_name": "anna",
         "repo_developer_url": "https://git.anna.lgbt/anna",
         "repo_url": "https://repo.heliosphere.app",
-        "repo_source_type": "closed"
+        "repo_source_type": "closed",
+        "plugins": [
+            {
+                "plugin_internal_name": "heliosphere-plugin",
+                "plugin_source_url": "https://github.com/heliosphere-xiv/plugin"
+            }
+        ]
     },
     {
         "repo_developer_name": "SlashNephy",
