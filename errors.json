@@ -49,12 +49,6 @@
         ]
     },
     {
-        "url": "https://github.com/PunishXIV/Splatoon/raw/main/Splatoon/Splatoon.json",
-        "errors": [
-            "Missing mandatory field."
-        ]
-    },
-    {
         "url": "https://github.com/Quantity-4/xiv-plugins-repo/raw/main/pluginslist.json",
         "errors": [
             "Missing both downloadLinkInstall and DownloadLinkTesting"
