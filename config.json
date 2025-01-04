@@ -675,6 +675,10 @@
         "is_allowed_mega_repo": true,
         "plugins": [
             {
+                "plugin_internal_name": "AllaganItemSearch",
+                "plugin_source_url": "https://github.com/Critical-Impact/AllaganItemSearch"
+            },
+            {
                 "plugin_internal_name": "Umbra",
                 "plugin_discord_url": "https://discord.gg/xaEnsuAhmm"
             },
