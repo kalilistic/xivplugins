@@ -94,6 +94,7 @@
         "repo_source_url": "https://github.com/Ewilhan/LMeter"
     },
     {
+        "repo_name": "CombatReborn",
         "repo_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo",
         "plugins": [
@@ -126,6 +127,7 @@
     {
         "repo_url": "https://github.com/FFXIV-Sonar/SonarRepo/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/FFXIV-Sonar/SonarRepo",
+        "repo_discord_url": "https://discord.gg/K7y24Rr",
         "plugins": [
             {
                 "plugin_internal_name": "SonarPlugin-preview",
@@ -203,8 +205,10 @@
         "repo_source_url": "https://github.com/NiGuangOwO/DalamudPlugins"
     },
     {
+        "repo_name": "NightmareXIV",
         "repo_url": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/NightmareXIV/MyDalamudPlugins"
+        "repo_source_url": "https://github.com/NightmareXIV/MyDalamudPlugins",
+        "repo_discord_url": "https://discord.gg/m8NRt4X8Gf"
     },
     {
         "repo_url": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/pluginmaster.json",
@@ -232,7 +236,44 @@
         "plugins": [
             {
                 "plugin_internal_name": "heliosphere-plugin",
-                "plugin_source_url": "https://github.com/heliosphere-xiv/plugin"
+                "plugin_source_url": "https://github.com/heliosphere-xiv/plugin",
+                "plugin_discord_url": "https://discord.gg/3swpspafy2"
+            },
+            {
+                "plugin_internal_name": "Glamourer",
+                "plugin_discord_url": "https://discord.gg/kVva7DHV4r"
+            },
+            {
+                "plugin_internal_name": "Penumbra",
+                "plugin_discord_url": "https://discord.gg/kVva7DHV4r"
+            },
+            {
+                "plugin_internal_name": "CustomizePlus",
+                "plugin_discord_url": "https://discord.gg/KvGJCCnG8t"
+            },
+            {
+                "plugin_internal_name": "SimpleHeels",
+                "plugin_discord_url": "https://discord.gg/eXx7HdMkrU"
+            },
+            {
+                "plugin_internal_name": "MareSynchronos",
+                "plugin_discord_url": "https://discord.gg/5HVveFefcB"
+            },
+            {
+                "plugin_internal_name": "Ktisis",
+                "plugin_discord_url": "https://discord.gg/kUG3W8B8Ny"
+            },
+            {
+                "plugin_internal_name": "Brio",
+                "plugin_discord_url": "https://discord.gg/KvGJCCnG8t"
+            },
+            {
+                "plugin_internal_name": "DynamicBridge",
+                "plugin_discord_url": "https://discord.gg/KvGJCCnG8t"
+            },
+            {
+                "plugin_internal_name": "Moodles",
+                "plugin_discord_url": "https://discord.gg/KvGJCCnG8t"
             }
         ]
     },
@@ -241,16 +282,14 @@
         "repo_source_url": "https://github.com/PassiveModding/Meddle"
     },
     {
+        "repo_name": "Mare Synchronos",
         "repo_url": "https://github.com/Penumbra-Sync/repo/raw/main/plogonmaster.json",
-        "repo_source_url": "https://github.com/Penumbra-Sync/repo"
+        "repo_source_url": "https://github.com/Penumbra-Sync/repo",
+        "repo_discord_url": "https://discord.gg/5HVveFefcB"
     },
     {
         "repo_url": "https://github.com/Project-GagSpeak/repo/raw/main/projectgagspeak.json",
         "repo_source_url": "https://github.com/Project-GagSpeak/repo"
-    },
-    {
-        "repo_url": "https://github.com/PunishXIV/Splatoon/raw/main/Splatoon/Splatoon.json",
-        "repo_source_url": "https://github.com/PunishXIV/Splatoon"
     },
     {
         "repo_url": "https://github.com/Quantity-4/xiv-plugins-repo/raw/main/pluginslist.json",
@@ -484,7 +523,8 @@
     },
     {
         "repo_url": "https://github.com/marzent/IINACT/raw/main/repo.json",
-        "repo_source_url": "https://github.com/marzent/IINACT"
+        "repo_source_url": "https://github.com/marzent/IINACT",
+        "repo_discord_url": "https://discord.gg/pcexJC8YPG"
     },
     {
         "repo_url": "https://github.com/nite-cat/the-giga-repo/raw/main/the-one.json",
@@ -617,8 +657,14 @@
     {
         "repo_name": "Main Repo",
         "repo_url": "https://kamori.goats.dev/Plugin/PluginMaster",
+        "repo_source_url": "https://github.com/goatcorp/DalamudPluginsD17",
+        "repo_discord_url": "https://discord.gg/3NMcUV5",
         "is_allowed_mega_repo": true,
         "plugins": [
+            {
+                "plugin_internal_name": "Umbra",
+                "plugin_discord_url": "https://discord.gg/xaEnsuAhmm"
+            },
             {
                 "plugin_internal_name": "CurrencySpender",
                 "plugin_source_url": "https://github.com/Blackcatz1911/CurrencySpender"
@@ -793,7 +839,8 @@
             },
             {
                 "plugin_internal_name": "SonarPlugin",
-                "plugin_source_url": "https://github.com/FFXIV-Sonar/SonarDistrib"
+                "plugin_source_url": "https://github.com/FFXIV-Sonar/SonarDistrib",
+                "plugin_discord_url": "https://discord.gg/K7y24Rr"
             },
             {
                 "plugin_internal_name": "TalkCopy",
@@ -912,34 +959,33 @@
         "repo_source_type": "closed"
     },
     {
+        "repo_name": "Puni.sh/Core",
         "repo_developer_name": "PunishXIV",
         "repo_developer_url": "https://puni.sh",
         "repo_url": "https://love.puni.sh/ment.json",
+        "repo_discord_url": "https://discord.gg/Zzrcc8kmvy",
         "repo_source_type": "closed"
     },
     {
         "repo_developer_name": "carvel",
         "repo_developer_url": "https://git.carvel.li/liza",
+        "repo_discord_url": "https://discord.gg/3Pep6GN26H",
         "repo_url": "https://plugins.carvel.li",
         "repo_source_url": "https://git.carvel.li/liza/plugin-repo",
         "repo_source_type": "gitea"
     },
     {
-        "repo_url": "https://puni.sh/api/repository/croizat",
-        "repo_developer_name": "croizat",
-        "repo_developer_url": "https://github.com/jaksuhn",
-        "repo_source_type": "closed",
-        "repo_game_client": "global"
-    },
-    {
         "repo_developer_name": "caraxi",
         "repo_developer_url": "https://github.com/caraxi",
+        "repo_discord_url": "https://discord.gg/eXx7HdMkrU",
         "repo_url": "https://repo.caraxian.com",
         "repo_source_type": "closed"
     },
     {
+        "repo_name": "Heliosphere",
         "repo_developer_name": "anna",
         "repo_developer_url": "https://git.anna.lgbt/anna",
+        "repo_discord_url": "https://discord.gg/3swpspafy2",
         "repo_url": "https://repo.heliosphere.app",
         "repo_source_type": "closed",
         "plugins": [
@@ -950,9 +996,115 @@
         ]
     },
     {
+        "repo_name": "Divination",
         "repo_developer_name": "SlashNephy",
         "repo_developer_url": "https://github.com/SlashNephy",
         "repo_url": "https://xiv.starry.blue/plugins/master.json",
         "repo_source_type": "closed"
+    },
+    {
+        "repo_name": "Puni.sh/kawaii",
+        "repo_developer_name": "kawaii",
+        "repo_developer_url": "https://github.com/kawaii",
+        "repo_url": "https://puni.sh/api/repository/kawaii",
+        "repo_source_type": "closed"
+    },
+    {
+        "repo_name": "Puni.sh/taurenkey",
+        "repo_developer_name": "Taurenkey",
+        "repo_developer_url": "https://github.com/Taurenkey",
+        "repo_url": "https://puni.sh/api/repository/taurenkey",
+        "repo_source_type": "closed",
+        "plugins": [
+            {
+                "plugin_internal_name": "ReActionEx",
+                "plugin_source_url": "https://github.com/Taurenkey/ReActionEX"
+            }
+        ]
+    },
+    {
+        "repo_name": "Puni.sh/veyn",
+        "repo_developer_name": "veyn",
+        "repo_developer_url": "https://github.com/awgil",
+        "repo_url": "https://puni.sh/api/repository/veyn",
+        "repo_source_type": "closed",
+        "plugins": [
+            {
+                "plugin_internal_name": "vsatisfy",
+                "plugin_source_url": "https://github.com/awgil/ffxiv_satisfy"
+            },
+            {
+                "plugin_internal_name": "vnavmesh",
+                "plugin_source_url": "https://github.com/awgil/ffxiv_navmesh"
+            },
+            {
+                "plugin_internal_name": "vfallguy",
+                "plugin_source_url": "https://github.com/awgil/ffxiv_vfallguy"
+            }
+        ]
+    },
+    {
+        "repo_name": "Puni.sh/croizat",
+        "repo_url": "https://puni.sh/api/repository/croizat",
+        "repo_developer_name": "Croizat",
+        "repo_developer_url": "https://github.com/jaksuhn",
+        "repo_source_type": "closed",
+        "repo_game_client": "combined"
+    },
+    {
+        "repo_name": "Puni.sh/det",
+        "repo_developer_name": "Det",
+        "repo_developer_url": "https://github.com/InitialDet",
+        "repo_url": "https://puni.sh/api/repository/det",
+        "repo_source_type": "closed",
+        "repo_game_client": "chinese"
+    },
+    {
+        "repo_name": "Puni.sh/ice",
+        "repo_developer_name": "Ice",
+        "repo_developer_url": "https://github.com/LeontopodiumNivale14",
+        "repo_url": "https://puni.sh/api/repository/ice",
+        "repo_source_type": "closed",
+        "is_allowed_mega_repo": true,
+        "plugins": [
+            {
+                "plugin_internal_name": "ExplorersIcebox",
+                "plugin_source_url": "https://github.com/LeontopodiumNivale14/Explorers-Icebox"
+            }
+        ]
+    },
+    {
+        "repo_name": "Puni.sh/jukka",
+        "repo_developer_name": "Jukka",
+        "repo_developer_url": "https://github.com/Jukkales",
+        "repo_url": "https://puni.sh/api/repository/jukka",
+        "repo_source_type": "closed"
+    },
+    {
+        "repo_name": "Puni.sh/herculezz",
+        "repo_developer_name": "Herculezz",
+        "repo_developer_url": "https://github.com/ffxivcode",
+        "repo_url": "https://puni.sh/api/repository/herc",
+        "repo_source_type": "closed"
+    },
+    {
+        "repo_name": "Puni.sh/sourpuh",
+        "repo_developer_name": "Sourpuh",
+        "repo_developer_url": "https://github.com/sourpuh",
+        "repo_url": "https://puni.sh/api/repository/sourpuh",
+        "repo_source_type": "closed"
+    },
+    {
+        "repo_name": "paissaheavyindustries",
+        "repo_url": "https://github.com/paissaheavyindustries/Dalamud-Repo/raw/main/repo.json",
+        "repo_source_url": "https://github.com/paissaheavyindustries/Dalamud-Repo",
+        "repo_discord_url": "https://discord.gg/6f9MY55"
+    },
+    {
+        "repo_name": "paissaheavyindustries (CN)",
+        "repo_url": "https://github.com/paissaheavyindustries/Dalamud-Repo/raw/main/repo_cn.json",
+        "repo_source_url": "https://github.com/paissaheavyindustries/Dalamud-Repo",
+        "repo_discord_url": "https://discord.gg/6f9MY55",
+        "repo_game_client": "chinese"
     }
 ]
