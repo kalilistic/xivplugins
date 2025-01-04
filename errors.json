@@ -124,6 +124,12 @@
         ]
     },
     {
+        "url": "https://raw.githubusercontent.com/FlawedBliss/DalamudPlugins/main/plugins.json",
+        "errors": [
+            "Missing both downloadLinkInstall and DownloadLinkTesting"
+        ]
+    },
+    {
         "url": "https://raw.githubusercontent.com/SoanEx/pandoraFix/master/pluginmaster.json",
         "errors": [
             "Invalid JSON after cleaning: Expecting property name enclosed in double quotes: line 4 column 25 (char 61)"
