@@ -697,6 +697,10 @@
         "is_allowed_mega_repo": true,
         "plugins": [
             {
+                "plugin_internal_name": "ContactsTracker",
+                "plugin_source_url": "https://github.com/DueDine/ContactsTracker"
+            },
+            {
                 "plugin_internal_name": "AllaganItemSearch",
                 "plugin_source_url": "https://github.com/Critical-Impact/AllaganItemSearch"
             },
