@@ -205,6 +205,12 @@
         "repo_source_url": "https://github.com/NiGuangOwO/DalamudPlugins"
     },
     {
+        "repo_url": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/NiGuangOwO/DalamudPlugins",
+        "repo_game_client": "chinese",
+        "is_allowed_mega_repo": true
+    },
+    {
         "repo_name": "NightmareXIV",
         "repo_url": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/NightmareXIV/MyDalamudPlugins",
@@ -227,6 +233,12 @@
                 "plugin_source_url": "https://github.com/Nukoooo/Dalamud.FishersIntuition"
             }
         ]
+    },
+    {
+        "repo_url": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/pluginmaster.json",
+        "repo_source_url": "https://github.com/Nukoooo/DalamudPlugins",
+        "repo_game_client": "chinese",
+        "is_allowed_mega_repo": true
     },
     {
         "repo_name": "Sea Of Stars",
@@ -527,6 +539,12 @@
         "repo_discord_url": "https://discord.gg/pcexJC8YPG"
     },
     {
+        "repo_url": "https://github.com/moewcorp/DalamudPlugins/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/moewcorp/DalamudPlugins",
+        "repo_game_client": "chinese",
+        "is_allowed_mega_repo": true
+    },
+    {
         "repo_url": "https://github.com/nite-cat/the-giga-repo/raw/main/the-one.json",
         "repo_source_url": "https://github.com/nite-cat/the-giga-repo"
     },
@@ -636,6 +654,18 @@
                 "plugin_source_url": "https://github.com/thakyZ/ResetEnmityCommand"
             }
         ]
+    },
+    {
+        "repo_url": "https://github.com/tssailzz8/MyPlugins/raw/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/tssailzz8/MyPlugins",
+        "repo_game_client": "chinese",
+        "is_allowed_mega_repo": true
+    },
+    {
+        "repo_url": "https://github.com/uiharuayako/DalamudPlugins/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/uiharuayako/DalamudPlugins",
+        "repo_game_client": "chinese",
+        "is_allowed_mega_repo": true
     },
     {
         "repo_url": "https://github.com/yschuurmans/MyDalamudPlugins/raw/master/pluginmaster.json",
@@ -1110,35 +1140,5 @@
         "repo_developer_url": "https://github.com/SlashNephy",
         "repo_url": "https://xiv.starry.blue/plugins/master.json",
         "repo_source_type": "closed"
-    },
-    {
-        "repo_url": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/NiGuangOwO/DalamudPlugins",
-        "repo_game_client": "chinese",
-        "is_allowed_mega_repo": true
-    },
-    {
-        "repo_url": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/pluginmaster.json",
-        "repo_source_url": "https://github.com/Nukoooo/DalamudPlugins",
-        "repo_game_client": "chinese",
-        "is_allowed_mega_repo": true
-    },
-    {
-        "repo_url": "https://github.com/moewcorp/DalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/moewcorp/DalamudPlugins",
-        "repo_game_client": "chinese",
-        "is_allowed_mega_repo": true
-    },
-    {
-        "repo_url": "https://github.com/tssailzz8/MyPlugins/raw/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/tssailzz8/MyPlugins",
-        "repo_game_client": "chinese",
-        "is_allowed_mega_repo": true
-    },
-    {
-        "repo_url": "https://github.com/uiharuayako/DalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/uiharuayako/DalamudPlugins",
-        "repo_game_client": "chinese",
-        "is_allowed_mega_repo": true
     }
 ]

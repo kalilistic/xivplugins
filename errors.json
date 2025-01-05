@@ -67,12 +67,6 @@
         ]
     },
     {
-        "url": "https://github.com/moewcorp/DalamudPlugins/raw/main/pluginmaster.json",
-        "errors": [
-            "Detected as potential unapproved mega repo."
-        ]
-    },
-    {
         "url": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/pluginmaster.json",
         "errors": [
             "Detected as potential unapproved mega repo."
@@ -85,18 +79,6 @@
             "Missing both DalamudApiLevel and TestingDalamudApiLevel",
             "Missing both downloadLinkInstall and DownloadLinkTesting",
             "Missing mandatory field."
-        ]
-    },
-    {
-        "url": "https://github.com/tssailzz8/MyPlugins/raw/master/pluginmaster.json",
-        "errors": [
-            "Detected as potential unapproved mega repo."
-        ]
-    },
-    {
-        "url": "https://github.com/uiharuayako/DalamudPlugins/raw/main/pluginmaster.json",
-        "errors": [
-            "Detected as potential unapproved mega repo."
         ]
     },
     {
