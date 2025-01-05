@@ -37,18 +37,6 @@
         ]
     },
     {
-        "url": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/pluginmaster.json",
-        "errors": [
-            "Detected as potential unapproved mega repo."
-        ]
-    },
-    {
-        "url": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/pluginmaster.json",
-        "errors": [
-            "Detected as potential unapproved mega repo."
-        ]
-    },
-    {
         "url": "https://github.com/Quantity-4/xiv-plugins-repo/raw/main/pluginslist.json",
         "errors": [
             "Missing both downloadLinkInstall and DownloadLinkTesting"
