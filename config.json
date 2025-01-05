@@ -202,10 +202,6 @@
     },
     {
         "repo_url": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/NiGuangOwO/DalamudPlugins"
-    },
-    {
-        "repo_url": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/NiGuangOwO/DalamudPlugins",
         "repo_game_client": "chinese",
         "is_allowed_mega_repo": true
@@ -227,18 +223,14 @@
     {
         "repo_url": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/pluginmaster.json",
         "repo_source_url": "https://github.com/Nukoooo/DalamudPlugins",
+        "repo_game_client": "chinese",
+        "is_allowed_mega_repo": true,
         "plugins": [
             {
                 "plugin_internal_name": "FishersIntuition",
                 "plugin_source_url": "https://github.com/Nukoooo/Dalamud.FishersIntuition"
             }
         ]
-    },
-    {
-        "repo_url": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/pluginmaster.json",
-        "repo_source_url": "https://github.com/Nukoooo/DalamudPlugins",
-        "repo_game_client": "chinese",
-        "is_allowed_mega_repo": true
     },
     {
         "repo_name": "Sea Of Stars",
