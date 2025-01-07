@@ -1,20 +1,8 @@
 [
     {
-        "url": "https://api.github.com/repos/Aireil/MyDalamudPlugins",
-        "errors": [
-            "504 Server Error: Gateway Timeout for url: https://api.github.com/repos/Aireil/MyDalamudPlugins"
-        ]
-    },
-    {
         "url": "https://api.github.com/repos/UcanPatatess/MyDalamudPlugins",
         "errors": [
             "404 Client Error: Not Found for url: https://api.github.com/repos/UcanPatatess/MyDalamudPlugins"
-        ]
-    },
-    {
-        "url": "https://api.github.com/repos/nik-potokar/mydalamudplugins",
-        "errors": [
-            "504 Server Error: Gateway Timeout for url: https://api.github.com/repos/nik-potokar/mydalamudplugins"
         ]
     },
     {
@@ -64,6 +52,12 @@
         "url": "https://github.com/StoiaCode/SeaOfStars/raw/main/repo.json",
         "errors": [
             "Detected as potential unapproved mega repo."
+        ]
+    },
+    {
+        "url": "https://github.com/TheNickoos/FFXIVPluginRepo/raw/master/repo.json",
+        "errors": [
+            "Missing both downloadLinkInstall and DownloadLinkTesting"
         ]
     },
     {
