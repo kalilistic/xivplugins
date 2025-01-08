@@ -55,12 +55,6 @@
         ]
     },
     {
-        "url": "https://github.com/TheNickoos/FFXIVPluginRepo/raw/master/repo.json",
-        "errors": [
-            "Missing both downloadLinkInstall and DownloadLinkTesting"
-        ]
-    },
-    {
         "url": "https://github.com/Valgrifer/MergeDalamudRepo/raw/master/repo.json",
         "errors": [
             "Detected as potential unapproved mega repo."
@@ -79,12 +73,6 @@
             "Missing both DalamudApiLevel and TestingDalamudApiLevel",
             "Missing both downloadLinkInstall and DownloadLinkTesting",
             "Missing mandatory field."
-        ]
-    },
-    {
-        "url": "https://github.com/thakyZ/MyDalamudPlugins/raw/main/pluginmaster.json",
-        "errors": [
-            "Missing both downloadLinkInstall and DownloadLinkTesting"
         ]
     },
     {
